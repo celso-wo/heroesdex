@@ -1,0 +1,59 @@
+/* Empty. Add your own CSS if you like */
+
+@font-face {
+    font-family: Metronic;
+    src: url(../fonts/MetronicforBlizzard-Bold.ttf) format("truetype");
+    font-weight: 700;
+    color: #fff;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Metronic;
+    src: url(../fonts/MetronicforBlizzard.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+.item.hero {
+  padding: 0;
+  border-color: #090119;
+  height: 80px;
+  background-color: #090119;
+}
+  .item.hero img {
+    margin-top: -22px;
+  }
+
+  .item.hero .hero-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-left: 200px;
+    padding-top: 10px;
+    background: linear-gradient(to right, rgba(255,0,0,0) 35%, RGBA(9, 1, 25, 1) 50%);
+  }
+
+    .item.hero .hero-container h1 {
+      font-family: 'Metronic';
+      text-transform: uppercase;
+      font-weight: 400;
+      color: white;
+      font-size: 20pt;
+    }
+
+    .item.hero .hero-container h2 {
+      font-family: 'Metronic';
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #8eb1bc;
+      font-size: 10pt;
+    }
+
+span.tab-title {
+  font-family: 'Metronic';
+  text-transform: uppercase;
+  font-weight: 700;
+}

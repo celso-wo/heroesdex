@@ -1,0 +1,13 @@
+<ion-view view-title="Heroes">
+  <ion-content class="">
+    <ul class="list">
+      <ion-item class="item hero" ng-repeat="hero in heroes">
+        <img ng-src="{{hero.image}}"/>
+        <div class="hero-container">
+          <h1>{{hero.name}}</h1>
+          <h2>{{hero.title}}</h2>
+        </div>
+      </ion-item>
+    </ul>
+  </ion-content>
+</ion-view>
