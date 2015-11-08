@@ -24,41 +24,41 @@ var heroes =
     "trait": {
       "name": "Locust Strain",
       "description": "Spawns a Locust to attack down the nearest lane every 15 seconds. Locusts last for 25 seconds.",
-      "icon": "/images/heroes/skills/icons/abathur_locustStrain.jpg",
+      "icon": "images/heroes/skills/icons/abathur_locustStrain.jpg",
       "slug": "locustStrain"
     },
     "skins": [
       {
         "name": "Evolution Master",
         "analyticsName": "Evolution Master",
-        "image": "/images/heroes/skins/frames/evolutionMaster_frame.jpg",
+        "image": "images/heroes/skins/frames/evolutionMaster_frame.jpg",
         "slug": "evolutionMaster",
         "source": "/videos/heroes/skins/abathur_evolutionMaster",
-        "thumbnail": "/images/heroes/skins/thumbnails/abathur_evolutionMaster.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/abathur_evolutionMaster.jpg"
       },
       {
         "name": "Master Abathur",
         "analyticsName": "Master Abathur",
-        "image": "/images/heroes/skins/frames/masterAbathur_frame.jpg",
+        "image": "images/heroes/skins/frames/masterAbathur_frame.jpg",
         "slug": "masterAbathur",
         "source": "/videos/heroes/skins/abathur_masterAbathur",
-        "thumbnail": "/images/heroes/skins/thumbnails/abathur_masterAbathur.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/abathur_masterAbathur.jpg"
       },
       {
         "name": "Pajamathur Abathur",
         "analyticsName": "Pajamathur Abathur",
-        "image": "/images/heroes/skins/frames/pajamathurAbathur_frame.jpg",
+        "image": "images/heroes/skins/frames/pajamathurAbathur_frame.jpg",
         "slug": "pajamathurAbathur",
         "source": "/videos/heroes/skins/abathur_pajamathurAbathur",
-        "thumbnail": "/images/heroes/skins/thumbnails/abathur_pajamathurAbathur.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/abathur_pajamathurAbathur.jpg"
       },
       {
         "name": "Skelethur Abathur",
         "analyticsName": "Skelethur Abathur",
-        "image": "/images/heroes/skins/frames/skelethurAbathur_frame.jpg",
+        "image": "images/heroes/skins/frames/skelethurAbathur_frame.jpg",
         "slug": "skelethurAbathur",
         "source": "/videos/heroes/skins/abathur_skelethurAbathur",
-        "thumbnail": "/images/heroes/skins/thumbnails/abathur_skelethurAbathur.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/abathur_skelethurAbathur.jpg"
       }
     ],
     "abilities": [
@@ -68,8 +68,8 @@ var heroes =
         "video": "",
         "slug": "symbiote",
         "analyticsName": "Symbiote",
-        "icon": "/images/heroes/skills/icons/abathur_symbiote.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/abathur_symbiote.jpg"
+        "icon": "images/heroes/skills/icons/abathur_symbiote.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/abathur_symbiote.jpg"
       },
       {
         "name": "Toxic Nest",
@@ -77,8 +77,8 @@ var heroes =
         "video": "",
         "slug": "toxicNest",
         "analyticsName": "Toxic Nest",
-        "icon": "/images/heroes/skills/icons/abathur_toxicNest.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/abathur_toxicNest.jpg"
+        "icon": "images/heroes/skills/icons/abathur_toxicNest.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/abathur_toxicNest.jpg"
       }
     ],
     "heroicAbilities": [
@@ -88,8 +88,8 @@ var heroes =
         "video": "",
         "slug": "ultimateEvolution",
         "analyticsName": "Ultimate Evolution",
-        "icon": "/images/heroes/skills/icons/abathur_ultimateEvolution.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/abathur_ultimateEvolution.jpg"
+        "icon": "images/heroes/skills/icons/abathur_ultimateEvolution.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/abathur_ultimateEvolution.jpg"
       },
       {
         "name": "Evolve Monstrosity",
@@ -97,14 +97,14 @@ var heroes =
         "video": "",
         "slug": "evolveMonstrosity",
         "analyticsName": "Evolve Monstrosity",
-        "icon": "/images/heroes/skills/icons/abathur_evolveMonstrosity.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/abathur_evolveMonstrosity.jpg"
+        "icon": "images/heroes/skills/icons/abathur_evolveMonstrosity.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/abathur_evolveMonstrosity.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/abathur.jpg"
+    "busts": "images/heroes/busts/abathur.jpg"
   },
   {
     "name": "Anub'arak",
@@ -130,41 +130,41 @@ var heroes =
     "trait": {
       "name": "Scarab Host",
       "description": "Spawn a Beetle and Anub'arak's location whenever he casts a spell. Beetles last for 10 seconds, attacking nearby enemies for light damage.",
-      "icon": "/images/heroes/skills/icons/anubarak_scarabHost.jpg",
+      "icon": "images/heroes/skills/icons/anubarak_scarabHost.jpg",
       "slug": "scarabHost"
     },
     "skins": [
       {
         "name": "Traitor King",
         "analyticsName": "Traitor King",
-        "image": "/images/heroes/skins/frames/traitorKing_frame.jpg",
+        "image": "images/heroes/skins/frames/traitorKing_frame.jpg",
         "slug": "traitorKing",
         "source": "/videos/heroes/skins/anubarak_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/anubarak_traitorKing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/anubarak_traitorKing.jpg"
       },
       {
         "name": "Master Anub'arak",
         "analyticsName": "Master Anub'arak",
-        "image": "/images/heroes/skins/frames/masterAnubarak_frame.jpg",
+        "image": "images/heroes/skins/frames/masterAnubarak_frame.jpg",
         "slug": "masterAnubarak",
         "source": "/videos/heroes/skins/anubarak_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/anubarak_masterAnubarak.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/anubarak_masterAnubarak.jpg"
       },
       {
         "name": "Cyb'arak Anub'arak",
         "analyticsName": "Cyb'arak Anub'arak",
-        "image": "/images/heroes/skins/frames/cybarakAnubarak_frame.jpg",
+        "image": "images/heroes/skins/frames/cybarakAnubarak_frame.jpg",
         "slug": "cybarakAnubarak",
         "source": "/videos/heroes/skins/anubarak_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/anubarak_cybarakAnubarak.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/anubarak_cybarakAnubarak.jpg"
       },
       {
         "name": "Love Bug Anub'arak",
         "analyticsName": "Love Bug Anub'arak",
-        "image": "/images/heroes/skins/frames/loveBugAnubarak_frame.jpg",
+        "image": "images/heroes/skins/frames/loveBugAnubarak_frame.jpg",
         "slug": "loveBugAnubarak",
         "source": "/videos/heroes/skins/anubarak_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/anubarak_loveBugAnubarak.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/anubarak_loveBugAnubarak.jpg"
       }
     ],
     "abilities": [
@@ -174,8 +174,8 @@ var heroes =
         "video": "qBLyOPWzlRk",
         "slug": "impale",
         "analyticsName": "Impale",
-        "icon": "/images/heroes/skills/icons/anubarak_impale.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/anubarak_impale.jpg"
+        "icon": "images/heroes/skills/icons/anubarak_impale.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/anubarak_impale.jpg"
       },
       {
         "name": "Harden Carapace",
@@ -183,8 +183,8 @@ var heroes =
         "video": "-paBKJV7u5E",
         "slug": "hardenCarapace",
         "analyticsName": "Harden Carapace",
-        "icon": "/images/heroes/skills/icons/anubarak_hardenCarapace.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/anubarak_hardenCarapace.jpg"
+        "icon": "images/heroes/skills/icons/anubarak_hardenCarapace.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/anubarak_hardenCarapace.jpg"
       },
       {
         "name": "Burrow Charge",
@@ -192,8 +192,8 @@ var heroes =
         "video": "dzb2YOH2Y3U",
         "slug": "burrowCharge",
         "analyticsName": "Burrow Charge",
-        "icon": "/images/heroes/skills/icons/anubarak_burrowCharge.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/anubarak_burrowCharge.jpg"
+        "icon": "images/heroes/skills/icons/anubarak_burrowCharge.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/anubarak_burrowCharge.jpg"
       }
     ],
     "heroicAbilities": [
@@ -203,8 +203,8 @@ var heroes =
         "video": "Tddkp-cJEoo",
         "slug": "locustSwarm",
         "analyticsName": "Locust Swarm",
-        "icon": "/images/heroes/skills/icons/anubarak_locustSwarm.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/anubarak_locustSwarm.jpg"
+        "icon": "images/heroes/skills/icons/anubarak_locustSwarm.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/anubarak_locustSwarm.jpg"
       },
       {
         "name": "Web Blast",
@@ -212,15 +212,15 @@ var heroes =
         "video": "OueN20zQzlI",
         "slug": "webBlast",
         "analyticsName": "Web Blast",
-        "icon": "/images/heroes/skills/icons/anubarak_webBlast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/anubarak_webBlast.jpg"
+        "icon": "images/heroes/skills/icons/anubarak_webBlast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/anubarak_webBlast.jpg"
       }
     ],
     "revealed": true,
     "video": "6n-e60uOLTU",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/anubarak.jpg"
+    "busts": "images/heroes/busts/anubarak.jpg"
   },
   {
     "name": "Artanis",
@@ -246,33 +246,33 @@ var heroes =
     "trait": {
       "name": "Shield Overload",
       "description": "Automatically gain a powerful shield for 5 seconds when you take damage while below 50% health. Your basic attacks lower the shield’s cooldown by 4 seconds.",
-      "icon": "/images/heroes/skills/icons/artanis_shieldOverload.jpg",
+      "icon": "images/heroes/skills/icons/artanis_shieldOverload.jpg",
       "slug": "shieldOverload"
     },
     "skins": [
       {
         "name": "Hierarch of the Daelaam",
         "analyticsName": "Hierarch of the Daelaam",
-        "image": "/images/heroes/skins/frames/hierarchOfTheDaelaam_frame.jpg",
+        "image": "images/heroes/skins/frames/hierarchOfTheDaelaam_frame.jpg",
         "slug": "hierarchOfTheDaelaam",
         "source": "/videos/heroes/skins/artanis_1",
-        "thumbnail": "/images/heroes/skins/artanis1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/artanis1_thumb.jpg"
       },
       {
         "name": "Master Artanis",
         "analyticsName": "Master Artanis",
-        "image": "/images/heroes/skins/frames/masterArtanis_frame.jpg",
+        "image": "images/heroes/skins/frames/masterArtanis_frame.jpg",
         "slug": "masterArtanis",
         "source": "/videos/heroes/skins/artanis_2",
-        "thumbnail": "/images/heroes/skins/artanis2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/artanis2_thumb.jpg"
       },
       {
         "name": "Purifier Artanis",
         "analyticsName": "Purifier Artanis",
-        "image": "/images/heroes/skins/frames/purifierArtanis_frame.jpg",
+        "image": "images/heroes/skins/frames/purifierArtanis_frame.jpg",
         "slug": "purifierArtanis",
         "source": "/videos/heroes/skins/artanis_3",
-        "thumbnail": "/images/heroes/skins/artanis3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/artanis3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -282,8 +282,8 @@ var heroes =
         "video": "",
         "slug": "bladeDash",
         "analyticsName": "Blade Dash",
-        "icon": "/images/heroes/skills/icons/artanis_bladeDash.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/artanis_bladeDash.jpg"
+        "icon": "images/heroes/skills/icons/artanis_bladeDash.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/artanis_bladeDash.jpg"
       },
       {
         "name": "Twin Blades",
@@ -291,8 +291,8 @@ var heroes =
         "video": "",
         "slug": "twinBlades",
         "analyticsName": "Twin Blades",
-        "icon": "/images/heroes/skills/icons/artanis_twinBlades.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/artanis_twinBlades.jpg"
+        "icon": "images/heroes/skills/icons/artanis_twinBlades.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/artanis_twinBlades.jpg"
       },
       {
         "name": "Phase Prism",
@@ -300,8 +300,8 @@ var heroes =
         "video": "",
         "slug": "phasePrism",
         "analyticsName": "Phase Prism",
-        "icon": "/images/heroes/skills/icons/artanis_phasePrism.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/artanis_phasePrism.jpg"
+        "icon": "images/heroes/skills/icons/artanis_phasePrism.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/artanis_phasePrism.jpg"
       }
     ],
     "heroicAbilities": [
@@ -311,8 +311,8 @@ var heroes =
         "video": "",
         "slug": "suppressionPulse",
         "analyticsName": "Suppression Pulse",
-        "icon": "/images/heroes/skills/icons/artanis_suppressionPulse.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/artanis_suppressionPulse.jpg"
+        "icon": "images/heroes/skills/icons/artanis_suppressionPulse.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/artanis_suppressionPulse.jpg"
       },
       {
         "name": "Purifier Beam",
@@ -320,14 +320,14 @@ var heroes =
         "video": "",
         "slug": "purifierBeam",
         "analyticsName": "Purifier Beam",
-        "icon": "/images/heroes/skills/icons/artanis_purifierBeam.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/artanis_purifierBeam.jpg"
+        "icon": "images/heroes/skills/icons/artanis_purifierBeam.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/artanis_purifierBeam.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/artanis.jpg"
+    "busts": "images/heroes/busts/artanis.jpg"
   },
   {
     "name": "Arthas",
@@ -353,41 +353,41 @@ var heroes =
     "trait": {
       "name": "Frostmourne Hungers",
       "description": "Activate to make your next Basic Attack strike immediately, do 100% increased damage, and restore a moderate amount of Mana.",
-      "icon": "/images/heroes/skills/icons/arthas_frostmourneHungers.jpg",
+      "icon": "images/heroes/skills/icons/arthas_frostmourneHungers.jpg",
       "slug": "frostmourneHungers"
     },
     "skins": [
       {
         "name": "The Lich King",
         "analyticsName": "The Lich King",
-        "image": "/images/heroes/skins/frames/theLichKing_frame.jpg",
+        "image": "images/heroes/skins/frames/theLichKing_frame.jpg",
         "slug": "theLichKing",
         "source": "/videos/heroes/skins/arthas_theLichKing",
-        "thumbnail": "/images/heroes/skins/thumbnails/arthas_theLichKing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/arthas_theLichKing.jpg"
       },
       {
         "name": "Master Arthas",
         "analyticsName": "Master Arthas",
-        "image": "/images/heroes/skins/frames/masterArthas_frame.jpg",
+        "image": "images/heroes/skins/frames/masterArthas_frame.jpg",
         "slug": "masterArthas",
         "source": "/videos/heroes/skins/arthas_masterArthas",
-        "thumbnail": "/images/heroes/skins/thumbnails/arthas_masterArthas.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/arthas_masterArthas.jpg"
       },
       {
         "name": "Frost Wyrm Arthas",
         "analyticsName": "Frost Wyrm Arthas",
-        "image": "/images/heroes/skins/frames/frostWyrmArthas_frame.jpg",
+        "image": "images/heroes/skins/frames/frostWyrmArthas_frame.jpg",
         "slug": "frostWyrmArthas",
         "source": "/videos/heroes/skins/arthas_frostWyrmArthas",
-        "thumbnail": "/images/heroes/skins/thumbnails/arthas_frostWyrmArthas.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/arthas_frostWyrmArthas.jpg"
       },
       {
         "name": "Crown Prince Arthas",
         "analyticsName": "Crown Prince Arthas",
-        "image": "/images/heroes/skins/frames/crownPrinceArthas_frame.jpg",
+        "image": "images/heroes/skins/frames/crownPrinceArthas_frame.jpg",
         "slug": "crownPrinceArthas",
         "source": "/videos/heroes/skins/arthas_crownPrinceArthas",
-        "thumbnail": "/images/heroes/skins/thumbnails/arthas_crownPrinceArthas.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/arthas_crownPrinceArthas.jpg"
       }
     ],
     "abilities": [
@@ -397,8 +397,8 @@ var heroes =
         "video": "",
         "slug": "deathCoil",
         "analyticsName": "Death Coil",
-        "icon": "/images/heroes/skills/icons/arthas_deathCoil.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/arthas_deathCoil.jpg"
+        "icon": "images/heroes/skills/icons/arthas_deathCoil.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/arthas_deathCoil.jpg"
       },
       {
         "name": "Howling Blast",
@@ -406,8 +406,8 @@ var heroes =
         "video": "",
         "slug": "howlingBlast",
         "analyticsName": "Howling Blast",
-        "icon": "/images/heroes/skills/icons/arthas_howlingBlast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/arthas_howlingBlast.jpg"
+        "icon": "images/heroes/skills/icons/arthas_howlingBlast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/arthas_howlingBlast.jpg"
       },
       {
         "name": "Frozen Tempest",
@@ -415,8 +415,8 @@ var heroes =
         "video": "",
         "slug": "frozenTempest",
         "analyticsName": "Frozen Tempest",
-        "icon": "/images/heroes/skills/icons/arthas_frozenTempest.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/arthas_frozenTempest.jpg"
+        "icon": "images/heroes/skills/icons/arthas_frozenTempest.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/arthas_frozenTempest.jpg"
       }
     ],
     "heroicAbilities": [
@@ -426,8 +426,8 @@ var heroes =
         "video": "",
         "slug": "summonSindragosa",
         "analyticsName": "Summon Sindragosa",
-        "icon": "/images/heroes/skills/icons/arthas_summonSindragosa.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/arthas_summonSindragosa.jpg"
+        "icon": "images/heroes/skills/icons/arthas_summonSindragosa.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/arthas_summonSindragosa.jpg"
       },
       {
         "name": "Army Of The Dead",
@@ -435,14 +435,14 @@ var heroes =
         "video": "",
         "slug": "armyOfTheDead",
         "analyticsName": "Army Of The Dead",
-        "icon": "/images/heroes/skills/icons/arthas_armyOfTheDead.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/arthas_armyOfTheDead.jpg"
+        "icon": "images/heroes/skills/icons/arthas_armyOfTheDead.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/arthas_armyOfTheDead.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/arthas.jpg"
+    "busts": "images/heroes/busts/arthas.jpg"
   },
   {
     "name": "Azmodan",
@@ -468,33 +468,33 @@ var heroes =
     "trait": {
       "name": "General of Hell",
       "description": "Summon a Demon Lieutenant at an allied Mercenary, Minion, or Summon. The lieutenant will march with the target, granting 15% increased damage and 15% increased maximum health to all nearby friendly Mercenaries, Minions, and Summons. Unlimited range.",
-      "icon": "/images/heroes/skills/icons/azmodan_generalOfHell.jpg",
+      "icon": "images/heroes/skills/icons/azmodan_generalOfHell.jpg",
       "slug": "generalOfHell"
     },
     "skins": [
       {
         "name": "Lord of Sin",
         "analyticsName": "Lord of Sin",
-        "image": "/images/heroes/skins/frames/lordOfSin_frame.jpg",
+        "image": "images/heroes/skins/frames/lordOfSin_frame.jpg",
         "slug": "lordOfSin",
         "source": "/videos/heroes/skins/azmodan_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/azmodan_lordOfSin.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/azmodan_lordOfSin.jpg"
       },
       {
         "name": "Master Azmodan",
         "analyticsName": "Master Azmodan",
-        "image": "/images/heroes/skins/frames/masterAzmodan_frame.jpg",
+        "image": "images/heroes/skins/frames/masterAzmodan_frame.jpg",
         "slug": "masterAzmodan",
         "source": "/videos/heroes/skins/azmodan_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/azmodan_masterAzmodan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/azmodan_masterAzmodan.jpg"
       },
       {
         "name": "Az'guldan Azmodan",
         "analyticsName": "Az'guldan Azmodan",
-        "image": "/images/heroes/skins/frames/azguldanAzmodan_frame.jpg",
+        "image": "images/heroes/skins/frames/azguldanAzmodan_frame.jpg",
         "slug": "azguldanAzmodan",
         "source": "/videos/heroes/skins/azmodan_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/azmodan_azguldanAzmodan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/azmodan_azguldanAzmodan.jpg"
       }
     ],
     "abilities": [
@@ -504,8 +504,8 @@ var heroes =
         "video": "XmqOGg9vzuY",
         "slug": "globeOfAnnihilation",
         "analyticsName": "Globe of Annihilation",
-        "icon": "/images/heroes/skills/icons/azmodan_globeOfAnnihilation.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/azmodan_globeOfAnnihilation.jpg"
+        "icon": "images/heroes/skills/icons/azmodan_globeOfAnnihilation.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/azmodan_globeOfAnnihilation.jpg"
       },
       {
         "name": "Summon Demon Warrior",
@@ -513,8 +513,8 @@ var heroes =
         "video": "fxh7dhdBaVQ",
         "slug": "summonDemonWarrior",
         "analyticsName": "Summon Demon Warrior",
-        "icon": "/images/heroes/skills/icons/azmodan_summonDemonWarrior.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/azmodan_summonDemonWarrior.jpg"
+        "icon": "images/heroes/skills/icons/azmodan_summonDemonWarrior.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/azmodan_summonDemonWarrior.jpg"
       },
       {
         "name": "All Shall Burn",
@@ -522,8 +522,8 @@ var heroes =
         "video": "kI9v1KJH-8A",
         "slug": "allShallBurn",
         "analyticsName": "All Shall Burn",
-        "icon": "/images/heroes/skills/icons/azmodan_allShallBurn.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/azmodan_allShallBurn.jpg"
+        "icon": "images/heroes/skills/icons/azmodan_allShallBurn.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/azmodan_allShallBurn.jpg"
       }
     ],
     "heroicAbilities": [
@@ -533,8 +533,8 @@ var heroes =
         "video": "x3LuwWxTP30",
         "slug": "demonicInvasion",
         "analyticsName": "Demonic Invasion",
-        "icon": "/images/heroes/skills/icons/azmodan_demonicInvasion.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/azmodan_demonicInvasion.jpg"
+        "icon": "images/heroes/skills/icons/azmodan_demonicInvasion.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/azmodan_demonicInvasion.jpg"
       },
       {
         "name": "Black Pool",
@@ -542,15 +542,15 @@ var heroes =
         "video": "yYffijJW7hc",
         "slug": "blackPool",
         "analyticsName": "Black Pool",
-        "icon": "/images/heroes/skills/icons/azmodan_blackPool.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/azmodan_blackPool.jpg"
+        "icon": "images/heroes/skills/icons/azmodan_blackPool.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/azmodan_blackPool.jpg"
       }
     ],
     "revealed": true,
     "video": "YkLH1kkKCZ4",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/azmodan.jpg"
+    "busts": "images/heroes/busts/azmodan.jpg"
   },
   {
     "name": "Brightwing",
@@ -576,41 +576,41 @@ var heroes =
     "trait": {
       "name": "Soothing Mist",
       "description": "Brightwing heals nearby allied Heroes for a moderate amount every 5 seconds.",
-      "icon": "/images/heroes/skills/icons/brightwing_soothingMist.jpg",
+      "icon": "images/heroes/skills/icons/brightwing_soothingMist.jpg",
       "slug": "soothingMist"
     },
     "skins": [
       {
         "name": "Faerie Dragon",
         "analyticsName": "Faerie Dragon",
-        "image": "/images/heroes/skins/frames/faerieDragon_frame.jpg",
+        "image": "images/heroes/skins/frames/faerieDragon_frame.jpg",
         "slug": "faerieDragon",
         "source": "/videos/heroes/skins/Brightwing1",
-        "thumbnail": "/images/heroes/skins/thumbnails/brightwing_faerieDragon.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/brightwing_faerieDragon.jpg"
       },
       {
         "name": "Master Brightwing",
         "analyticsName": "Master Brightwing",
-        "image": "/images/heroes/skins/frames/masterBrightwing_frame.jpg",
+        "image": "images/heroes/skins/frames/masterBrightwing_frame.jpg",
         "slug": "masterBrightwing",
         "source": "/videos/heroes/skins/brightwing_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/brightwing_masterBrightwing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/brightwing_masterBrightwing.jpg"
       },
       {
         "name": "Monarch Brightwing",
         "analyticsName": "Monarch",
-        "image": "/images/heroes/skins/frames/monarchBrightwing_frame.jpg",
+        "image": "images/heroes/skins/frames/monarchBrightwing_frame.jpg",
         "slug": "monarchBrightwing",
         "source": "/videos/heroes/skins/Brightwing2",
-        "thumbnail": "/images/heroes/skins/thumbnails/brightwing_monarchBrightwing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/brightwing_monarchBrightwing.jpg"
       },
       {
         "name": "Luxorian Monkey Brightwing",
         "analyticsName": "Luxorian Monkey Brightwing",
-        "image": "/images/heroes/skins/frames/luxorianMonkeyBrightwing_frame.jpg",
+        "image": "images/heroes/skins/frames/luxorianMonkeyBrightwing_frame.jpg",
         "slug": "luxorianMonkeyBrightwing",
         "source": "/videos/heroes/skins/brightwing_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/brightwing_luxorianMonkeyBrightwing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/brightwing_luxorianMonkeyBrightwing.jpg"
       }
     ],
     "abilities": [
@@ -620,8 +620,8 @@ var heroes =
         "video": "71sJW8SXxeo",
         "slug": "arcaneFlare",
         "analyticsName": "Arcane Flare",
-        "icon": "/images/heroes/skills/icons/brightwing_arcaneFlare.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/brightwing_thumb-arcaneFlare.jpg"
+        "icon": "images/heroes/skills/icons/brightwing_arcaneFlare.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/brightwing_thumb-arcaneFlare.jpg"
       },
       {
         "name": "Polymorph",
@@ -629,8 +629,8 @@ var heroes =
         "video": "O0dMmZ2yYbU",
         "slug": "polymorph",
         "analyticsName": "Polymorph",
-        "icon": "/images/heroes/skills/icons/brightwing_polymorph.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/brightwing_thumb-polymorph.jpg"
+        "icon": "images/heroes/skills/icons/brightwing_polymorph.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/brightwing_thumb-polymorph.jpg"
       },
       {
         "name": "Pixie Dust",
@@ -638,8 +638,8 @@ var heroes =
         "video": "8yJd5vBjBFM",
         "slug": "pixieDust",
         "analyticsName": "Pixie Dust",
-        "icon": "/images/heroes/skills/icons/brightwing_pixieDust.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/brightwing_thumb-pixieDust.jpg"
+        "icon": "images/heroes/skills/icons/brightwing_pixieDust.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/brightwing_thumb-pixieDust.jpg"
       }
     ],
     "heroicAbilities": [
@@ -649,8 +649,8 @@ var heroes =
         "video": "EK7ic3CLGIo",
         "slug": "emeraldWind",
         "analyticsName": "Emerald Wind",
-        "icon": "/images/heroes/skills/icons/brightwing_emeraldWind.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/brightwing_thumb-emeraldWind.jpg"
+        "icon": "images/heroes/skills/icons/brightwing_emeraldWind.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/brightwing_thumb-emeraldWind.jpg"
       },
       {
         "name": "Blink Heal",
@@ -658,15 +658,15 @@ var heroes =
         "video": "oG2lLTuyCc4",
         "slug": "blinkHeal",
         "analyticsName": "Blink Heal",
-        "icon": "/images/heroes/skills/icons/brightwing_blinkHeal.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/brightwing_thumb-blinkHeal.jpg"
+        "icon": "images/heroes/skills/icons/brightwing_blinkHeal.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/brightwing_thumb-blinkHeal.jpg"
       }
     ],
     "revealed": true,
     "video": "pTIVP8ZPXSg",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/brightwing.jpg"
+    "busts": "images/heroes/busts/brightwing.jpg"
   },
   {
     "name": "Chen",
@@ -692,41 +692,41 @@ var heroes =
     "trait": {
       "name": "Fortifying Brew",
       "description": "Drink from your keg, gaining 40 Brew and temporary Shields each second, eventually resulting in a massive Shield that persists for 2 seconds after you stop drinking.",
-      "icon": "/images/heroes/skills/icons/chen_fortifyingBrew.jpg",
+      "icon": "images/heroes/skills/icons/chen_fortifyingBrew.jpg",
       "slug": "fortifyingBrew"
     },
     "skins": [
       {
         "name": "Legendary Brewmaster",
         "analyticsName": "Brewmaster",
-        "image": "/images/heroes/skins/frames/legendaryBrewmaster_frame.jpg",
+        "image": "images/heroes/skins/frames/legendaryBrewmaster_frame.jpg",
         "slug": "legendaryBrewmaster",
         "source": "/videos/heroes/skins/Chen_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/chen_legendaryBrewmaster.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/chen_legendaryBrewmaster.jpg"
       },
       {
         "name": "Master Chen",
         "analyticsName": "Master Chen",
-        "image": "/images/heroes/skins/frames/masterChen_frame.jpg",
+        "image": "images/heroes/skins/frames/masterChen_frame.jpg",
         "slug": "masterChen",
         "source": "/videos/heroes/skins/chen_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/chen_masterChen.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/chen_masterChen.jpg"
       },
       {
         "name": "Warmaster Chen",
         "analyticsName": "Warmaster",
-        "image": "/images/heroes/skins/frames/warmasterChen_frame.jpg",
+        "image": "images/heroes/skins/frames/warmasterChen_frame.jpg",
         "slug": "warmasterChen",
         "source": "/videos/heroes/skins/Chen_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/chen_warmasterChen.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/chen_warmasterChen.jpg"
       },
       {
         "name": "Elder Chen",
         "analyticsName": "Elder Chen",
-        "image": "/images/heroes/skins/frames/elderChen_frame.jpg",
+        "image": "images/heroes/skins/frames/elderChen_frame.jpg",
         "slug": "elderChen",
         "source": "/videos/heroes/skins/chen_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/chen_elderChen.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/chen_elderChen.jpg"
       }
     ],
     "abilities": [
@@ -736,8 +736,8 @@ var heroes =
         "video": "_fdjZ_l26Nw",
         "slug": "flyingKick",
         "analyticsName": "Flying Kick",
-        "icon": "/images/heroes/skills/icons/chen_flyingKick.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/chen_thumb-flyingKick.jpg"
+        "icon": "images/heroes/skills/icons/chen_flyingKick.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/chen_thumb-flyingKick.jpg"
       },
       {
         "name": "Keg Smash",
@@ -745,8 +745,8 @@ var heroes =
         "video": "ZxeQuSI67qQ",
         "slug": "kegSmash",
         "analyticsName": "Keg Smash",
-        "icon": "/images/heroes/skills/icons/chen_kegSmash.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/chen_thumb-kegSmash.jpg"
+        "icon": "images/heroes/skills/icons/chen_kegSmash.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/chen_thumb-kegSmash.jpg"
       },
       {
         "name": "Breath of Fire",
@@ -754,8 +754,8 @@ var heroes =
         "video": "cbWvaYbGkM4",
         "slug": "breathOfFire",
         "analyticsName": "Breath of Fire",
-        "icon": "/images/heroes/skills/icons/chen_breathOfFire.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/chen_thumb-breathOfFire.jpg"
+        "icon": "images/heroes/skills/icons/chen_breathOfFire.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/chen_thumb-breathOfFire.jpg"
       }
     ],
     "heroicAbilities": [
@@ -765,8 +765,8 @@ var heroes =
         "video": "UScvzq-YX_o",
         "slug": "wanderingKeg",
         "analyticsName": "Wandering Keg",
-        "icon": "/images/heroes/skills/icons/chen_wanderingKeg.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/chen_thumb-wanderingKeg.jpg"
+        "icon": "images/heroes/skills/icons/chen_wanderingKeg.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/chen_thumb-wanderingKeg.jpg"
       },
       {
         "name": "Storm, Earth, Fire",
@@ -774,15 +774,15 @@ var heroes =
         "video": "KWLtxzDIeno",
         "slug": "stormEarthFire",
         "analyticsName": "Storm, Earth, Fire",
-        "icon": "/images/heroes/skills/icons/chen_stormEarthFire.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/chen_thumb-stormEarthFire.jpg"
+        "icon": "images/heroes/skills/icons/chen_stormEarthFire.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/chen_thumb-stormEarthFire.jpg"
       }
     ],
     "revealed": true,
     "video": "z_dP6QdVDo0",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/chen.jpg"
+    "busts": "images/heroes/busts/chen.jpg"
   },
   {
     "name": "Cho'gall",
@@ -806,7 +806,7 @@ var heroes =
     "franchise": "warcraft",
     "analyticsName": "Cho'gall",
     "trait": {
-      "icon": "/images/heroes/skills/icons/chogall_twoHeaded.jpg",
+      "icon": "images/heroes/skills/icons/chogall_twoHeaded.jpg",
       "slug": "twoHeaded"
     },
     "skins": [],
@@ -834,33 +834,33 @@ var heroes =
         "trait": {
           "name": "Two-Headed",
           "description": "Gall is permanently attached to you, going where you go.",
-          "icon": "/images/heroes/skills/icons/cho_twoHeaded.jpg",
+          "icon": "images/heroes/skills/icons/cho_twoHeaded.jpg",
           "slug": "twoHeaded"
         },
         "skins": [
           {
             "name": "Twilight's Hammer Chieftain",
             "analyticsName": "Twilight's Hammer Chieftain",
-            "image": "/images/heroes/skins/cho1_frame.jpg",
+            "image": "images/heroes/skins/cho1_frame.jpg",
             "slug": "twilightsHammerChieftainCho",
             "source": "/videos/heroes/skins/cho_1",
-            "thumbnail": "/images/heroes/skins/cho1_thumb.jpg"
+            "thumbnail": "images/heroes/skins/cho1_thumb.jpg"
           },
           {
             "name": "Master Cho'gall",
             "analyticsName": "Master Chogall",
-            "image": "/images/heroes/skins/cho2_frame.jpg",
+            "image": "images/heroes/skins/cho2_frame.jpg",
             "slug": "masterCho",
             "source": "/videos/heroes/skins/cho_2",
-            "thumbnail": "/images/heroes/skins/cho2_thumb.jpg"
+            "thumbnail": "images/heroes/skins/cho2_thumb.jpg"
           },
           {
             "name": "Corruptor Cho'gall",
             "analyticsName": "Corruptor Chogall",
-            "image": "/images/heroes/skins/cho3_frame.jpg",
+            "image": "images/heroes/skins/cho3_frame.jpg",
             "slug": "corruptorCho",
             "source": "/videos/heroes/skins/cho_3",
-            "thumbnail": "/images/heroes/skins/cho3_thumb.jpg"
+            "thumbnail": "images/heroes/skins/cho3_thumb.jpg"
           }
         ],
         "abilities": [
@@ -870,8 +870,8 @@ var heroes =
             "video": "",
             "slug": "surgingFist",
             "analyticsName": "Surging Fist",
-            "icon": "/images/heroes/skills/icons/cho_surgingFist.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/cho_surgingFist.jpg"
+            "icon": "images/heroes/skills/icons/cho_surgingFist.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/cho_surgingFist.jpg"
           },
           {
             "name": "Consuming Blaze",
@@ -879,8 +879,8 @@ var heroes =
             "video": "",
             "slug": "consumingBlaze",
             "analyticsName": "Consuming Blaze",
-            "icon": "/images/heroes/skills/icons/cho_consumingBlaze.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/cho_consumingBlaze.jpg"
+            "icon": "images/heroes/skills/icons/cho_consumingBlaze.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/cho_consumingBlaze.jpg"
           },
           {
             "name": "Rune Bomb",
@@ -888,8 +888,8 @@ var heroes =
             "video": "",
             "slug": "runeBomb",
             "analyticsName": "Rune Bomb",
-            "icon": "/images/heroes/skills/icons/cho_runeBomb.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/cho_runeBomb.jpg"
+            "icon": "images/heroes/skills/icons/cho_runeBomb.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/cho_runeBomb.jpg"
           }
         ],
         "heroicAbilities": [
@@ -899,8 +899,8 @@ var heroes =
             "video": "",
             "slug": "hammerOfTwilight",
             "analyticsName": "Hammer of Twilight",
-            "icon": "/images/heroes/skills/icons/cho_hammerOfTwilight.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/cho_hammerOfTwilight.jpg"
+            "icon": "images/heroes/skills/icons/cho_hammerOfTwilight.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/cho_hammerOfTwilight.jpg"
           },
           {
             "name": "Upheaval",
@@ -908,8 +908,8 @@ var heroes =
             "video": "",
             "slug": "upheaval",
             "analyticsName": "Upheaval",
-            "icon": "/images/heroes/skills/icons/cho_upheaval.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/cho_upheaval.jpg"
+            "icon": "images/heroes/skills/icons/cho_upheaval.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/cho_upheaval.jpg"
           }
         ],
         "revealed": true,
@@ -937,33 +937,33 @@ var heroes =
         "trait": {
           "name": "Two-Headed",
           "description": "Your head is attached to Cho.",
-          "icon": "/images/heroes/skills/icons/gall_twoHeaded.jpg",
+          "icon": "images/heroes/skills/icons/gall_twoHeaded.jpg",
           "slug": "twoHeaded"
         },
         "skins": [
           {
             "name": "Twilight's Hammer Chieftain",
             "analyticsName": "Twilight's Hammer Chieftain",
-            "image": "/images/heroes/skins/gall1_frame.jpg",
+            "image": "images/heroes/skins/gall1_frame.jpg",
             "slug": "twilightsHammerChieftainGall",
             "source": "/videos/heroes/skins/gall_1",
-            "thumbnail": "/images/heroes/skins/gall1_thumb.jpg"
+            "thumbnail": "images/heroes/skins/gall1_thumb.jpg"
           },
           {
             "name": "Master Cho'gall",
             "analyticsName": "Master Chogall",
-            "image": "/images/heroes/skins/gall2_frame.jpg",
+            "image": "images/heroes/skins/gall2_frame.jpg",
             "slug": "masterGall",
             "source": "/videos/heroes/skins/gall_2",
-            "thumbnail": "/images/heroes/skins/gall2_thumb.jpg"
+            "thumbnail": "images/heroes/skins/gall2_thumb.jpg"
           },
           {
             "name": "Corruptor Cho'gall",
             "analyticsName": "Corruptor Chogall",
-            "image": "/images/heroes/skins/gall3_frame.jpg",
+            "image": "images/heroes/skins/gall3_frame.jpg",
             "slug": "corruptorGall",
             "source": "/videos/heroes/skins/gall_3",
-            "thumbnail": "/images/heroes/skins/gall3_thumb.jpg"
+            "thumbnail": "images/heroes/skins/gall3_thumb.jpg"
           }
         ],
         "abilities": [
@@ -973,8 +973,8 @@ var heroes =
             "video": "",
             "slug": "shadowFlame",
             "analyticsName": "Shadow Flame",
-            "icon": "/images/heroes/skills/icons/gall_shadowFlame.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/gall_shadowFlame.jpg"
+            "icon": "images/heroes/skills/icons/gall_shadowFlame.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/gall_shadowFlame.jpg"
           },
           {
             "name": "Dread Orb",
@@ -982,8 +982,8 @@ var heroes =
             "video": "",
             "slug": "dreadOrb",
             "analyticsName": "Dread Orb",
-            "icon": "/images/heroes/skills/icons/gall_dreadOrb.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/gall_dreadOrb.jpg"
+            "icon": "images/heroes/skills/icons/gall_dreadOrb.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/gall_dreadOrb.jpg"
           },
           {
             "name": "Runic Blast",
@@ -991,8 +991,8 @@ var heroes =
             "video": "",
             "slug": "runicBlast",
             "analyticsName": "Runic Blast",
-            "icon": "/images/heroes/skills/icons/gall_runicBlast.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/gall_runicBlast.jpg"
+            "icon": "images/heroes/skills/icons/gall_runicBlast.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/gall_runicBlast.jpg"
           }
         ],
         "heroicAbilities": [
@@ -1002,8 +1002,8 @@ var heroes =
             "video": "",
             "slug": "twistingNether",
             "analyticsName": "Twisting Nether",
-            "icon": "/images/heroes/skills/icons/gall_twistingNether.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/gall_twistingNether.jpg"
+            "icon": "images/heroes/skills/icons/gall_twistingNether.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/gall_twistingNether.jpg"
           },
           {
             "name": "Shadow Bolt Volley",
@@ -1011,8 +1011,8 @@ var heroes =
             "video": "",
             "slug": "shadowBoltValley",
             "analyticsName": "Shadow Bolt Valley",
-            "icon": "/images/heroes/skills/icons/gall_shadowBoltValley.jpg",
-            "thumbnail": "/images/heroes/skills/thumbnails/gall_shadowBoltValley.jpg"
+            "icon": "images/heroes/skills/icons/gall_shadowBoltValley.jpg",
+            "thumbnail": "images/heroes/skills/thumbnails/gall_shadowBoltValley.jpg"
           }
         ],
         "revealed": true,
@@ -1023,7 +1023,7 @@ var heroes =
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/chogall.jpg"
+    "busts": "images/heroes/busts/chogall.jpg"
   },
   {
     "name": "Diablo",
@@ -1049,49 +1049,49 @@ var heroes =
     "trait": {
       "name": "Black Soulstone",
       "description": "Gain 10 Souls per Hero killed, or 1 per Minion. For each Soul, increase maximum Health by a small amount. If you have 100 Souls upon dying, you resurrect in 5 seconds and lose 100 Souls. Maximum 100 Souls.",
-      "icon": "/images/heroes/skills/icons/diablo_blackSoulstone.jpg",
+      "icon": "images/heroes/skills/icons/diablo_blackSoulstone.jpg",
       "slug": "blackSoulstone"
     },
     "skins": [
       {
         "name": "Lord of Terror",
         "analyticsName": "Lord of Terror",
-        "image": "/images/heroes/skins/frames/lordOfTerror_frame.jpg",
+        "image": "images/heroes/skins/frames/lordOfTerror_frame.jpg",
         "slug": "lordOfTerror",
         "source": "/videos/heroes/skins/diablo_lordOfTerror",
-        "thumbnail": "/images/heroes/skins/thumbnails/diablo_lordOfTerror.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/diablo_lordOfTerror.jpg"
       },
       {
         "name": "Master Diablo",
         "analyticsName": "Master Diablo",
-        "image": "/images/heroes/skins/frames/masterDiablo_frame.jpg",
+        "image": "images/heroes/skins/frames/masterDiablo_frame.jpg",
         "slug": "masterDiablo",
         "source": "/videos/heroes/skins/diablo_masterDiablo",
-        "thumbnail": "/images/heroes/skins/thumbnails/diablo_masterDiablo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/diablo_masterDiablo.jpg"
       },
       {
         "name": "Kaijo Diablo",
         "analyticsName": "Kaijo Diablo",
-        "image": "/images/heroes/skins/frames/kaijoDiablo_frame.jpg",
+        "image": "images/heroes/skins/frames/kaijoDiablo_frame.jpg",
         "slug": "kaijoDiablo",
         "source": "/videos/heroes/skins/diablo_kaijoDiablo",
-        "thumbnail": "/images/heroes/skins/thumbnails/diablo_kaijoDiablo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/diablo_kaijoDiablo.jpg"
       },
       {
         "name": "Lurkablo Diablo",
         "analyticsName": "Lurkablo Diablo",
-        "image": "/images/heroes/skins/frames/lurkabloDiablo_frame.jpg",
+        "image": "images/heroes/skins/frames/lurkabloDiablo_frame.jpg",
         "slug": "lurkabloDiablo",
         "source": "/videos/heroes/skins/diablo_lurkabloDiablo",
-        "thumbnail": "/images/heroes/skins/thumbnails/diablo_lurkabloDiablo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/diablo_lurkabloDiablo.jpg"
       },
       {
         "name": "Archangel Diablo",
         "analyticsName": "Archangel Diablo",
-        "image": "/images/heroes/skins/frames/archangelDiablo_frame.jpg",
+        "image": "images/heroes/skins/frames/archangelDiablo_frame.jpg",
         "slug": "archangelDiablo",
         "source": "/videos/heroes/skins/diablo_archangelDiablo",
-        "thumbnail": "/images/heroes/skins/thumbnails/diablo_archangelDiablo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/diablo_archangelDiablo.jpg"
       }
     ],
     "abilities": [
@@ -1101,8 +1101,8 @@ var heroes =
         "video": "",
         "slug": "shadowCharge",
         "analyticsName": "Shadow Charge",
-        "icon": "/images/heroes/skills/icons/diablo_shadowCharge.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/diablo_shadowCharge.jpg"
+        "icon": "images/heroes/skills/icons/diablo_shadowCharge.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/diablo_shadowCharge.jpg"
       },
       {
         "name": "Fire Stomp",
@@ -1110,8 +1110,8 @@ var heroes =
         "video": "",
         "slug": "fireStomp",
         "analyticsName": "Fire Stomp",
-        "icon": "/images/heroes/skills/icons/diablo_fireStomp.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/diablo_fireStomp.jpg"
+        "icon": "images/heroes/skills/icons/diablo_fireStomp.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/diablo_fireStomp.jpg"
       },
       {
         "name": "Overpower",
@@ -1119,8 +1119,8 @@ var heroes =
         "video": "",
         "slug": "overpower",
         "analyticsName": "Overpower",
-        "icon": "/images/heroes/skills/icons/diablo_overpower.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/diablo_overpower.jpg"
+        "icon": "images/heroes/skills/icons/diablo_overpower.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/diablo_overpower.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1130,8 +1130,8 @@ var heroes =
         "video": "",
         "slug": "apocalypse",
         "analyticsName": "Apocalypse",
-        "icon": "/images/heroes/skills/icons/diablo_apocalypse.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/diablo_apocalypse.jpg"
+        "icon": "images/heroes/skills/icons/diablo_apocalypse.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/diablo_apocalypse.jpg"
       },
       {
         "name": "Lightning Breath",
@@ -1139,14 +1139,14 @@ var heroes =
         "video": "",
         "slug": "lightningBreath",
         "analyticsName": "Lightning Breath",
-        "icon": "/images/heroes/skills/icons/diablo_lightningBreath.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/diablo_lightningBreath.jpg"
+        "icon": "images/heroes/skills/icons/diablo_lightningBreath.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/diablo_lightningBreath.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/diablo.jpg"
+    "busts": "images/heroes/busts/diablo.jpg"
   },
   {
     "name": "E.T.C.",
@@ -1172,41 +1172,41 @@ var heroes =
     "trait": {
       "name": "Rockstar",
       "description": "When you use a Basic or Heroic ability, give 20% Attack Speed for 3 seconds to all nearby allies. Minions gain half the bonus.",
-      "icon": "/images/heroes/skills/icons/etc_rockstar.jpg",
+      "icon": "images/heroes/skills/icons/etc_rockstar.jpg",
       "slug": "rockstar"
     },
     "skins": [
       {
         "name": "Rock God",
         "analyticsName": "Rock God",
-        "image": "/images/heroes/skins/frames/rockGod_frame.jpg",
+        "image": "images/heroes/skins/frames/rockGod_frame.jpg",
         "slug": "rockGod",
         "source": "/videos/heroes/skins/etc_rockGod",
-        "thumbnail": "/images/heroes/skins/thumbnails/etc_rockGod.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/etc_rockGod.jpg"
       },
       {
         "name": "Master E.T.C.",
         "analyticsName": "Master E.T.C.",
-        "image": "/images/heroes/skins/frames/masterETC_frame.jpg",
+        "image": "images/heroes/skins/frames/masterETC_frame.jpg",
         "slug": "masterETC",
         "source": "/videos/heroes/skins/etc_masterETC",
-        "thumbnail": "/images/heroes/skins/thumbnails/etc_masterETC.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/etc_masterETC.jpg"
       },
       {
         "name": "Glam Metal E.T.C.",
         "analyticsName": "Glam Metal E.T.C.",
-        "image": "/images/heroes/skins/frames/glamMetalETC_frame.jpg",
+        "image": "images/heroes/skins/frames/glamMetalETC_frame.jpg",
         "slug": "glamMetalETC",
         "source": "/videos/heroes/skins/etc_glamMetalETC",
-        "thumbnail": "/images/heroes/skins/thumbnails/etc_glamMetalETC.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/etc_glamMetalETC.jpg"
       },
       {
         "name": "Pure Country E.T.C.",
         "analyticsName": "Pure Country E.T.C.",
-        "image": "/images/heroes/skins/frames/pureCountryETC_frame.jpg",
+        "image": "images/heroes/skins/frames/pureCountryETC_frame.jpg",
         "slug": "pureCountryETC",
         "source": "/videos/heroes/skins/etc_pureCountryETC",
-        "thumbnail": "/images/heroes/skins/thumbnails/etc_pureCountryETC.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/etc_pureCountryETC.jpg"
       }
     ],
     "abilities": [
@@ -1216,8 +1216,8 @@ var heroes =
         "video": "",
         "slug": "powerslide",
         "analyticsName": "Powerslide",
-        "icon": "/images/heroes/skills/icons/etc_powerslide.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/etc_powerslide.jpg"
+        "icon": "images/heroes/skills/icons/etc_powerslide.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/etc_powerslide.jpg"
       },
       {
         "name": "Face Melt",
@@ -1225,8 +1225,8 @@ var heroes =
         "video": "",
         "slug": "faceMelt",
         "analyticsName": "Face Melt",
-        "icon": "/images/heroes/skills/icons/etc_faceMelt.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/etc_faceMelt.jpg"
+        "icon": "images/heroes/skills/icons/etc_faceMelt.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/etc_faceMelt.jpg"
       },
       {
         "name": "Guitar Solo",
@@ -1234,8 +1234,8 @@ var heroes =
         "video": "",
         "slug": "guitarSolo",
         "analyticsName": "Guitar Solo",
-        "icon": "/images/heroes/skills/icons/etc_guitarSolo.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/etc_guitarSolo.jpg"
+        "icon": "images/heroes/skills/icons/etc_guitarSolo.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/etc_guitarSolo.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1245,8 +1245,8 @@ var heroes =
         "video": "",
         "slug": "moshPit",
         "analyticsName": "Mosh Pit",
-        "icon": "/images/heroes/skills/icons/etc_moshPit.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/etc_moshPit.jpg"
+        "icon": "images/heroes/skills/icons/etc_moshPit.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/etc_moshPit.jpg"
       },
       {
         "name": "Stage Dive",
@@ -1254,14 +1254,14 @@ var heroes =
         "video": "",
         "slug": "stageDive",
         "analyticsName": "Stage Dive",
-        "icon": "/images/heroes/skills/icons/etc_stageDive.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/etc_stageDive.jpg"
+        "icon": "images/heroes/skills/icons/etc_stageDive.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/etc_stageDive.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/etc.jpg"
+    "busts": "images/heroes/busts/etc.jpg"
   },
   {
     "name": "Falstad",
@@ -1287,41 +1287,41 @@ var heroes =
     "trait": {
       "name": "Tailwind",
       "description": "Gain 20% increased Movement Speed after not taking damage for 6 seconds.",
-      "icon": "/images/heroes/skills/icons/falstad_tailwind.jpg",
+      "icon": "images/heroes/skills/icons/falstad_tailwind.jpg",
       "slug": "tailwind"
     },
     "skins": [
       {
         "name": "Wildhammer Thane",
         "analyticsName": "Wildhammer Thane",
-        "image": "/images/heroes/skins/frames/wildhammerThane_frame.jpg",
+        "image": "images/heroes/skins/frames/wildhammerThane_frame.jpg",
         "slug": "wildhammerThane",
         "source": "/videos/heroes/skins/falstad_wildhammerThane",
-        "thumbnail": "/images/heroes/skins/thumbnails/falstad_wildhammerThane.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/falstad_wildhammerThane.jpg"
       },
       {
         "name": "Master Falstad",
         "analyticsName": "Master Falstad",
-        "image": "/images/heroes/skins/frames/masterFalstad_frame.jpg",
+        "image": "images/heroes/skins/frames/masterFalstad_frame.jpg",
         "slug": "masterFalstad",
         "source": "/videos/heroes/skins/falstad_masterFalstad",
-        "thumbnail": "/images/heroes/skins/thumbnails/falstad_masterFalstad.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/falstad_masterFalstad.jpg"
       },
       {
         "name": "Storm Lord Falstad",
         "analyticsName": "Storm Lord Falstad",
-        "image": "/images/heroes/skins/frames/stormLordFalstad_frame.jpg",
+        "image": "images/heroes/skins/frames/stormLordFalstad_frame.jpg",
         "slug": "stormLordFalstad",
         "source": "/videos/heroes/skins/falstad_stormLordFalstad",
-        "thumbnail": "/images/heroes/skins/thumbnails/falstad_stormLordFalstad.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/falstad_stormLordFalstad.jpg"
       },
       {
         "name": "Buccaneer Falstad",
         "analyticsName": "Buccaneer Falstad",
-        "image": "/images/heroes/skins/frames/buccaneerFalstad_frame.jpg",
+        "image": "images/heroes/skins/frames/buccaneerFalstad_frame.jpg",
         "slug": "buccaneerFalstad",
         "source": "/videos/heroes/skins/falstad_buccaneerFalstad",
-        "thumbnail": "/images/heroes/skins/thumbnails/falstad_buccaneerFalstad.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/falstad_buccaneerFalstad.jpg"
       }
     ],
     "abilities": [
@@ -1331,8 +1331,8 @@ var heroes =
         "video": "",
         "slug": "hammerang",
         "analyticsName": "Hammerang",
-        "icon": "/images/heroes/skills/icons/falstad_hammerang.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/falstad_hammerang.jpg"
+        "icon": "images/heroes/skills/icons/falstad_hammerang.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/falstad_hammerang.jpg"
       },
       {
         "name": "Lightning Rod",
@@ -1340,8 +1340,8 @@ var heroes =
         "video": "",
         "slug": "lightningRod",
         "analyticsName": "Lightning Rod",
-        "icon": "/images/heroes/skills/icons/falstad_lightningRod.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/falstad_lightningRod.jpg"
+        "icon": "images/heroes/skills/icons/falstad_lightningRod.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/falstad_lightningRod.jpg"
       },
       {
         "name": "Barrel Roll",
@@ -1349,8 +1349,8 @@ var heroes =
         "video": "",
         "slug": "barrelRoll",
         "analyticsName": "Barrel Roll",
-        "icon": "/images/heroes/skills/icons/falstad_barrelRoll.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/falstad_barrelRoll.jpg"
+        "icon": "images/heroes/skills/icons/falstad_barrelRoll.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/falstad_barrelRoll.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1360,8 +1360,8 @@ var heroes =
         "video": "",
         "slug": "mightyGust",
         "analyticsName": "Mighty Gust",
-        "icon": "/images/heroes/skills/icons/falstad_mightyGust.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/falstad_mightyGust.jpg"
+        "icon": "images/heroes/skills/icons/falstad_mightyGust.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/falstad_mightyGust.jpg"
       },
       {
         "name": "Hinterland Blast",
@@ -1369,14 +1369,14 @@ var heroes =
         "video": "",
         "slug": "hinterlandBlast",
         "analyticsName": "Hinterland Blast",
-        "icon": "/images/heroes/skills/icons/falstad_hinterlandBlast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/falstad_hinterlandBlast.jpg"
+        "icon": "images/heroes/skills/icons/falstad_hinterlandBlast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/falstad_hinterlandBlast.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/falstad.jpg"
+    "busts": "images/heroes/busts/falstad.jpg"
   },
   {
     "name": "Gazlowe",
@@ -1402,41 +1402,41 @@ var heroes =
     "trait": {
       "name": "Salvager",
       "description": "Destroyed enemy Structures and your Rock-it! Turrets drop scrap. Collecting scrap restores a moderate amount of Mana and causes your Abilities to cooldown twice as fast for 3 seconds.  Activate Salvager to dismantle a target Rock-it! Turret and turn it into scrap.",
-      "icon": "/images/heroes/skills/icons/gazlowe_salvager.jpg",
+      "icon": "images/heroes/skills/icons/gazlowe_salvager.jpg",
       "slug": "salvager"
     },
     "skins": [
       {
         "name": "Boss of Ratchet",
         "analyticsName": "Boss of Ratchet",
-        "image": "/images/heroes/skins/frames/bossOfRatchet_frame.jpg",
+        "image": "images/heroes/skins/frames/bossOfRatchet_frame.jpg",
         "slug": "bossOfRatchet",
         "source": "/videos/heroes/skins/gazlowe_bossOfRatchet",
-        "thumbnail": "/images/heroes/skins/thumbnails/gazlowe_bossOfRatchet.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/gazlowe_bossOfRatchet.jpg"
       },
       {
         "name": "Master Gazlowe",
         "analyticsName": "Master Gazlowe",
-        "image": "/images/heroes/skins/frames/masterGazlowe_frame.jpg",
+        "image": "images/heroes/skins/frames/masterGazlowe_frame.jpg",
         "slug": "masterGazlowe",
         "source": "/videos/heroes/skins/gazlowe_masterGazlowe",
-        "thumbnail": "/images/heroes/skins/thumbnails/gazlowe_masterGazlowe.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/gazlowe_masterGazlowe.jpg"
       },
       {
         "name": "Big Top Gazlowe",
         "analyticsName": "Big Top Gazlowe",
-        "image": "/images/heroes/skins/frames/bigTopGazlowe_frame.jpg",
+        "image": "images/heroes/skins/frames/bigTopGazlowe_frame.jpg",
         "slug": "bigTopGazlowe",
         "source": "/videos/heroes/skins/gazlowe_bigTopGazlowe",
-        "thumbnail": "/images/heroes/skins/thumbnails/gazlowe_bigTopGazlowe.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/gazlowe_bigTopGazlowe.jpg"
       },
       {
         "name": "Mad Martian Gazlowe",
         "analyticsName": "Mad Martian Gazlowe",
-        "image": "/images/heroes/skins/frames/madMartianGazlowe_frame.jpg",
+        "image": "images/heroes/skins/frames/madMartianGazlowe_frame.jpg",
         "slug": "madMartianGazlowe",
         "source": "/videos/heroes/skins/gazlowe_madMartianGazlowe",
-        "thumbnail": "/images/heroes/skins/thumbnails/gazlowe_madMartianGazlowe.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/gazlowe_madMartianGazlowe.jpg"
       }
     ],
     "abilities": [
@@ -1446,8 +1446,8 @@ var heroes =
         "video": "",
         "slug": "rockItTurret",
         "analyticsName": "Rock-It! Turret",
-        "icon": "/images/heroes/skills/icons/gazlowe_rockItTurret.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/gazlowe_rockItTurret.jpg"
+        "icon": "images/heroes/skills/icons/gazlowe_rockItTurret.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/gazlowe_rockItTurret.jpg"
       },
       {
         "name": "Deth Lazor",
@@ -1455,8 +1455,8 @@ var heroes =
         "video": "",
         "slug": "dethLazor",
         "analyticsName": "Deth Lazor",
-        "icon": "/images/heroes/skills/icons/gazlowe_dethLazor.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/gazlowe_dethLazor.jpg"
+        "icon": "images/heroes/skills/icons/gazlowe_dethLazor.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/gazlowe_dethLazor.jpg"
       },
       {
         "name": "Xplodium Charge",
@@ -1464,8 +1464,8 @@ var heroes =
         "video": "",
         "slug": "xplodiumCharge",
         "analyticsName": "Xplodium Charge",
-        "icon": "/images/heroes/skills/icons/gazlowe_xplodiumCharge.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/gazlowe_xplodiumCharge.jpg"
+        "icon": "images/heroes/skills/icons/gazlowe_xplodiumCharge.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/gazlowe_xplodiumCharge.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1475,8 +1475,8 @@ var heroes =
         "video": "",
         "slug": "roboGoblin",
         "analyticsName": "Robo-Goblin",
-        "icon": "/images/heroes/skills/icons/gazlowe_roboGoblin.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/gazlowe_roboGoblin.jpg"
+        "icon": "images/heroes/skills/icons/gazlowe_roboGoblin.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/gazlowe_roboGoblin.jpg"
       },
       {
         "name": "Grav-O-Bomb 3000",
@@ -1484,14 +1484,14 @@ var heroes =
         "video": "",
         "slug": "gravOBomb3000",
         "analyticsName": "Grav-O-Bomb 3000",
-        "icon": "/images/heroes/skills/icons/gazlowe_gravOBomb3000.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/gazlowe_gravOBomb3000.jpg"
+        "icon": "images/heroes/skills/icons/gazlowe_gravOBomb3000.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/gazlowe_gravOBomb3000.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/gazlowe.jpg"
+    "busts": "images/heroes/busts/gazlowe.jpg"
   },
   {
     "name": "Illidan",
@@ -1517,41 +1517,41 @@ var heroes =
     "trait": {
       "name": "Betrayer's Thirst",
       "description": "Basic Attacks heal for 20% of damage dealt and reduce your Ability cooldowns by 1 second.",
-      "icon": "/images/heroes/skills/icons/illidan_betrayersThirst.jpg",
+      "icon": "images/heroes/skills/icons/illidan_betrayersThirst.jpg",
       "slug": "betrayersThirst"
     },
     "skins": [
       {
         "name": "The Betrayer",
         "analyticsName": "The Betrayer",
-        "image": "/images/heroes/skins/frames/theBetrayer_frame.jpg",
+        "image": "images/heroes/skins/frames/theBetrayer_frame.jpg",
         "slug": "theBetrayer",
         "source": "/videos/heroes/skins/illidan_theBetrayer",
-        "thumbnail": "/images/heroes/skins/thumbnails/illidan_theBetrayer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/illidan_theBetrayer.jpg"
       },
       {
         "name": "Master Illidan",
         "analyticsName": "Master Illidan",
-        "image": "/images/heroes/skins/frames/masterIllidan_frame.jpg",
+        "image": "images/heroes/skins/frames/masterIllidan_frame.jpg",
         "slug": "masterIllidan",
         "source": "/videos/heroes/skins/illidan_masterIllidan",
-        "thumbnail": "/images/heroes/skins/thumbnails/illidan_masterIllidan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/illidan_masterIllidan.jpg"
       },
       {
         "name": "Shan'do Illidan",
         "analyticsName": "Shan'do Illidan",
-        "image": "/images/heroes/skins/frames/shandoIllidan_frame.jpg",
+        "image": "images/heroes/skins/frames/shandoIllidan_frame.jpg",
         "slug": "shandoIllidan",
         "source": "/videos/heroes/skins/illidan_shandoIllidan",
-        "thumbnail": "/images/heroes/skins/thumbnails/illidan_shandoIllidan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/illidan_shandoIllidan.jpg"
       },
       {
         "name": "Spectre Illidan",
         "analyticsName": "Spectre Illidan",
-        "image": "/images/heroes/skins/frames/spectreIllidan_frame.jpg",
+        "image": "images/heroes/skins/frames/spectreIllidan_frame.jpg",
         "slug": "spectreIllidan",
         "source": "/videos/heroes/skins/illidan_spectreIllidan",
-        "thumbnail": "/images/heroes/skins/thumbnails/illidan_spectreIllidan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/illidan_spectreIllidan.jpg"
       }
     ],
     "abilities": [
@@ -1561,8 +1561,8 @@ var heroes =
         "video": "",
         "slug": "dive",
         "analyticsName": "Dive",
-        "icon": "/images/heroes/skills/icons/illidan_dive.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/illidan_dive.jpg"
+        "icon": "images/heroes/skills/icons/illidan_dive.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/illidan_dive.jpg"
       },
       {
         "name": "Sweeping Strike",
@@ -1570,8 +1570,8 @@ var heroes =
         "video": "",
         "slug": "sweepingStrike",
         "analyticsName": "Sweeping Strike",
-        "icon": "/images/heroes/skills/icons/illidan_sweepingStrike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/illidan_sweepingStrike.jpg"
+        "icon": "images/heroes/skills/icons/illidan_sweepingStrike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/illidan_sweepingStrike.jpg"
       },
       {
         "name": "Evasion",
@@ -1579,8 +1579,8 @@ var heroes =
         "video": "",
         "slug": "evasion",
         "analyticsName": "Evasion",
-        "icon": "/images/heroes/skills/icons/illidan_evasion.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/illidan_evasion.jpg"
+        "icon": "images/heroes/skills/icons/illidan_evasion.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/illidan_evasion.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1590,8 +1590,8 @@ var heroes =
         "video": "",
         "slug": "theHunt",
         "analyticsName": "The Hunt",
-        "icon": "/images/heroes/skills/icons/illidan_theHunt.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/illidan_theHunt.jpg"
+        "icon": "images/heroes/skills/icons/illidan_theHunt.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/illidan_theHunt.jpg"
       },
       {
         "name": "Metamorphosis",
@@ -1599,14 +1599,14 @@ var heroes =
         "video": "",
         "slug": "metamorphosis",
         "analyticsName": "Metamorphosis",
-        "icon": "/images/heroes/skills/icons/illidan_metamorphosis.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/illidan_metamorphosis.jpg"
+        "icon": "images/heroes/skills/icons/illidan_metamorphosis.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/illidan_metamorphosis.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/illidan.jpg"
+    "busts": "images/heroes/busts/illidan.jpg"
   },
   {
     "name": "Jaina",
@@ -1632,41 +1632,41 @@ var heroes =
     "trait": {
       "name": "Frostbite",
       "description": "All abilities Chill targets, slowing Movement Speed by 25% and amplifying damage from your abilities by 50%. Lasts 4 seconds.",
-      "icon": "/images/heroes/skills/icons/jaina_frostbite.jpg",
+      "icon": "images/heroes/skills/icons/jaina_frostbite.jpg",
       "slug": "frostbite"
     },
     "skins": [
       {
         "name": "Archmage",
         "analyticsName": "Archmage",
-        "image": "/images/heroes/skins/frames/archmage_frame.jpg",
+        "image": "images/heroes/skins/frames/archmage_frame.jpg",
         "slug": "archmage",
         "source": "/videos/heroes/skins/jaina_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/jaina_archmage.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/jaina_archmage.jpg"
       },
       {
         "name": "Master Jaina",
         "analyticsName": "Master Jaina",
-        "image": "/images/heroes/skins/frames/masterJaina_frame.jpg",
+        "image": "images/heroes/skins/frames/masterJaina_frame.jpg",
         "slug": "masterJaina",
         "source": "/videos/heroes/skins/jaina_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/jaina_masterJaina.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/jaina_masterJaina.jpg"
       },
       {
         "name": "Winter Veil Jaina",
         "analyticsName": "Winter Veil Jaina",
-        "image": "/images/heroes/skins/frames/winterVeilJaina_frame.jpg",
+        "image": "images/heroes/skins/frames/winterVeilJaina_frame.jpg",
         "slug": "winterVeilJaina",
         "source": "/videos/heroes/skins/jaina_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/jaina_winterVeilJaina.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/jaina_winterVeilJaina.jpg"
       },
       {
         "name": "Tempest Regalia Jaina",
         "analyticsName": "Tempest Regalia Jaina",
-        "image": "/images/heroes/skins/frames/tempestRegaliaJaina_frame.jpg",
+        "image": "images/heroes/skins/frames/tempestRegaliaJaina_frame.jpg",
         "slug": "tempestRegaliaJaina",
         "source": "/videos/heroes/skins/jaina_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/jaina_tempestRegaliaJaina.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/jaina_tempestRegaliaJaina.jpg"
       }
     ],
     "abilities": [
@@ -1676,8 +1676,8 @@ var heroes =
         "video": "DDPNtrNCgYw",
         "slug": "frostbolt",
         "analyticsName": "Frostbolt",
-        "icon": "/images/heroes/skills/icons/jaina_frostbolt.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/jaina_frostbolt.jpg"
+        "icon": "images/heroes/skills/icons/jaina_frostbolt.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/jaina_frostbolt.jpg"
       },
       {
         "name": "Blizzard",
@@ -1685,8 +1685,8 @@ var heroes =
         "video": "MX_6ufacwsQ",
         "slug": "blizzard",
         "analyticsName": "Blizzard",
-        "icon": "/images/heroes/skills/icons/jaina_blizzard.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/jaina_blizzard.jpg"
+        "icon": "images/heroes/skills/icons/jaina_blizzard.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/jaina_blizzard.jpg"
       },
       {
         "name": "Cone of Cold",
@@ -1694,8 +1694,8 @@ var heroes =
         "video": "NfjNXPFcPms",
         "slug": "coneOfCold",
         "analyticsName": "Cone of Cold",
-        "icon": "/images/heroes/skills/icons/jaina_coneOfCold.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/jaina_coneOfCold.jpg"
+        "icon": "images/heroes/skills/icons/jaina_coneOfCold.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/jaina_coneOfCold.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1705,8 +1705,8 @@ var heroes =
         "video": "uO-RbVn2RDg",
         "slug": "summonWaterElemental",
         "analyticsName": "Summon Water Elemental",
-        "icon": "/images/heroes/skills/icons/jaina_summonWaterElemental.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/jaina_summonWaterElemental.jpg"
+        "icon": "images/heroes/skills/icons/jaina_summonWaterElemental.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/jaina_summonWaterElemental.jpg"
       },
       {
         "name": "Ring of Frost",
@@ -1714,15 +1714,15 @@ var heroes =
         "video": "MoUpxPt8hbA",
         "slug": "ringOfFrost",
         "analyticsName": "Ring of Frost",
-        "icon": "/images/heroes/skills/icons/jaina_ringOfFrost.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/jaina_ringOfFrost.jpg"
+        "icon": "images/heroes/skills/icons/jaina_ringOfFrost.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/jaina_ringOfFrost.jpg"
       }
     ],
     "revealed": true,
     "video": "ehImE3FpDb8",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/jaina.jpg"
+    "busts": "images/heroes/busts/jaina.jpg"
   },
   {
     "name": "Johanna",
@@ -1748,33 +1748,33 @@ var heroes =
     "trait": {
       "name": "Iron Skin",
       "description": "Become unstoppable and gain a shield that absorbs a massive amount of damage for 4 seconds.",
-      "icon": "/images/heroes/skills/icons/johanna_ironSkin.jpg",
+      "icon": "images/heroes/skills/icons/johanna_ironSkin.jpg",
       "slug": "ironSkin"
     },
     "skins": [
       {
         "name": "Crusader of Zakarum",
         "analyticsName": "Crusader Of Zakarum",
-        "image": "/images/heroes/skins/frames/crusaderOfZakarum_frame.jpg",
+        "image": "images/heroes/skins/frames/crusaderOfZakarum_frame.jpg",
         "slug": "crusaderOfZakarum",
         "source": "/videos/heroes/skins/johanna_1",
-        "thumbnail": "/images/heroes/skins/johanna1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/johanna1_thumb.jpg"
       },
       {
         "name": "Master Johanna",
         "analyticsName": "Master Johanna",
-        "image": "/images/heroes/skins/frames/masterJohanna_frame.jpg",
+        "image": "images/heroes/skins/frames/masterJohanna_frame.jpg",
         "slug": "masterJohanna",
         "source": "/videos/heroes/skins/johanna_2",
-        "thumbnail": "/images/heroes/skins/johanna2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/johanna2_thumb.jpg"
       },
       {
         "name": "Centurion Johanna",
         "analyticsName": "Centurion Johanna",
-        "image": "/images/heroes/skins/frames/centurionJohanna_frame.jpg",
+        "image": "images/heroes/skins/frames/centurionJohanna_frame.jpg",
         "slug": "centurionJohanna",
         "source": "/videos/heroes/skins/johanna_3",
-        "thumbnail": "/images/heroes/skins/johanna3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/johanna3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -1784,8 +1784,8 @@ var heroes =
         "video": "",
         "slug": "punish",
         "analyticsName": "Punish",
-        "icon": "/images/heroes/skills/icons/johanna_punish.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/johanna_punish.jpg"
+        "icon": "images/heroes/skills/icons/johanna_punish.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/johanna_punish.jpg"
       },
       {
         "name": "Condemn",
@@ -1793,8 +1793,8 @@ var heroes =
         "video": "",
         "slug": "condemn",
         "analyticsName": "Condemn",
-        "icon": "/images/heroes/skills/icons/johanna_condemn.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/johanna_condemn.jpg"
+        "icon": "images/heroes/skills/icons/johanna_condemn.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/johanna_condemn.jpg"
       },
       {
         "name": "Shield Glare",
@@ -1802,8 +1802,8 @@ var heroes =
         "video": "",
         "slug": "shieldGlare",
         "analyticsName": "Shield Glare",
-        "icon": "/images/heroes/skills/icons/johanna_shieldGlare.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/johanna_shieldGlare.jpg"
+        "icon": "images/heroes/skills/icons/johanna_shieldGlare.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/johanna_shieldGlare.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1813,8 +1813,8 @@ var heroes =
         "video": "",
         "slug": "fallingSword",
         "analyticsName": "Falling Sword",
-        "icon": "/images/heroes/skills/icons/johanna_fallingSword.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/johanna_fallingSword.jpg"
+        "icon": "images/heroes/skills/icons/johanna_fallingSword.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/johanna_fallingSword.jpg"
       },
       {
         "name": "Blessed Shield",
@@ -1822,15 +1822,15 @@ var heroes =
         "video": "",
         "slug": "blessedShield",
         "analyticsName": "Blessed Shield",
-        "icon": "/images/heroes/skills/icons/johanna_blessedShield.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/johanna_blessedShield.jpg"
+        "icon": "images/heroes/skills/icons/johanna_blessedShield.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/johanna_blessedShield.jpg"
       }
     ],
     "revealed": true,
     "video": "fObnjQGrZZQ",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/johanna.jpg"
+    "busts": "images/heroes/busts/johanna.jpg"
   },
   {
     "name": "Kael'thas",
@@ -1856,33 +1856,33 @@ var heroes =
     "trait": {
       "name": "Verdant Spheres",
       "description": "Activate to make your next Basic Ability more powerful.",
-      "icon": "/images/heroes/skills/icons/kaelthas_verdantSpheres.jpg",
+      "icon": "images/heroes/skills/icons/kaelthas_verdantSpheres.jpg",
       "slug": "verdantSpheres"
     },
     "skins": [
       {
         "name": "The Sun King",
         "analyticsName": "The Sun King",
-        "image": "/images/heroes/skins/frames/theSunKing_frame.jpg",
+        "image": "images/heroes/skins/frames/theSunKing_frame.jpg",
         "slug": "theSunKing",
         "source": "/videos/heroes/skins/kaelthas_1",
-        "thumbnail": "/images/heroes/skins/kaelthas1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kaelthas1_thumb.jpg"
       },
       {
         "name": "Master Kael'thas",
         "analyticsName": "Master Kael'thas",
-        "image": "/images/heroes/skins/frames/masterKaelthas_frame.jpg",
+        "image": "images/heroes/skins/frames/masterKaelthas_frame.jpg",
         "slug": "masterKaelthas",
         "source": "/videos/heroes/skins/kaelthas_2",
-        "thumbnail": "/images/heroes/skins/kaelthas2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kaelthas2_thumb.jpg"
       },
       {
         "name": "StormPunk Kael'thas",
         "analyticsName": "StormPunk Kael'thas",
-        "image": "/images/heroes/skins/frames/stormPunkKaelthas_frame.jpg",
+        "image": "images/heroes/skins/frames/stormPunkKaelthas_frame.jpg",
         "slug": "stormPunkKaelthas",
         "source": "/videos/heroes/skins/kaelthas_3",
-        "thumbnail": "/images/heroes/skins/kaelthas3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kaelthas3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -1892,8 +1892,8 @@ var heroes =
         "video": "",
         "slug": "flamestrike",
         "analyticsName": "Flamestrike",
-        "icon": "/images/heroes/skills/icons/kaelthas_flamestrike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kaelthas_flamestrike.jpg"
+        "icon": "images/heroes/skills/icons/kaelthas_flamestrike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kaelthas_flamestrike.jpg"
       },
       {
         "name": "Living Bomb",
@@ -1901,8 +1901,8 @@ var heroes =
         "video": "",
         "slug": "livingBomb",
         "analyticsName": "Living Bomb",
-        "icon": "/images/heroes/skills/icons/kaelthas_livingBomb.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kaelthas_livingBomb.jpg"
+        "icon": "images/heroes/skills/icons/kaelthas_livingBomb.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kaelthas_livingBomb.jpg"
       },
       {
         "name": "Gravity Lapse",
@@ -1910,8 +1910,8 @@ var heroes =
         "video": "",
         "slug": "gravityLapse",
         "analyticsName": "Gravity Lapse",
-        "icon": "/images/heroes/skills/icons/kaelthas_gravityLapse.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kaelthas_gravityLapse.jpg"
+        "icon": "images/heroes/skills/icons/kaelthas_gravityLapse.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kaelthas_gravityLapse.jpg"
       }
     ],
     "heroicAbilities": [
@@ -1921,8 +1921,8 @@ var heroes =
         "video": "",
         "slug": "phoenix",
         "analyticsName": "Phoenix",
-        "icon": "/images/heroes/skills/icons/kaelthas_phoenix.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kaelthas_phoenix.jpg"
+        "icon": "images/heroes/skills/icons/kaelthas_phoenix.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kaelthas_phoenix.jpg"
       },
       {
         "name": "Pyroblast",
@@ -1930,15 +1930,15 @@ var heroes =
         "video": "",
         "slug": "pyroblast",
         "analyticsName": "Pyroblast",
-        "icon": "/images/heroes/skills/icons/kaelthas_pyroblast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kaelthas_pyroblast.jpg"
+        "icon": "images/heroes/skills/icons/kaelthas_pyroblast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kaelthas_pyroblast.jpg"
       }
     ],
     "revealed": true,
     "video": "b215Y8QgA3Y",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/kaelthas.jpg"
+    "busts": "images/heroes/busts/kaelthas.jpg"
   },
   {
     "name": "Kerrigan",
@@ -1964,41 +1964,41 @@ var heroes =
     "trait": {
       "name": "Assimilation",
       "description": "Gain 10% of damage dealt from Basic Attacks and Abilities as Shields for 6 seconds. Shield amount gained doubled against Heroes.",
-      "icon": "/images/heroes/skills/icons/kerrigan_assimilation.jpg",
+      "icon": "images/heroes/skills/icons/kerrigan_assimilation.jpg",
       "slug": "assimilation"
     },
     "skins": [
       {
         "name": "Queen of Blades",
         "analyticsName": "Queen of Blades",
-        "image": "/images/heroes/skins/frames/queenOfBlades_frame.jpg",
+        "image": "images/heroes/skins/frames/queenOfBlades_frame.jpg",
         "slug": "queenOfBlades",
         "source": "/videos/heroes/skins/Kerrigan1",
-        "thumbnail": "/images/heroes/skins/thumbnails/kerrigan_queenOfBlades.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/kerrigan_queenOfBlades.jpg"
       },
       {
         "name": "Master Kerrigan",
         "analyticsName": "Master Kerrigan",
-        "image": "/images/heroes/skins/frames/masterKerrigan_frame.jpg",
+        "image": "images/heroes/skins/frames/masterKerrigan_frame.jpg",
         "slug": "masterKerrigan",
         "source": "/videos/heroes/skins/kerrigan_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/kerrigan_masterKerrigan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/kerrigan_masterKerrigan.jpg"
       },
       {
         "name": "Succubus Kerrigan",
         "analyticsName": "Succubus",
-        "image": "/images/heroes/skins/frames/succubusKerrigan_frame.jpg",
+        "image": "images/heroes/skins/frames/succubusKerrigan_frame.jpg",
         "slug": "succubusKerrigan",
         "source": "/videos/heroes/skins/kerrigan_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/kerrigan_succubusKerrigan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/kerrigan_succubusKerrigan.jpg"
       },
       {
         "name": "Countess Kerrigan",
         "analyticsName": "Countess Kerrigan",
-        "image": "/images/heroes/skins/frames/countessKerrigan_frame.jpg",
+        "image": "images/heroes/skins/frames/countessKerrigan_frame.jpg",
         "slug": "countessKerrigan",
         "source": "/videos/heroes/skins/kerrigan_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/kerrigan_countessKerrigan.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/kerrigan_countessKerrigan.jpg"
       }
     ],
     "abilities": [
@@ -2008,8 +2008,8 @@ var heroes =
         "video": "DevFv0We9t4",
         "slug": "ravage",
         "analyticsName": "Ravage",
-        "icon": "/images/heroes/skills/icons/kerrigan_ravage.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kerrigan_thumb-ravage.jpg"
+        "icon": "images/heroes/skills/icons/kerrigan_ravage.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kerrigan_thumb-ravage.jpg"
       },
       {
         "name": "Impaling Blades",
@@ -2017,8 +2017,8 @@ var heroes =
         "video": "F_vaKumRCkA",
         "slug": "impalingBlades",
         "analyticsName": "Impaling Blades",
-        "icon": "/images/heroes/skills/icons/kerrigan_impalingBlades.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kerrigan_thumb-impalingBlades.jpg"
+        "icon": "images/heroes/skills/icons/kerrigan_impalingBlades.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kerrigan_thumb-impalingBlades.jpg"
       },
       {
         "name": "Primal Grasp",
@@ -2026,8 +2026,8 @@ var heroes =
         "video": "_kA-flUaPd8",
         "slug": "primalGrasp",
         "analyticsName": "Primal Grasp",
-        "icon": "/images/heroes/skills/icons/kerrigan_primalGrasp.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kerrigan_thumb-primalGrasp.jpg"
+        "icon": "images/heroes/skills/icons/kerrigan_primalGrasp.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kerrigan_thumb-primalGrasp.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2037,8 +2037,8 @@ var heroes =
         "video": "ze2EU2HUyqU",
         "slug": "summonUltralisk",
         "analyticsName": "Summon Ultralisk",
-        "icon": "/images/heroes/skills/icons/kerrigan_summonUltralisk.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kerrigan_thumb-summonUltralisk.jpg"
+        "icon": "images/heroes/skills/icons/kerrigan_summonUltralisk.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kerrigan_thumb-summonUltralisk.jpg"
       },
       {
         "name": "Maelstrom",
@@ -2046,15 +2046,15 @@ var heroes =
         "video": "1GfFUQyNOLg",
         "slug": "maelstrom",
         "analyticsName": "Maelstrom",
-        "icon": "/images/heroes/skills/icons/kerrigan_maelstrom.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kerrigan_thumb-maelstrom.jpg"
+        "icon": "images/heroes/skills/icons/kerrigan_maelstrom.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kerrigan_thumb-maelstrom.jpg"
       }
     ],
     "revealed": true,
     "video": "YH9rEjS2O0w",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/kerrigan.jpg"
+    "busts": "images/heroes/busts/kerrigan.jpg"
   },
   {
     "name": "Kharazim",
@@ -2080,33 +2080,33 @@ var heroes =
     "trait": {
       "name": "Pick Your Trait",
       "description": "Choose between Transcendence, Iron Fists, and Insight from the Talents panel.",
-      "icon": "/images/heroes/skills/icons/kharazim_pickYourTrait.jpg",
+      "icon": "images/heroes/skills/icons/kharazim_pickYourTrait.jpg",
       "slug": "pickYourTrait"
     },
     "skins": [
       {
         "name": "Veradani Monk",
         "analyticsName": "Veradani Monk",
-        "image": "/images/heroes/skins/frames/veradaniMonk_frame.jpg",
+        "image": "images/heroes/skins/frames/veradaniMonk_frame.jpg",
         "slug": "veradaniMonk",
         "source": "/videos/heroes/skins/kharazim_1",
-        "thumbnail": "/images/heroes/skins/kharazim1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kharazim1_thumb.jpg"
       },
       {
         "name": "Master Kharazim",
         "analyticsName": "Master Kharazim",
-        "image": "/images/heroes/skins/frames/masterKharazim_frame.jpg",
+        "image": "images/heroes/skins/frames/masterKharazim_frame.jpg",
         "slug": "masterKharazim",
         "source": "/videos/heroes/skins/kharazim_2",
-        "thumbnail": "/images/heroes/skins/kharazim2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kharazim2_thumb.jpg"
       },
       {
         "name": "Jade Dragon Kharazim",
         "analyticsName": "Jade Dragon Kharazim",
-        "image": "/images/heroes/skins/frames/jadeDragonKharazim_frame.jpg",
+        "image": "images/heroes/skins/frames/jadeDragonKharazim_frame.jpg",
         "slug": "jadeDragonKharazim",
         "source": "/videos/heroes/skins/kharazim_3",
-        "thumbnail": "/images/heroes/skins/kharazim3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/kharazim3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -2116,8 +2116,8 @@ var heroes =
         "video": "",
         "slug": "deadlyReach",
         "analyticsName": "Deadly Reach",
-        "icon": "/images/heroes/skills/icons/kharazim_deadlyReach.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kharazim_deadlyReach.jpg"
+        "icon": "images/heroes/skills/icons/kharazim_deadlyReach.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kharazim_deadlyReach.jpg"
       },
       {
         "name": "Breath of Heaven",
@@ -2125,8 +2125,8 @@ var heroes =
         "video": "",
         "slug": "breathOfHeaven",
         "analyticsName": "Breath of Heaven",
-        "icon": "/images/heroes/skills/icons/kharazim_breathOfHeaven.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kharazim_breathOfHeaven.jpg"
+        "icon": "images/heroes/skills/icons/kharazim_breathOfHeaven.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kharazim_breathOfHeaven.jpg"
       },
       {
         "name": "Radiant Dash",
@@ -2134,8 +2134,8 @@ var heroes =
         "video": "",
         "slug": "radiantDash",
         "analyticsName": "Radiant Dash",
-        "icon": "/images/heroes/skills/icons/kharazim_radiantDash.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kharazim_radiantDash.jpg"
+        "icon": "images/heroes/skills/icons/kharazim_radiantDash.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kharazim_radiantDash.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2145,8 +2145,8 @@ var heroes =
         "video": "",
         "slug": "sevenSidedStrike",
         "analyticsName": "Seven-Sided Strike",
-        "icon": "/images/heroes/skills/icons/kharazim_sevenSidedStrike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kharazim_sevenSidedStrike.jpg"
+        "icon": "images/heroes/skills/icons/kharazim_sevenSidedStrike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kharazim_sevenSidedStrike.jpg"
       },
       {
         "name": "Divine Palm",
@@ -2154,15 +2154,15 @@ var heroes =
         "video": "",
         "slug": "divinePalm",
         "analyticsName": "Divine Palm",
-        "icon": "/images/heroes/skills/icons/kharazim_divinePalm.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/kharazim_divinePalm.jpg"
+        "icon": "images/heroes/skills/icons/kharazim_divinePalm.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/kharazim_divinePalm.jpg"
       }
     ],
     "revealed": true,
     "video": "kraV3xWGBl0",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/kharazim.jpg"
+    "busts": "images/heroes/busts/kharazim.jpg"
   },
   {
     "name": "Leoric",
@@ -2188,33 +2188,33 @@ var heroes =
     "trait": {
       "name": "Undying",
       "description": "Become a Ghost when you die, and resurrect upon reaching full health. Your abilities do not do damage while Undying.",
-      "icon": "/images/heroes/skills/icons/leoric_undying.jpg",
+      "icon": "images/heroes/skills/icons/leoric_undying.jpg",
       "slug": "undying"
     },
     "skins": [
       {
         "name": "The Skeleton King",
         "analyticsName": "The Skeleton King",
-        "image": "/images/heroes/skins/frames/theSkeletonKing_frame.jpg",
+        "image": "images/heroes/skins/frames/theSkeletonKing_frame.jpg",
         "slug": "theSkeletonKing",
         "source": "/videos/heroes/skins/leoric_1",
-        "thumbnail": "/images/heroes/skins/leoric1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/leoric1_thumb.jpg"
       },
       {
         "name": "Master Leoric",
         "analyticsName": "Master Leoric",
-        "image": "/images/heroes/skins/frames/masterLeoric_frame.jpg",
+        "image": "images/heroes/skins/frames/masterLeoric_frame.jpg",
         "slug": "masterLeoric",
         "source": "/videos/heroes/skins/leoric_2",
-        "thumbnail": "/images/heroes/skins/leoric2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/leoric2_thumb.jpg"
       },
       {
         "name": "Vrykul Leoric",
         "analyticsName": "Vrykul Leoric",
-        "image": "/images/heroes/skins/frames/vrykulLeoric_frame.jpg",
+        "image": "images/heroes/skins/frames/vrykulLeoric_frame.jpg",
         "slug": "vrykulLeoric",
         "source": "/videos/heroes/skins/leoric_3",
-        "thumbnail": "/images/heroes/skins/leoric3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/leoric3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -2224,8 +2224,8 @@ var heroes =
         "video": "",
         "slug": "skeletalSwing",
         "analyticsName": "Skeletal Swing",
-        "icon": "/images/heroes/skills/icons/leoric_skeletalSwing.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/leoric_skeletalSwing.jpg"
+        "icon": "images/heroes/skills/icons/leoric_skeletalSwing.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/leoric_skeletalSwing.jpg"
       },
       {
         "name": "Drain Hope",
@@ -2233,8 +2233,8 @@ var heroes =
         "video": "",
         "slug": "drainHope",
         "analyticsName": "Drain Hope",
-        "icon": "/images/heroes/skills/icons/leoric_drainHope.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/leoric_drainHope.jpg"
+        "icon": "images/heroes/skills/icons/leoric_drainHope.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/leoric_drainHope.jpg"
       },
       {
         "name": "Wraith Walk",
@@ -2242,8 +2242,8 @@ var heroes =
         "video": "",
         "slug": "wraithWalk",
         "analyticsName": "Wraith Walk",
-        "icon": "/images/heroes/skills/icons/leoric_wraithWalk.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/leoric_wraithWalk.jpg"
+        "icon": "images/heroes/skills/icons/leoric_wraithWalk.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/leoric_wraithWalk.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2253,8 +2253,8 @@ var heroes =
         "video": "",
         "slug": "entomb",
         "analyticsName": "Entomb",
-        "icon": "/images/heroes/skills/icons/leoric_entomb.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/leoric_entomb.jpg"
+        "icon": "images/heroes/skills/icons/leoric_entomb.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/leoric_entomb.jpg"
       },
       {
         "name": "March of the Black King",
@@ -2262,15 +2262,15 @@ var heroes =
         "video": "",
         "slug": "marchOfTheBlackKing",
         "analyticsName": "March of The Black King",
-        "icon": "/images/heroes/skills/icons/leoric_marchOfTheBlackKing.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/leoric_marchOfTheBlackKing.jpg"
+        "icon": "images/heroes/skills/icons/leoric_marchOfTheBlackKing.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/leoric_marchOfTheBlackKing.jpg"
       }
     ],
     "revealed": true,
     "video": "uLmgK7udmUE",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/leoric.jpg"
+    "busts": "images/heroes/busts/leoric.jpg"
   },
   {
     "name": "Li Li",
@@ -2296,41 +2296,41 @@ var heroes =
     "trait": {
       "name": "Fast Feet",
       "description": "Upon taking damage, gain 10% Movement Speed for 1 second.",
-      "icon": "/images/heroes/skills/icons/lili_fastFeet.jpg",
+      "icon": "images/heroes/skills/icons/lili_fastFeet.jpg",
       "slug": "fastFeet"
     },
     "skins": [
       {
         "name": "World Wanderer",
         "analyticsName": "World Wanderer",
-        "image": "/images/heroes/skins/frames/worldWanderer_frame.jpg",
+        "image": "images/heroes/skins/frames/worldWanderer_frame.jpg",
         "slug": "worldWanderer",
         "source": "/videos/heroes/skins/Lili1",
-        "thumbnail": "/images/heroes/skins/thumbnails/lili_worldWanderer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/lili_worldWanderer.jpg"
       },
       {
         "name": "Master Li Li",
         "analyticsName": "Master Li Li",
-        "image": "/images/heroes/skins/frames/masterLiLi_frame.jpg",
+        "image": "images/heroes/skins/frames/masterLiLi_frame.jpg",
         "slug": "masterLiLi",
         "source": "/videos/heroes/skins/lili_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/lili_masterLiLi.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/lili_masterLiLi.jpg"
       },
       {
         "name": "Explorer Li Li",
         "analyticsName": "Explorer",
-        "image": "/images/heroes/skins/frames/explorerLiLi_frame.jpg",
+        "image": "images/heroes/skins/frames/explorerLiLi_frame.jpg",
         "slug": "explorerLiLi",
         "source": "/videos/heroes/skins/Lili2",
-        "thumbnail": "/images/heroes/skins/thumbnails/lili_explorerLiLi.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/lili_explorerLiLi.jpg"
       },
       {
         "name": "Festival Li Li",
         "analyticsName": "Festival Li Li",
-        "image": "/images/heroes/skins/frames/festivalLiLi_frame.jpg",
+        "image": "images/heroes/skins/frames/festivalLiLi_frame.jpg",
         "slug": "festivalLiLi",
         "source": "/videos/heroes/skins/lili_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/lili_festivalLiLi.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/lili_festivalLiLi.jpg"
       }
     ],
     "abilities": [
@@ -2340,8 +2340,8 @@ var heroes =
         "video": "4gLXd6A-12Q",
         "slug": "healingBrew",
         "analyticsName": "Healing Brew",
-        "icon": "/images/heroes/skills/icons/lili_healingBrew.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lili_thumb-healingBrew.jpg"
+        "icon": "images/heroes/skills/icons/lili_healingBrew.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lili_thumb-healingBrew.jpg"
       },
       {
         "name": "Cloud Serpent",
@@ -2349,8 +2349,8 @@ var heroes =
         "video": "hAu4kh7lTiw",
         "slug": "cloudSerpent",
         "analyticsName": "Cloud Serpent",
-        "icon": "/images/heroes/skills/icons/lili_cloudSerpent.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lili_thumb-cloudSerpent.jpg"
+        "icon": "images/heroes/skills/icons/lili_cloudSerpent.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lili_thumb-cloudSerpent.jpg"
       },
       {
         "name": "Blinding Wind",
@@ -2358,8 +2358,8 @@ var heroes =
         "video": "wPTilAZTjHE",
         "slug": "blindingWind",
         "analyticsName": "Blinding Wind",
-        "icon": "/images/heroes/skills/icons/lili_blindingWind.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lili_thumb-blindingWind.jpg"
+        "icon": "images/heroes/skills/icons/lili_blindingWind.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lili_thumb-blindingWind.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2369,8 +2369,8 @@ var heroes =
         "video": "-Cj3F1qlmW4",
         "slug": "jugOf1000Cups",
         "analyticsName": "Jug of 1000 Cups",
-        "icon": "/images/heroes/skills/icons/lili_jugOf1000Cups.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lili_thumb-jug1000cups.jpg"
+        "icon": "images/heroes/skills/icons/lili_jugOf1000Cups.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lili_thumb-jug1000cups.jpg"
       },
       {
         "name": "Water Dragon",
@@ -2378,15 +2378,15 @@ var heroes =
         "video": "iHJqBVyAAus",
         "slug": "waterDragon",
         "analyticsName": "Water Dragon",
-        "icon": "/images/heroes/skills/icons/lili_waterDragon.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lili_thumb-waterDragon.jpg"
+        "icon": "images/heroes/skills/icons/lili_waterDragon.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lili_thumb-waterDragon.jpg"
       }
     ],
     "revealed": true,
     "video": "tSzL_6_OH-E",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/lili.jpg"
+    "busts": "images/heroes/busts/lili.jpg"
   },
   {
     "name": "Lt. Morales",
@@ -2412,33 +2412,33 @@ var heroes =
     "trait": {
       "name": "Caduceus Reactor",
       "description": "Regenerate 3% of your maximum Health every second after not taking damage for 4 seconds.",
-      "icon": "/images/heroes/skills/icons/lt-morales_caduceusReactor.jpg",
+      "icon": "images/heroes/skills/icons/lt-morales_caduceusReactor.jpg",
       "slug": "caduceusReactor"
     },
     "skins": [
       {
         "name": "Combat Medic",
         "analyticsName": "Combat Medic",
-        "image": "/images/heroes/skins/frames/combatMedic_frame.jpg",
+        "image": "images/heroes/skins/frames/combatMedic_frame.jpg",
         "slug": "combatMedic",
         "source": "/videos/heroes/skins/lt-morales_1",
-        "thumbnail": "/images/heroes/skins/lt-morales1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/lt-morales1_thumb.jpg"
       },
       {
         "name": "Master Lt. Morales",
         "analyticsName": "Master Lt. Morales",
-        "image": "/images/heroes/skins/frames/masterLtMorales_frame.jpg",
+        "image": "images/heroes/skins/frames/masterLtMorales_frame.jpg",
         "slug": "masterLtMorales",
         "source": "/videos/heroes/skins/lt-morales_2",
-        "thumbnail": "/images/heroes/skins/lt-morales2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/lt-morales2_thumb.jpg"
       },
       {
         "name": "Apothecary Morales",
         "analyticsName": "Apothecary Morales",
-        "image": "/images/heroes/skins/frames/apothecaryMorales_frame.jpg",
+        "image": "images/heroes/skins/frames/apothecaryMorales_frame.jpg",
         "slug": "apothecaryMorales",
         "source": "/videos/heroes/skins/lt-morales_3",
-        "thumbnail": "/images/heroes/skins/lt-morales3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/lt-morales3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -2448,8 +2448,8 @@ var heroes =
         "video": "",
         "slug": "healingBeam",
         "analyticsName": "Healing Beam",
-        "icon": "/images/heroes/skills/icons/lt-morales_healingBeam.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lt-morales_healingBeam.jpg"
+        "icon": "images/heroes/skills/icons/lt-morales_healingBeam.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lt-morales_healingBeam.jpg"
       },
       {
         "name": "Safeguard",
@@ -2457,8 +2457,8 @@ var heroes =
         "video": "",
         "slug": "safeguard",
         "analyticsName": "Safeguard",
-        "icon": "/images/heroes/skills/icons/lt-morales_safeguard.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lt-morales_safeguard.jpg"
+        "icon": "images/heroes/skills/icons/lt-morales_safeguard.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lt-morales_safeguard.jpg"
       },
       {
         "name": "Displacement Grenade",
@@ -2466,8 +2466,8 @@ var heroes =
         "video": "",
         "slug": "displacementGrenade",
         "analyticsName": "Displacement Grenade",
-        "icon": "/images/heroes/skills/icons/lt-morales_displacementGrenade.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lt-morales_displacementGrenade.jpg"
+        "icon": "images/heroes/skills/icons/lt-morales_displacementGrenade.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lt-morales_displacementGrenade.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2477,8 +2477,8 @@ var heroes =
         "video": "",
         "slug": "stimDrone",
         "analyticsName": "Stim Drone",
-        "icon": "/images/heroes/skills/icons/lt-morales_stimDrone.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lt-morales_stimDrone.jpg"
+        "icon": "images/heroes/skills/icons/lt-morales_stimDrone.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lt-morales_stimDrone.jpg"
       },
       {
         "name": "Medivac Dropship",
@@ -2486,15 +2486,15 @@ var heroes =
         "video": "",
         "slug": "medivacDropship",
         "analyticsName": "Medivac Dropship",
-        "icon": "/images/heroes/skills/icons/lt-morales_medivacDropship.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/lt-morales_medivacDropship.jpg"
+        "icon": "images/heroes/skills/icons/lt-morales_medivacDropship.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/lt-morales_medivacDropship.jpg"
       }
     ],
     "revealed": true,
     "video": "7xCvPv4EJgk",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/lt-morales.jpg"
+    "busts": "images/heroes/busts/lt-morales.jpg"
   },
   {
     "name": "Malfurion",
@@ -2520,41 +2520,41 @@ var heroes =
     "trait": {
       "name": "Innervate",
       "description": "Grant target allied Hero a large amount of Mana over 10 seconds.",
-      "icon": "/images/heroes/skills/icons/malfurion_innervate.jpg",
+      "icon": "images/heroes/skills/icons/malfurion_innervate.jpg",
       "slug": "innervate"
     },
     "skins": [
       {
         "name": "Archdruid",
         "analyticsName": "Archdruid",
-        "image": "/images/heroes/skins/frames/archdruid_frame.jpg",
+        "image": "images/heroes/skins/frames/archdruid_frame.jpg",
         "slug": "archdruid",
         "source": "/videos/heroes/skins/malfurion_archdruid",
-        "thumbnail": "/images/heroes/skins/thumbnails/malfurion_archdruid.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/malfurion_archdruid.jpg"
       },
       {
         "name": "Master Malfurion",
         "analyticsName": "Master Malfurion",
-        "image": "/images/heroes/skins/frames/masterMalfurion_frame.jpg",
+        "image": "images/heroes/skins/frames/masterMalfurion_frame.jpg",
         "slug": "masterMalfurion",
         "source": "/videos/heroes/skins/malfurion_masterMalfurion",
-        "thumbnail": "/images/heroes/skins/thumbnails/malfurion_masterMalfurion.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/malfurion_masterMalfurion.jpg"
       },
       {
         "name": "Storm Mantle Malfurion",
         "analyticsName": "Storm Mantle Malfurion",
-        "image": "/images/heroes/skins/frames/stormMantleMalfurion_frame.jpg",
+        "image": "images/heroes/skins/frames/stormMantleMalfurion_frame.jpg",
         "slug": "stormMantleMalfurion",
         "source": "/videos/heroes/skins/malfurion_stormMantleMalfurion",
-        "thumbnail": "/images/heroes/skins/thumbnails/malfurion_stormMantleMalfurion.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/malfurion_stormMantleMalfurion.jpg"
       },
       {
         "name": "Betrayer Malfurion",
         "analyticsName": "Betrayer Malfurion",
-        "image": "/images/heroes/skins/frames/betrayerMalfurion_frame.jpg",
+        "image": "images/heroes/skins/frames/betrayerMalfurion_frame.jpg",
         "slug": "betrayerMalfurion",
         "source": "/videos/heroes/skins/malfurion_betrayerMalfurion",
-        "thumbnail": "/images/heroes/skins/thumbnails/malfurion_betrayerMalfurion.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/malfurion_betrayerMalfurion.jpg"
       }
     ],
     "abilities": [
@@ -2564,8 +2564,8 @@ var heroes =
         "video": "",
         "slug": "regrowth",
         "analyticsName": "Regrowth",
-        "icon": "/images/heroes/skills/icons/malfurion_regrowth.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/malfurion_regrowth.jpg"
+        "icon": "images/heroes/skills/icons/malfurion_regrowth.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/malfurion_regrowth.jpg"
       },
       {
         "name": "Moonfire",
@@ -2573,8 +2573,8 @@ var heroes =
         "video": "",
         "slug": "moonfire",
         "analyticsName": "Moonfire",
-        "icon": "/images/heroes/skills/icons/malfurion_moonfire.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/malfurion_moonfire.jpg"
+        "icon": "images/heroes/skills/icons/malfurion_moonfire.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/malfurion_moonfire.jpg"
       },
       {
         "name": "Entangling Roots",
@@ -2582,8 +2582,8 @@ var heroes =
         "video": "",
         "slug": "entanglingRoots",
         "analyticsName": "Entangling Roots",
-        "icon": "/images/heroes/skills/icons/malfurion_entanglingRoots.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/malfurion_entanglingRoots.jpg"
+        "icon": "images/heroes/skills/icons/malfurion_entanglingRoots.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/malfurion_entanglingRoots.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2593,8 +2593,8 @@ var heroes =
         "video": "",
         "slug": "tranquility",
         "analyticsName": "Tranquility",
-        "icon": "/images/heroes/skills/icons/malfurion_tranquility.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/malfurion_tranquility.jpg"
+        "icon": "images/heroes/skills/icons/malfurion_tranquility.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/malfurion_tranquility.jpg"
       },
       {
         "name": "Twilight Dream",
@@ -2602,14 +2602,14 @@ var heroes =
         "video": "",
         "slug": "twilightDream",
         "analyticsName": "Twilight Dream",
-        "icon": "/images/heroes/skills/icons/malfurion_twilightDream.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/malfurion_twilightDream.jpg"
+        "icon": "images/heroes/skills/icons/malfurion_twilightDream.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/malfurion_twilightDream.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/malfurion.jpg"
+    "busts": "images/heroes/busts/malfurion.jpg"
   },
   {
     "name": "Muradin",
@@ -2635,41 +2635,41 @@ var heroes =
     "trait": {
       "name": "Second Wind",
       "description": "Restore a moderate amount of Health each second when you have not taken damage for 4 seconds. When below 40% Health, Health restored per second doubles.",
-      "icon": "/images/heroes/skills/icons/muradin_secondWind.jpg",
+      "icon": "images/heroes/skills/icons/muradin_secondWind.jpg",
       "slug": "secondWind"
     },
     "skins": [
       {
         "name": "Mountain King",
         "analyticsName": "Mountain King",
-        "image": "/images/heroes/skins/frames/mountainKing_frame.jpg",
+        "image": "images/heroes/skins/frames/mountainKing_frame.jpg",
         "slug": "mountainKing",
         "source": "/videos/heroes/skins/Muradin1",
-        "thumbnail": "/images/heroes/skins/thumbnails/muradin_mountainKing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/muradin_mountainKing.jpg"
       },
       {
         "name": "Master Muradin",
         "analyticsName": "Master Muradin",
-        "image": "/images/heroes/skins/frames/masterMuradin_frame.jpg",
+        "image": "images/heroes/skins/frames/masterMuradin_frame.jpg",
         "slug": "masterMuradin",
         "source": "/videos/heroes/skins/muradin_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/muradin_masterMuradin.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/muradin_masterMuradin.jpg"
       },
       {
         "name": "Magni Muradin",
         "analyticsName": "Magni",
-        "image": "/images/heroes/skins/frames/magniMuradin_frame.jpg",
+        "image": "images/heroes/skins/frames/magniMuradin_frame.jpg",
         "slug": "magniMuradin",
         "source": "/videos/heroes/skins/Muradin2",
-        "thumbnail": "/images/heroes/skins/thumbnails/muradin_magniMuradin.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/muradin_magniMuradin.jpg"
       },
       {
         "name": "Kandy King Muradin",
         "analyticsName": "Kandy King Muradin",
-        "image": "/images/heroes/skins/frames/kandyKingMuradin_frame.jpg",
+        "image": "images/heroes/skins/frames/kandyKingMuradin_frame.jpg",
         "slug": "kandyKingMuradin",
         "source": "/videos/heroes/skins/muradin_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/muradin_kandyKingMuradin.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/muradin_kandyKingMuradin.jpg"
       }
     ],
     "abilities": [
@@ -2679,8 +2679,8 @@ var heroes =
         "video": "vrgfy-E7LHs",
         "slug": "stormbolt",
         "analyticsName": "Stormbolt",
-        "icon": "/images/heroes/skills/icons/muradin_stormbolt.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/muradin_thumb-stormbolt.jpg"
+        "icon": "images/heroes/skills/icons/muradin_stormbolt.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/muradin_thumb-stormbolt.jpg"
       },
       {
         "name": "Thunderclap",
@@ -2688,8 +2688,8 @@ var heroes =
         "video": "PFSkvpSz5-M",
         "slug": "thunderclap",
         "analyticsName": "Thunderclap",
-        "icon": "/images/heroes/skills/icons/muradin_thunderclap.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/muradin_thumb-thunderclap.jpg"
+        "icon": "images/heroes/skills/icons/muradin_thunderclap.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/muradin_thumb-thunderclap.jpg"
       },
       {
         "name": "Dwarf Toss",
@@ -2697,8 +2697,8 @@ var heroes =
         "video": "XuWYEZHm4ds",
         "slug": "dwarfToss",
         "analyticsName": "Dwarf Toss",
-        "icon": "/images/heroes/skills/icons/muradin_dwarfToss.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/muradin_thumb-dwarfToss.jpg"
+        "icon": "images/heroes/skills/icons/muradin_dwarfToss.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/muradin_thumb-dwarfToss.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2708,8 +2708,8 @@ var heroes =
         "video": "A7SyR852ldE",
         "slug": "avatar",
         "analyticsName": "Avatar",
-        "icon": "/images/heroes/skills/icons/muradin_avatar.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/muradin_thumb-avatar.jpg"
+        "icon": "images/heroes/skills/icons/muradin_avatar.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/muradin_thumb-avatar.jpg"
       },
       {
         "name": "Haymaker",
@@ -2717,15 +2717,15 @@ var heroes =
         "video": "CX0_uZ9tuFY",
         "slug": "haymaker",
         "analyticsName": "Haymaker",
-        "icon": "/images/heroes/skills/icons/muradin_haymaker.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/muradin_thumb-haymaker.jpg"
+        "icon": "images/heroes/skills/icons/muradin_haymaker.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/muradin_thumb-haymaker.jpg"
       }
     ],
     "revealed": true,
     "video": "aFU4AyQcSxQ",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/muradin.jpg"
+    "busts": "images/heroes/busts/muradin.jpg"
   },
   {
     "name": "Murky",
@@ -2751,41 +2751,41 @@ var heroes =
     "trait": {
       "name": "Spawn Egg",
       "description": "Place an Egg at target location, revealing the nearby area. Upon dying, you respawn at the Egg after 5 seconds. If your Egg is killed, you are revealed to enemies for 15 seconds. You only grant 25% of a Hero's experience upon dying.",
-      "icon": "/images/heroes/skills/icons/murky_spawnEgg.jpg",
+      "icon": "images/heroes/skills/icons/murky_spawnEgg.jpg",
       "slug": "spawnEgg"
     },
     "skins": [
       {
         "name": "Baby Murloc",
         "analyticsName": "Baby Murloc",
-        "image": "/images/heroes/skins/frames/babyMurloc_frame.jpg",
+        "image": "images/heroes/skins/frames/babyMurloc_frame.jpg",
         "slug": "babyMurloc",
         "source": "/videos/heroes/skins/Murky1",
-        "thumbnail": "/images/heroes/skins/thumbnails/murky_babyMurloc.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/murky_babyMurloc.jpg"
       },
       {
         "name": "Master Murky",
         "analyticsName": "Master Murky",
-        "image": "/images/heroes/skins/frames/masterMurky_frame.jpg",
+        "image": "images/heroes/skins/frames/masterMurky_frame.jpg",
         "slug": "masterMurky",
         "source": "/videos/heroes/skins/murky_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/murky_masterMurky.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/murky_masterMurky.jpg"
       },
       {
         "name": "Grunty Murky",
         "analyticsName": "Grunty",
-        "image": "/images/heroes/skins/frames/gruntyMurky_frame.jpg",
+        "image": "images/heroes/skins/frames/gruntyMurky_frame.jpg",
         "slug": "gruntyMurky",
         "source": "/videos/heroes/skins/Murky2",
-        "thumbnail": "/images/heroes/skins/thumbnails/murky_gruntyMurky.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/murky_gruntyMurky.jpg"
       },
       {
         "name": "Funny Bunny Murky",
         "analyticsName": "Master Murky",
-        "image": "/images/heroes/skins/frames/funnyBunnyMurky_frame.jpg",
+        "image": "images/heroes/skins/frames/funnyBunnyMurky_frame.jpg",
         "slug": "funnyBunnyMurky",
         "source": "/videos/heroes/skins/murky_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/murky_funnyBunnyMurky.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/murky_funnyBunnyMurky.jpg"
       }
     ],
     "abilities": [
@@ -2795,8 +2795,8 @@ var heroes =
         "video": "1JMZ_ZtQW3g",
         "slug": "slime",
         "analyticsName": "Slime",
-        "icon": "/images/heroes/skills/icons/murky_slime.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/murky_thumb-slime.jpg"
+        "icon": "images/heroes/skills/icons/murky_slime.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/murky_thumb-slime.jpg"
       },
       {
         "name": "Pufferfish",
@@ -2804,8 +2804,8 @@ var heroes =
         "video": "BJRRgvmsKCE",
         "slug": "pufferfish",
         "analyticsName": "Pufferfish",
-        "icon": "/images/heroes/skills/icons/murky_pufferfish.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/murky_thumb-pufferfish.jpg"
+        "icon": "images/heroes/skills/icons/murky_pufferfish.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/murky_thumb-pufferfish.jpg"
       },
       {
         "name": "Safety Bubble",
@@ -2813,8 +2813,8 @@ var heroes =
         "video": "ByoGAUl1J8I",
         "slug": "safetyBubble",
         "analyticsName": "Safety Bubble",
-        "icon": "/images/heroes/skills/icons/murky_safetyBubble.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/murky_thumb-safetyBubble.jpg"
+        "icon": "images/heroes/skills/icons/murky_safetyBubble.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/murky_thumb-safetyBubble.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2824,8 +2824,8 @@ var heroes =
         "video": "XokBYqjRRHA",
         "slug": "marchOfTheMurlocs",
         "analyticsName": "March of the Murlocs",
-        "icon": "/images/heroes/skills/icons/murky_marchOfTheMurlocs.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/murky_thumb-murlocMarch.jpg"
+        "icon": "images/heroes/skills/icons/murky_marchOfTheMurlocs.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/murky_thumb-murlocMarch.jpg"
       },
       {
         "name": "Octo-Grab",
@@ -2833,15 +2833,15 @@ var heroes =
         "video": "dDFGO0lSnYI",
         "slug": "octoGrab",
         "analyticsName": "Octo-grab",
-        "icon": "/images/heroes/skills/icons/murky_octoGrab.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/murky_thumb-octoGrab.jpg"
+        "icon": "images/heroes/skills/icons/murky_octoGrab.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/murky_thumb-octoGrab.jpg"
       }
     ],
     "revealed": true,
     "video": "HFuDXxL3G9Y",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/murky.jpg"
+    "busts": "images/heroes/busts/murky.jpg"
   },
   {
     "name": "Nazeebo",
@@ -2867,41 +2867,41 @@ var heroes =
     "trait": {
       "name": "Voodoo Ritual",
       "description": "Ability and attack damage poisons enemies for a small amount of additional damage over 4 seconds.   If a poisoned enemy dies, Nazeebo regenerates 2% Health and 1% Mana.",
-      "icon": "/images/heroes/skills/icons/nazeebo_voodooRitual.jpg",
+      "icon": "images/heroes/skills/icons/nazeebo_voodooRitual.jpg",
       "slug": "voodooRitual"
     },
     "skins": [
       {
         "name": "Heretic Witch Doctor",
         "analyticsName": "Heretic Witch Doctor",
-        "image": "/images/heroes/skins/frames/hereticWitchDoctor_frame.jpg",
+        "image": "images/heroes/skins/frames/hereticWitchDoctor_frame.jpg",
         "slug": "hereticWitchDoctor",
         "source": "/videos/heroes/skins/nazeebo_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/nazeebo_hereticWitchDoctor.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nazeebo_hereticWitchDoctor.jpg"
       },
       {
         "name": "Master Nazeebo",
         "analyticsName": "Master Nazeebo",
-        "image": "/images/heroes/skins/frames/masterNazeebo_frame.jpg",
+        "image": "images/heroes/skins/frames/masterNazeebo_frame.jpg",
         "slug": "masterNazeebo",
         "source": "/videos/heroes/skins/nazeebo_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/nazeebo_masterNazeebo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nazeebo_masterNazeebo.jpg"
       },
       {
         "name": "Grimskull Nazeebo",
         "analyticsName": "Grimskull Nazeebo",
-        "image": "/images/heroes/skins/frames/grimskullNazeebo_frame.jpg",
+        "image": "images/heroes/skins/frames/grimskullNazeebo_frame.jpg",
         "slug": "grimskullNazeebo",
         "source": "/videos/heroes/skins/nazeebo_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/nazeebo_grimskullNazeebo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nazeebo_grimskullNazeebo.jpg"
       },
       {
         "name": "Harlequin Nazeebo",
         "analyticsName": "Harlequin Nazeebo",
-        "image": "/images/heroes/skins/frames/harlequinNazeebo_frame.jpg",
+        "image": "images/heroes/skins/frames/harlequinNazeebo_frame.jpg",
         "slug": "harlequinNazeebo",
         "source": "/videos/heroes/skins/nazeebo_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/nazeebo_harlequinNazeebo.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nazeebo_harlequinNazeebo.jpg"
       }
     ],
     "abilities": [
@@ -2911,8 +2911,8 @@ var heroes =
         "video": "",
         "slug": "corpseSpiders",
         "analyticsName": "Corpse Spiders",
-        "icon": "/images/heroes/skills/icons/nazeebo_corpseSpiders.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nazeebo_corpseSpiders.jpg"
+        "icon": "images/heroes/skills/icons/nazeebo_corpseSpiders.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nazeebo_corpseSpiders.jpg"
       },
       {
         "name": "Zombie Wall",
@@ -2920,8 +2920,8 @@ var heroes =
         "video": "",
         "slug": "zombieWall",
         "analyticsName": "Zombie Wall",
-        "icon": "/images/heroes/skills/icons/nazeebo_zombieWall.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nazeebo_zombieWall.jpg"
+        "icon": "images/heroes/skills/icons/nazeebo_zombieWall.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nazeebo_zombieWall.jpg"
       },
       {
         "name": "Plague of Toads",
@@ -2929,8 +2929,8 @@ var heroes =
         "video": "",
         "slug": "plagueOfToads",
         "analyticsName": "Plague of Toads",
-        "icon": "/images/heroes/skills/icons/nazeebo_plagueOfToads.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nazeebo_plagueOfToads.jpg"
+        "icon": "images/heroes/skills/icons/nazeebo_plagueOfToads.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nazeebo_plagueOfToads.jpg"
       }
     ],
     "heroicAbilities": [
@@ -2940,8 +2940,8 @@ var heroes =
         "video": "",
         "slug": "ravenousSpirit",
         "analyticsName": "Ravenous Spirit",
-        "icon": "/images/heroes/skills/icons/nazeebo_ravenousSpirit.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nazeebo_ravenousSpirit.jpg"
+        "icon": "images/heroes/skills/icons/nazeebo_ravenousSpirit.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nazeebo_ravenousSpirit.jpg"
       },
       {
         "name": "Gargantuan",
@@ -2949,14 +2949,14 @@ var heroes =
         "video": "",
         "slug": "gargantuan",
         "analyticsName": "Gargantuan",
-        "icon": "/images/heroes/skills/icons/nazeebo_gargantuan.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nazeebo_gargantuan.jpg"
+        "icon": "images/heroes/skills/icons/nazeebo_gargantuan.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nazeebo_gargantuan.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/nazeebo.jpg"
+    "busts": "images/heroes/busts/nazeebo.jpg"
   },
   {
     "name": "Nova",
@@ -2982,49 +2982,49 @@ var heroes =
     "trait": {
       "name": "Permanent Cloak, Sniper",
       "description": "Cloak when out of combat for 3 seconds. Taking damage, attacking, or channeling reveals you.  Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
-      "icon": "/images/heroes/skills/icons/nova_permanentCloakSniper.jpg",
+      "icon": "images/heroes/skills/icons/nova_permanentCloakSniper.jpg",
       "slug": "permanentCloakSniper"
     },
     "skins": [
       {
         "name": "Dominion Ghost",
         "analyticsName": "Dominion Ghost",
-        "image": "/images/heroes/skins/frames/dominionGhost_frame.jpg",
+        "image": "images/heroes/skins/frames/dominionGhost_frame.jpg",
         "slug": "dominionGhost",
         "source": "/videos/heroes/skins/nova_dominionGhost",
-        "thumbnail": "/images/heroes/skins/thumbnails/nova_dominionGhost.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nova_dominionGhost.jpg"
       },
       {
         "name": "Master Nova",
         "analyticsName": "Master Nova",
-        "image": "/images/heroes/skins/frames/masterNova_frame.jpg",
+        "image": "images/heroes/skins/frames/masterNova_frame.jpg",
         "slug": "masterNova",
         "source": "/videos/heroes/skins/nova_masterNova",
-        "thumbnail": "/images/heroes/skins/thumbnails/nova_masterNova.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nova_masterNova.jpg"
       },
       {
         "name": "Spectre Nova",
         "analyticsName": "Spectre Nova",
-        "image": "/images/heroes/skins/frames/spectreNova_frame.jpg",
+        "image": "images/heroes/skins/frames/spectreNova_frame.jpg",
         "slug": "spectreNova",
         "source": "/videos/heroes/skins/nova_spectreNova",
-        "thumbnail": "/images/heroes/skins/thumbnails/nova_spectreNova.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nova_spectreNova.jpg"
       },
       {
         "name": "Roller Derby Nova",
         "analyticsName": "Roller Derby Nova",
-        "image": "/images/heroes/skins/frames/rollerDerbyNova_frame.jpg",
+        "image": "images/heroes/skins/frames/rollerDerbyNova_frame.jpg",
         "slug": "rollerDerbyNova",
         "source": "/videos/heroes/skins/nova_rollerDerbyNova",
-        "thumbnail": "/images/heroes/skins/thumbnails/nova_rollerDerbyNova.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nova_rollerDerbyNova.jpg"
       },
       {
         "name": "Novazon Nova",
         "analyticsName": "Novazon Nova",
-        "image": "/images/heroes/skins/frames/novazonNova_frame.jpg",
+        "image": "images/heroes/skins/frames/novazonNova_frame.jpg",
         "slug": "novazonNova",
         "source": "/videos/heroes/skins/nova_novazonNova",
-        "thumbnail": "/images/heroes/skins/thumbnails/nova_novazonNova.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/nova_novazonNova.jpg"
       }
     ],
     "abilities": [
@@ -3034,8 +3034,8 @@ var heroes =
         "video": "",
         "slug": "snipe",
         "analyticsName": "Snipe",
-        "icon": "/images/heroes/skills/icons/nova_snipe.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nova_snipe.jpg"
+        "icon": "images/heroes/skills/icons/nova_snipe.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nova_snipe.jpg"
       },
       {
         "name": "Pinning Shot",
@@ -3043,8 +3043,8 @@ var heroes =
         "video": "",
         "slug": "pinningShot",
         "analyticsName": "Pinning Shot",
-        "icon": "/images/heroes/skills/icons/nova_pinningShot.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nova_pinningShot.jpg"
+        "icon": "images/heroes/skills/icons/nova_pinningShot.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nova_pinningShot.jpg"
       },
       {
         "name": "Holo Decoy",
@@ -3052,8 +3052,8 @@ var heroes =
         "video": "",
         "slug": "holoDecoy",
         "analyticsName": "Holo Decoy",
-        "icon": "/images/heroes/skills/icons/nova_holoDecoy.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nova_holoDecoy.jpg"
+        "icon": "images/heroes/skills/icons/nova_holoDecoy.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nova_holoDecoy.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3063,8 +3063,8 @@ var heroes =
         "video": "",
         "slug": "precisionStrike",
         "analyticsName": "Precision Strike",
-        "icon": "/images/heroes/skills/icons/nova_precisionStrike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nova_precisionStrike.jpg"
+        "icon": "images/heroes/skills/icons/nova_precisionStrike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nova_precisionStrike.jpg"
       },
       {
         "name": "Triple Tap",
@@ -3072,14 +3072,14 @@ var heroes =
         "video": "",
         "slug": "tripleTap",
         "analyticsName": "Triple Tap",
-        "icon": "/images/heroes/skills/icons/nova_tripleTap.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/nova_tripleTap.jpg"
+        "icon": "images/heroes/skills/icons/nova_tripleTap.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/nova_tripleTap.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/nova.jpg"
+    "busts": "images/heroes/busts/nova.jpg"
   },
   {
     "name": "Raynor",
@@ -3105,49 +3105,49 @@ var heroes =
     "trait": {
       "name": "Advanced Optics",
       "description": "Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
-      "icon": "/images/heroes/skills/icons/raynor_advancedOptics.jpg",
+      "icon": "images/heroes/skills/icons/raynor_advancedOptics.jpg",
       "slug": "advancedOptics"
     },
     "skins": [
       {
         "name": "Renegade Commander",
         "analyticsName": "Renegade Commander",
-        "image": "/images/heroes/skins/frames/renegadeCommander_frame.jpg",
+        "image": "images/heroes/skins/frames/renegadeCommander_frame.jpg",
         "slug": "renegadeCommander",
         "source": "/videos/heroes/skins/raynor_renegadeCommander",
-        "thumbnail": "/images/heroes/skins/thumbnails/raynor_renegadeCommander.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/raynor_renegadeCommander.jpg"
       },
       {
         "name": "Master Raynor",
         "analyticsName": "Master Raynor",
-        "image": "/images/heroes/skins/frames/masterRaynor_frame.jpg",
+        "image": "images/heroes/skins/frames/masterRaynor_frame.jpg",
         "slug": "masterRaynor",
         "source": "/videos/heroes/skins/raynor_masterRaynor",
-        "thumbnail": "/images/heroes/skins/thumbnails/raynor_masterRaynor.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/raynor_masterRaynor.jpg"
       },
       {
         "name": "Stars and Stripes Raynor",
         "analyticsName": "Stars and Stripes Raynor",
-        "image": "/images/heroes/skins/frames/starsAndStripesRaynor_frame.jpg",
+        "image": "images/heroes/skins/frames/starsAndStripesRaynor_frame.jpg",
         "slug": "starsAndStripesRaynor",
         "source": "/videos/heroes/skins/raynor_starsAndStripesRaynor",
-        "thumbnail": "/images/heroes/skins/thumbnails/raynor_starsAndStripesRaynor.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/raynor_starsAndStripesRaynor.jpg"
       },
       {
         "name": "Commander Raynor",
         "analyticsName": "Commander Raynor",
-        "image": "/images/heroes/skins/frames/commanderRaynor_frame.jpg",
+        "image": "images/heroes/skins/frames/commanderRaynor_frame.jpg",
         "slug": "commanderRaynor",
         "source": "/videos/heroes/skins/raynor_commanderRaynor",
-        "thumbnail": "/images/heroes/skins/thumbnails/raynor_commanderRaynor.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/raynor_commanderRaynor.jpg"
       },
       {
         "name": "Marshal Raynor",
         "analyticsName": "Marshal Raynor",
-        "image": "/images/heroes/skins/frames/marshalRaynor_frame.jpg",
+        "image": "images/heroes/skins/frames/marshalRaynor_frame.jpg",
         "slug": "marshalRaynor",
         "source": "/videos/heroes/skins/raynor_marshalRaynor",
-        "thumbnail": "/images/heroes/skins/thumbnails/raynor_marshalRaynor.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/raynor_marshalRaynor.jpg"
       }
     ],
     "abilities": [
@@ -3157,8 +3157,8 @@ var heroes =
         "video": "",
         "slug": "penetratingRound",
         "analyticsName": "Penetrating Round",
-        "icon": "/images/heroes/skills/icons/raynor_penetratingRound.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/raynor_penetratingRound.jpg"
+        "icon": "images/heroes/skills/icons/raynor_penetratingRound.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/raynor_penetratingRound.jpg"
       },
       {
         "name": "Inspire",
@@ -3166,8 +3166,8 @@ var heroes =
         "video": "",
         "slug": "inspire",
         "analyticsName": "Inspire",
-        "icon": "/images/heroes/skills/icons/raynor_inspire.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/raynor_inspire.jpg"
+        "icon": "images/heroes/skills/icons/raynor_inspire.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/raynor_inspire.jpg"
       },
       {
         "name": "Adrenaline Rush",
@@ -3175,8 +3175,8 @@ var heroes =
         "video": "",
         "slug": "adrenalineRush",
         "analyticsName": "Adrenaline Rush",
-        "icon": "/images/heroes/skills/icons/raynor_adrenalineRush.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/raynor_adrenalineRush.jpg"
+        "icon": "images/heroes/skills/icons/raynor_adrenalineRush.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/raynor_adrenalineRush.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3186,8 +3186,8 @@ var heroes =
         "video": "",
         "slug": "hyperion",
         "analyticsName": "Hyperion",
-        "icon": "/images/heroes/skills/icons/raynor_hyperion.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/raynor_hyperion.jpg"
+        "icon": "images/heroes/skills/icons/raynor_hyperion.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/raynor_hyperion.jpg"
       },
       {
         "name": "Raynor's Raiders",
@@ -3195,14 +3195,14 @@ var heroes =
         "video": "",
         "slug": "raynorsRaiders",
         "analyticsName": "Raynor's Raiders",
-        "icon": "/images/heroes/skills/icons/raynor_raynorsRaiders.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/raynor_raynorsRaiders.jpg"
+        "icon": "images/heroes/skills/icons/raynor_raynorsRaiders.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/raynor_raynorsRaiders.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/raynor.jpg"
+    "busts": "images/heroes/busts/raynor.jpg"
   },
   {
     "name": "Rehgar",
@@ -3228,41 +3228,41 @@ var heroes =
     "trait": {
       "name": "Ghost Wolf",
       "description": "Instead of using a mount, Rehgar transforms into a Ghost Wolf, increasing movement speed by 30%. Transformation is instant and can be used while moving. Basic Attacks while in Ghost Wolf cancel the form but deal 100% increased damage.",
-      "icon": "/images/heroes/skills/icons/rehgar_ghostWolf.jpg",
+      "icon": "images/heroes/skills/icons/rehgar_ghostWolf.jpg",
       "slug": "ghostWolf"
     },
     "skins": [
       {
         "name": "Shaman of the Earthen Ring",
         "analyticsName": "Shaman",
-        "image": "/images/heroes/skins/frames/shamanOfTheEarthenRing_frame.jpg",
+        "image": "images/heroes/skins/frames/shamanOfTheEarthenRing_frame.jpg",
         "slug": "shamanOfTheEarthenRing",
         "source": "/videos/heroes/skins/Rehgar1",
-        "thumbnail": "/images/heroes/skins/thumbnails/rehgar_shamanOfTheEarthenRing.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/rehgar_shamanOfTheEarthenRing.jpg"
       },
       {
         "name": "Master Rehgar",
         "analyticsName": "Master Rehgar",
-        "image": "/images/heroes/skins/frames/masterRehgar_frame.jpg",
+        "image": "images/heroes/skins/frames/masterRehgar_frame.jpg",
         "slug": "masterRehgar",
         "source": "/videos/heroes/skins/rehgar_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/rehgar_masterRehgar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/rehgar_masterRehgar.jpg"
       },
       {
         "name": "Ironclaw Rehgar",
         "analyticsName": "Iron Claw",
-        "image": "/images/heroes/skins/frames/ironclawRehgar_frame.jpg",
+        "image": "images/heroes/skins/frames/ironclawRehgar_frame.jpg",
         "slug": "ironclawRehgar",
         "source": "/videos/heroes/skins/Rehgar2",
-        "thumbnail": "/images/heroes/skins/thumbnails/rehgar_ironclawRehgar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/rehgar_ironclawRehgar.jpg"
       },
       {
         "name": "Great-father Winter Rehgar",
         "analyticsName": "Great-father Winter Rehgar",
-        "image": "/images/heroes/skins/frames/greatfatherWinterRehgar_frame.jpg",
+        "image": "images/heroes/skins/frames/greatfatherWinterRehgar_frame.jpg",
         "slug": "greatfatherWinterRehgar",
         "source": "/videos/heroes/skins/rehgar_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/rehgar_greatfatherWinterRehgar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/rehgar_greatfatherWinterRehgar.jpg"
       }
     ],
     "abilities": [
@@ -3272,8 +3272,8 @@ var heroes =
         "video": "wPOW4WCf7qw",
         "slug": "chainHeal",
         "analyticsName": "Chain Heal",
-        "icon": "/images/heroes/skills/icons/rehgar_chainHeal.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rehgar_thumb-chainHeal.jpg"
+        "icon": "images/heroes/skills/icons/rehgar_chainHeal.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rehgar_thumb-chainHeal.jpg"
       },
       {
         "name": "Lightning Shield",
@@ -3281,8 +3281,8 @@ var heroes =
         "video": "371cYyxMqTo",
         "slug": "lightningShield",
         "analyticsName": "Lightning Shield",
-        "icon": "/images/heroes/skills/icons/rehgar_lightningShield.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rehgar_thumb-lightningShield.jpg"
+        "icon": "images/heroes/skills/icons/rehgar_lightningShield.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rehgar_thumb-lightningShield.jpg"
       },
       {
         "name": "Earthbind Totem",
@@ -3290,8 +3290,8 @@ var heroes =
         "video": "yyDhz3Mnybw",
         "slug": "earthbindTotem",
         "analyticsName": "Earthbind Totem",
-        "icon": "/images/heroes/skills/icons/rehgar_earthbindTotem.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rehgar_thumb-earthbindTotem.jpg"
+        "icon": "images/heroes/skills/icons/rehgar_earthbindTotem.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rehgar_thumb-earthbindTotem.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3301,8 +3301,8 @@ var heroes =
         "video": "M3d4pErGQ1k",
         "slug": "bloodlust",
         "analyticsName": "Bloodlust",
-        "icon": "/images/heroes/skills/icons/rehgar_bloodlust.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rehgar_thumb-bloodlust.jpg"
+        "icon": "images/heroes/skills/icons/rehgar_bloodlust.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rehgar_thumb-bloodlust.jpg"
       },
       {
         "name": "Ancestral Healing",
@@ -3310,15 +3310,15 @@ var heroes =
         "video": "t93ExNbH7MY",
         "slug": "ancestralHealing",
         "analyticsName": "Ancestral Healing",
-        "icon": "/images/heroes/skills/icons/rehgar_ancestralHealing.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rehgar_thumb-ancestralHealing.jpg"
+        "icon": "images/heroes/skills/icons/rehgar_ancestralHealing.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rehgar_thumb-ancestralHealing.jpg"
       }
     ],
     "revealed": true,
     "video": "yh7Hk3xXwEE",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/rehgar.jpg"
+    "busts": "images/heroes/busts/rehgar.jpg"
   },
   {
     "name": "Rexxar",
@@ -3344,33 +3344,33 @@ var heroes =
     "trait": {
       "name": "Command Misha",
       "description": "Activate to command Misha to alternately stay by your side or attack your enemies.",
-      "icon": "/images/heroes/skills/icons/rexxar_commandMisha.jpg",
+      "icon": "images/heroes/skills/icons/rexxar_commandMisha.jpg",
       "slug": "commandMisha"
     },
     "skins": [
       {
         "name": "Champion of the Horde",
         "analyticsName": "Champion of the Horde",
-        "image": "/images/heroes/skins/frames/championOfTheHorde_frame.jpg",
+        "image": "images/heroes/skins/frames/championOfTheHorde_frame.jpg",
         "slug": "championOfTheHorde",
         "source": "/videos/heroes/skins/rexxar_1",
-        "thumbnail": "/images/heroes/skins/rexxar1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/rexxar1_thumb.jpg"
       },
       {
         "name": "Master Rexxar",
         "analyticsName": "Master Rexxar",
-        "image": "/images/heroes/skins/frames/masterRexxar_frame.jpg",
+        "image": "images/heroes/skins/frames/masterRexxar_frame.jpg",
         "slug": "masterRexxar",
         "source": "/videos/heroes/skins/rexxar_2",
-        "thumbnail": "/images/heroes/skins/rexxar2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/rexxar2_thumb.jpg"
       },
       {
         "name": "Frostlord Rexxar",
         "analyticsName": "Frostlord Rexxar",
-        "image": "/images/heroes/skins/frames/frostlordRexxar_frame.jpg",
+        "image": "images/heroes/skins/frames/frostlordRexxar_frame.jpg",
         "slug": "frostlordRexxar",
         "source": "/videos/heroes/skins/rexxar_3",
-        "thumbnail": "/images/heroes/skins/rexxar3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/rexxar3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -3380,8 +3380,8 @@ var heroes =
         "video": "",
         "slug": "spiritSwoop",
         "analyticsName": "Spirit Swoop",
-        "icon": "/images/heroes/skills/icons/rexxar_spiritSwoop.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rexxar_spiritSwoop.jpg"
+        "icon": "images/heroes/skills/icons/rexxar_spiritSwoop.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rexxar_spiritSwoop.jpg"
       },
       {
         "name": "Misha, Charge!",
@@ -3389,8 +3389,8 @@ var heroes =
         "video": "",
         "slug": "mishaCharge",
         "analyticsName": "Misha, Charge!",
-        "icon": "/images/heroes/skills/icons/rexxar_mishaCharge.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rexxar_mishaCharge.jpg"
+        "icon": "images/heroes/skills/icons/rexxar_mishaCharge.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rexxar_mishaCharge.jpg"
       },
       {
         "name": "Mend Pet",
@@ -3398,8 +3398,8 @@ var heroes =
         "video": "",
         "slug": "mendPet",
         "analyticsName": "Mend Pet",
-        "icon": "/images/heroes/skills/icons/rexxar_mendPet.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rexxar_mendPet.jpg"
+        "icon": "images/heroes/skills/icons/rexxar_mendPet.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rexxar_mendPet.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3409,8 +3409,8 @@ var heroes =
         "video": "",
         "slug": "bestialWrath",
         "analyticsName": "Bestial Wrath",
-        "icon": "/images/heroes/skills/icons/rexxar_bestialWrath.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rexxar_bestialWrath.jpg"
+        "icon": "images/heroes/skills/icons/rexxar_bestialWrath.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rexxar_bestialWrath.jpg"
       },
       {
         "name": "Unleash the Boars",
@@ -3418,15 +3418,15 @@ var heroes =
         "video": "",
         "slug": "unleashTheBoars",
         "analyticsName": "Unleash the Boars",
-        "icon": "/images/heroes/skills/icons/rexxar_unleashTheBoars.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/rexxar_unleashTheBoars.jpg"
+        "icon": "images/heroes/skills/icons/rexxar_unleashTheBoars.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/rexxar_unleashTheBoars.jpg"
       }
     ],
     "revealed": true,
     "video": "Wv9I_HrhRNc",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/rexxar.jpg"
+    "busts": "images/heroes/busts/rexxar.jpg"
   },
   {
     "name": "Sgt. Hammer",
@@ -3452,41 +3452,41 @@ var heroes =
     "trait": {
       "name": "Artillery",
       "description": "Basic Attacks deal 20% more damage to distant enemies.",
-      "icon": "/images/heroes/skills/icons/sgt-hammer_artillery.jpg",
+      "icon": "images/heroes/skills/icons/sgt-hammer_artillery.jpg",
       "slug": "artillery"
     },
     "skins": [
       {
         "name": "Siege Tank Operator",
         "analyticsName": "Siege Tank Operator",
-        "image": "/images/heroes/skins/frames/siegeTankOperator_frame.jpg",
+        "image": "images/heroes/skins/frames/siegeTankOperator_frame.jpg",
         "slug": "siegeTankOperator",
         "source": "/videos/heroes/skins/sgt-hammer_siegeTankOperator",
-        "thumbnail": "/images/heroes/skins/thumbnails/sgt-hammer_siegeTankOperator.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sgt-hammer_siegeTankOperator.jpg"
       },
       {
         "name": "Master Sgt. Hammer",
         "analyticsName": "Master Sgt. Hammer",
-        "image": "/images/heroes/skins/frames/masterSgtHammer_frame.jpg",
+        "image": "images/heroes/skins/frames/masterSgtHammer_frame.jpg",
         "slug": "masterSgtHammer",
         "source": "/videos/heroes/skins/sgt-hammer_masterSgtHammer",
-        "thumbnail": "/images/heroes/skins/thumbnails/sgt-hammer_masterSgtHammer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sgt-hammer_masterSgtHammer.jpg"
       },
       {
         "name": "War World Sgt. Hammer",
         "analyticsName": "War World Sgt. Hammer",
-        "image": "/images/heroes/skins/frames/warWorldSgtHammer_frame.jpg",
+        "image": "images/heroes/skins/frames/warWorldSgtHammer_frame.jpg",
         "slug": "warWorldSgtHammer",
         "source": "/videos/heroes/skins/sgt-hammer_warWorldSgtHammer",
-        "thumbnail": "/images/heroes/skins/thumbnails/sgt-hammer_warWorldSgtHammer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sgt-hammer_warWorldSgtHammer.jpg"
       },
       {
         "name": "Sgt. Doomhammer",
         "analyticsName": "Sgt. Doomhammer",
-        "image": "/images/heroes/skins/frames/sgtDoomhammer_frame.jpg",
+        "image": "images/heroes/skins/frames/sgtDoomhammer_frame.jpg",
         "slug": "sgtDoomhammer",
         "source": "/videos/heroes/skins/sgt-hammer_sgtDoomhammer",
-        "thumbnail": "/images/heroes/skins/thumbnails/sgt-hammer_sgtDoomhammer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sgt-hammer_sgtDoomhammer.jpg"
       }
     ],
     "abilities": [
@@ -3496,8 +3496,8 @@ var heroes =
         "video": "",
         "slug": "spiderMines",
         "analyticsName": "Spider Mines",
-        "icon": "/images/heroes/skills/icons/sgt-hammer_spiderMines.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sgt-hammer_spiderMines.jpg"
+        "icon": "images/heroes/skills/icons/sgt-hammer_spiderMines.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sgt-hammer_spiderMines.jpg"
       },
       {
         "name": "Concussive Blast",
@@ -3505,8 +3505,8 @@ var heroes =
         "video": "",
         "slug": "concussiveBlast",
         "analyticsName": "Concussive Blast",
-        "icon": "/images/heroes/skills/icons/sgt-hammer_concussiveBlast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sgt-hammer_concussiveBlast.jpg"
+        "icon": "images/heroes/skills/icons/sgt-hammer_concussiveBlast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sgt-hammer_concussiveBlast.jpg"
       },
       {
         "name": "Siege Mode",
@@ -3514,8 +3514,8 @@ var heroes =
         "video": "",
         "slug": "siegeMode",
         "analyticsName": "Siege Mode",
-        "icon": "/images/heroes/skills/icons/sgt-hammer_siegeMode.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sgt-hammer_siegeMode.jpg"
+        "icon": "images/heroes/skills/icons/sgt-hammer_siegeMode.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sgt-hammer_siegeMode.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3525,8 +3525,8 @@ var heroes =
         "video": "",
         "slug": "bluntForceGun",
         "analyticsName": "Blunt Force Gun",
-        "icon": "/images/heroes/skills/icons/sgt-hammer_bluntForceGun.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sgt-hammer_bluntForceGun.jpg"
+        "icon": "images/heroes/skills/icons/sgt-hammer_bluntForceGun.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sgt-hammer_bluntForceGun.jpg"
       },
       {
         "name": "Napalm Strike",
@@ -3534,14 +3534,14 @@ var heroes =
         "video": "",
         "slug": "napalmStrike",
         "analyticsName": "Napalm Strike",
-        "icon": "/images/heroes/skills/icons/sgt-hammer_napalmStrike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sgt-hammer_napalmStrike.jpg"
+        "icon": "images/heroes/skills/icons/sgt-hammer_napalmStrike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sgt-hammer_napalmStrike.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/sgt-hammer.jpg"
+    "busts": "images/heroes/busts/sgt-hammer.jpg"
   },
   {
     "name": "Sonya",
@@ -3567,41 +3567,41 @@ var heroes =
     "trait": {
       "name": "Fury",
       "description": "Use Fury instead of Mana, which is gained by taking or dealing damage. Using an Ability grants 10% Movement Speed for 4 seconds.",
-      "icon": "/images/heroes/skills/icons/sonya_fury.jpg",
+      "icon": "images/heroes/skills/icons/sonya_fury.jpg",
       "slug": "fury"
     },
     "skins": [
       {
         "name": "Wandering Barbarian",
         "analyticsName": "Wandering Barbarian",
-        "image": "/images/heroes/skins/frames/wanderingBarbarian_frame.jpg",
+        "image": "images/heroes/skins/frames/wanderingBarbarian_frame.jpg",
         "slug": "wanderingBarbarian",
         "source": "/videos/heroes/skins/sonya_wanderingBarbarian",
-        "thumbnail": "/images/heroes/skins/thumbnails/sonya_wanderingBarbarian.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sonya_wanderingBarbarian.jpg"
       },
       {
         "name": "Master Sonya",
         "analyticsName": "Master Sonya",
-        "image": "/images/heroes/skins/frames/masterSonya_frame.jpg",
+        "image": "images/heroes/skins/frames/masterSonya_frame.jpg",
         "slug": "masterSonya",
         "source": "/videos/heroes/skins/sonya_masterSonya",
-        "thumbnail": "/images/heroes/skins/thumbnails/sonya_masterSonya.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sonya_masterSonya.jpg"
       },
       {
         "name": "Wrath Sonya",
         "analyticsName": "Wrath Sonya",
-        "image": "/images/heroes/skins/frames/wrathSonya_frame.jpg",
+        "image": "images/heroes/skins/frames/wrathSonya_frame.jpg",
         "slug": "wrathSonya",
         "source": "/videos/heroes/skins/sonya_wrathSonya",
-        "thumbnail": "/images/heroes/skins/thumbnails/sonya_wrathSonya.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sonya_wrathSonya.jpg"
       },
       {
         "name": "Super Sonya",
         "analyticsName": "Super Sonya",
-        "image": "/images/heroes/skins/frames/superSonya_frame.jpg",
+        "image": "images/heroes/skins/frames/superSonya_frame.jpg",
         "slug": "superSonya",
         "source": "/videos/heroes/skins/sonya_superSonya",
-        "thumbnail": "/images/heroes/skins/thumbnails/sonya_superSonya.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/sonya_superSonya.jpg"
       }
     ],
     "abilities": [
@@ -3611,8 +3611,8 @@ var heroes =
         "video": "",
         "slug": "ancientSpear",
         "analyticsName": "Ancient Spear",
-        "icon": "/images/heroes/skills/icons/sonya_ancientSpear.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sonya_ancientSpear.jpg"
+        "icon": "images/heroes/skills/icons/sonya_ancientSpear.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sonya_ancientSpear.jpg"
       },
       {
         "name": "Seismic Slam",
@@ -3620,8 +3620,8 @@ var heroes =
         "video": "",
         "slug": "seismicSlam",
         "analyticsName": "Seismic Slam",
-        "icon": "/images/heroes/skills/icons/sonya_seismicSlam.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sonya_seismicSlam.jpg"
+        "icon": "images/heroes/skills/icons/sonya_seismicSlam.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sonya_seismicSlam.jpg"
       },
       {
         "name": "Whirlwind",
@@ -3629,8 +3629,8 @@ var heroes =
         "video": "",
         "slug": "whirlwind",
         "analyticsName": "Whirlwind",
-        "icon": "/images/heroes/skills/icons/sonya_whirlwind.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sonya_whirlwind.jpg"
+        "icon": "images/heroes/skills/icons/sonya_whirlwind.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sonya_whirlwind.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3640,8 +3640,8 @@ var heroes =
         "video": "",
         "slug": "leap",
         "analyticsName": "Leap",
-        "icon": "/images/heroes/skills/icons/sonya_leap.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sonya_leap.jpg"
+        "icon": "images/heroes/skills/icons/sonya_leap.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sonya_leap.jpg"
       },
       {
         "name": "Wrath of the Berserker",
@@ -3649,14 +3649,14 @@ var heroes =
         "video": "",
         "slug": "wrathOfTheBerserker",
         "analyticsName": "Wrath of the Berserker",
-        "icon": "/images/heroes/skills/icons/sonya_wrathOfTheBerserker.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sonya_wrathOfTheBerserker.jpg"
+        "icon": "images/heroes/skills/icons/sonya_wrathOfTheBerserker.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sonya_wrathOfTheBerserker.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/sonya.jpg"
+    "busts": "images/heroes/busts/sonya.jpg"
   },
   {
     "name": "Stitches",
@@ -3682,49 +3682,49 @@ var heroes =
     "trait": {
       "name": "Vile Gas",
       "description": "When damaged, Stitches emits a gas cloud that persists for 4 seconds. Enemies who enter it are poisoned, taking light damage each second for 3 seconds.",
-      "icon": "/images/heroes/skills/icons/stitches_vileGas.jpg",
+      "icon": "images/heroes/skills/icons/stitches_vileGas.jpg",
       "slug": "vileGas"
     },
     "skins": [
       {
         "name": "Terror of Darkshire",
         "analyticsName": "Terror of Darkshire",
-        "image": "/images/heroes/skins/frames/terrorOfDarkshire_frame.jpg",
+        "image": "images/heroes/skins/frames/terrorOfDarkshire_frame.jpg",
         "slug": "terrorOfDarkshire",
         "source": "/videos/heroes/skins/stitches_terrorOfDarkshire",
-        "thumbnail": "/images/heroes/skins/thumbnails/stitches_terrorOfDarkshire.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/stitches_terrorOfDarkshire.jpg"
       },
       {
         "name": "Master Stitches",
         "analyticsName": "Master Stitches",
-        "image": "/images/heroes/skins/frames/masterStitches_frame.jpg",
+        "image": "images/heroes/skins/frames/masterStitches_frame.jpg",
         "slug": "masterStitches",
         "source": "/videos/heroes/skins/stitches_masterStitches",
-        "thumbnail": "/images/heroes/skins/thumbnails/stitches_masterStitches.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/stitches_masterStitches.jpg"
       },
       {
         "name": "Psycho Stitches",
         "analyticsName": "Psycho Stitches",
-        "image": "/images/heroes/skins/frames/psychoStitches_frame.jpg",
+        "image": "images/heroes/skins/frames/psychoStitches_frame.jpg",
         "slug": "psychoStitches",
         "source": "/videos/heroes/skins/stitches_psychoStitches",
-        "thumbnail": "/images/heroes/skins/thumbnails/stitches_psychoStitches.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/stitches_psychoStitches.jpg"
       },
       {
         "name": "Chef Stitches",
         "analyticsName": "Chef Stitches",
-        "image": "/images/heroes/skins/frames/chefStitches_frame.jpg",
+        "image": "images/heroes/skins/frames/chefStitches_frame.jpg",
         "slug": "chefStitches",
         "source": "/videos/heroes/skins/stitches_chefStitches",
-        "thumbnail": "/images/heroes/skins/thumbnails/stitches_chefStitches.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/stitches_chefStitches.jpg"
       },
       {
         "name": "Bikini Stitches",
         "analyticsName": "Bikini Stitches",
-        "image": "/images/heroes/skins/frames/bikiniStitches_frame.jpg",
+        "image": "images/heroes/skins/frames/bikiniStitches_frame.jpg",
         "slug": "bikiniStitches",
         "source": "/videos/heroes/skins/stitches_bikiniStitches",
-        "thumbnail": "/images/heroes/skins/thumbnails/stitches_bikiniStitches.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/stitches_bikiniStitches.jpg"
       }
     ],
     "abilities": [
@@ -3734,8 +3734,8 @@ var heroes =
         "video": "",
         "slug": "hook",
         "analyticsName": "Hook",
-        "icon": "/images/heroes/skills/icons/stitches_hook.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/stitches_hook.jpg"
+        "icon": "images/heroes/skills/icons/stitches_hook.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/stitches_hook.jpg"
       },
       {
         "name": "Slam",
@@ -3743,8 +3743,8 @@ var heroes =
         "video": "",
         "slug": "slam",
         "analyticsName": "Slam",
-        "icon": "/images/heroes/skills/icons/stitches_slam.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/stitches_slam.jpg"
+        "icon": "images/heroes/skills/icons/stitches_slam.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/stitches_slam.jpg"
       },
       {
         "name": "Devour",
@@ -3752,8 +3752,8 @@ var heroes =
         "video": "",
         "slug": "devour",
         "analyticsName": "Devour",
-        "icon": "/images/heroes/skills/icons/stitches_devour.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/stitches_devour.jpg"
+        "icon": "images/heroes/skills/icons/stitches_devour.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/stitches_devour.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3763,8 +3763,8 @@ var heroes =
         "video": "",
         "slug": "putridBile",
         "analyticsName": "Putrid Bile",
-        "icon": "/images/heroes/skills/icons/stitches_putridBile.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/stitches_putridBile.jpg"
+        "icon": "images/heroes/skills/icons/stitches_putridBile.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/stitches_putridBile.jpg"
       },
       {
         "name": "Gorge",
@@ -3772,15 +3772,15 @@ var heroes =
         "video": "",
         "slug": "gorge",
         "analyticsName": "Gorge",
-        "icon": "/images/heroes/skills/icons/stitches_gorge.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/stitches_gorge.jpg"
+        "icon": "images/heroes/skills/icons/stitches_gorge.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/stitches_gorge.jpg"
       }
     ],
     "revealed": true,
     "video": "asvd7HOaJ_g",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/stitches.jpg"
+    "busts": "images/heroes/busts/stitches.jpg"
   },
   {
     "name": "Sylvanas",
@@ -3806,33 +3806,33 @@ var heroes =
     "trait": {
       "name": "Black Arrows",
       "description": "Basic Attacks and Abilities stun Minions, Mercenaries, and Towers for 1 second.",
-      "icon": "/images/heroes/skills/icons/sylvanas_blackArrows.jpg",
+      "icon": "images/heroes/skills/icons/sylvanas_blackArrows.jpg",
       "slug": "blackArrows"
     },
     "skins": [
       {
         "name": "The Banshee Queen",
         "analyticsName": "The Banshee Queen",
-        "image": "/images/heroes/skins/frames/theBansheeQueen_frame.jpg",
+        "image": "images/heroes/skins/frames/theBansheeQueen_frame.jpg",
         "slug": "theBansheeQueen",
         "source": "/videos/heroes/skins/sylvanas_1",
-        "thumbnail": "/images/heroes/skins/sylvanas1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/sylvanas1_thumb.jpg"
       },
       {
         "name": "Master Sylvanas",
         "analyticsName": "Master Sylvanas",
-        "image": "/images/heroes/skins/frames/masterSylvanas_frame.jpg",
+        "image": "images/heroes/skins/frames/masterSylvanas_frame.jpg",
         "slug": "masterSylvanas",
         "source": "/videos/heroes/skins/sylvanas_2",
-        "thumbnail": "/images/heroes/skins/sylvanas2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/sylvanas2_thumb.jpg"
       },
       {
         "name": "Ranger-General Sylvanas",
         "analyticsName": "Ranger-General Sylvanas",
-        "image": "/images/heroes/skins/frames/rangerGeneralSylvanas_frame.jpg",
+        "image": "images/heroes/skins/frames/rangerGeneralSylvanas_frame.jpg",
         "slug": "rangerGeneralSylvanas",
         "source": "/videos/heroes/skins/sylvanas_3",
-        "thumbnail": "/images/heroes/skins/sylvanas3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/sylvanas3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -3842,8 +3842,8 @@ var heroes =
         "video": "PPJw_y0c1HE",
         "slug": "witheringFire",
         "analyticsName": "Withering Fire",
-        "icon": "/images/heroes/skills/icons/sylvanas_witheringFire.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sylvanas_witheringFire.jpg"
+        "icon": "images/heroes/skills/icons/sylvanas_witheringFire.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sylvanas_witheringFire.jpg"
       },
       {
         "name": "Shadow Dagger",
@@ -3851,8 +3851,8 @@ var heroes =
         "video": "cSZU0hadrdk",
         "slug": "shadowDagger",
         "analyticsName": "Shadow Dagger",
-        "icon": "/images/heroes/skills/icons/sylvanas_shadowDagger.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sylvanas_shadowDagger.jpg"
+        "icon": "images/heroes/skills/icons/sylvanas_shadowDagger.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sylvanas_shadowDagger.jpg"
       },
       {
         "name": "Haunting Wave",
@@ -3860,8 +3860,8 @@ var heroes =
         "video": "SQW4v-MVEfY",
         "slug": "hauntingWave",
         "analyticsName": "Haunting Wave",
-        "icon": "/images/heroes/skills/icons/sylvanas_hauntingWave.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sylvanas_hauntingWave.jpg"
+        "icon": "images/heroes/skills/icons/sylvanas_hauntingWave.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sylvanas_hauntingWave.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3871,8 +3871,8 @@ var heroes =
         "video": "OfRZvsMfMks",
         "slug": "wailingArrow",
         "analyticsName": "Wailing Arrow",
-        "icon": "/images/heroes/skills/icons/sylvanas_wailingArrow.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sylvanas_wailingArrow.jpg"
+        "icon": "images/heroes/skills/icons/sylvanas_wailingArrow.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sylvanas_wailingArrow.jpg"
       },
       {
         "name": "Possession",
@@ -3880,15 +3880,15 @@ var heroes =
         "video": "myvSxKS8aKI",
         "slug": "possession",
         "analyticsName": "Possession",
-        "icon": "/images/heroes/skills/icons/sylvanas_possession.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/sylvanas_possession.jpg"
+        "icon": "images/heroes/skills/icons/sylvanas_possession.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/sylvanas_possession.jpg"
       }
     ],
     "revealed": true,
     "video": "I70plIgmn1I",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/sylvanas.jpg"
+    "busts": "images/heroes/busts/sylvanas.jpg"
   },
   {
     "name": "Tassadar",
@@ -3914,41 +3914,41 @@ var heroes =
     "trait": {
       "name": "Oracle",
       "description": "Greatly increases your vision radius and allows you to detect Stealthed enemy Heroes. Lasts for 5 seconds.",
-      "icon": "/images/heroes/skills/icons/tassadar_oracle.jpg",
+      "icon": "images/heroes/skills/icons/tassadar_oracle.jpg",
       "slug": "oracle"
     },
     "skins": [
       {
         "name": "Savior of the Templar",
         "analyticsName": "Savior of the Templar",
-        "image": "/images/heroes/skins/frames/saviorOfTheTemplar_frame.jpg",
+        "image": "images/heroes/skins/frames/saviorOfTheTemplar_frame.jpg",
         "slug": "saviorOfTheTemplar",
         "source": "/videos/heroes/skins/tassadar_saviorOfTheTemplar",
-        "thumbnail": "/images/heroes/skins/thumbnails/tassadar_saviorOfTheTemplar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tassadar_saviorOfTheTemplar.jpg"
       },
       {
         "name": "Master Tassadar",
         "analyticsName": "Master Tassadar",
-        "image": "/images/heroes/skins/frames/masterTassadar_frame.jpg",
+        "image": "images/heroes/skins/frames/masterTassadar_frame.jpg",
         "slug": "masterTassadar",
         "source": "/videos/heroes/skins/tassadar_masterTassadar",
-        "thumbnail": "/images/heroes/skins/thumbnails/tassadar_masterTassadar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tassadar_masterTassadar.jpg"
       },
       {
         "name": "Mecha Tassadar",
         "analyticsName": "Mecha Tassadar",
-        "image": "/images/heroes/skins/frames/mechaTassadar_frame.jpg",
+        "image": "images/heroes/skins/frames/mechaTassadar_frame.jpg",
         "slug": "mechaTassadar",
         "source": "/videos/heroes/skins/tassadar_mechaTassadar",
-        "thumbnail": "/images/heroes/skins/thumbnails/tassadar_mechaTassadar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tassadar_mechaTassadar.jpg"
       },
       {
         "name": "Crypt King Tassadar",
         "analyticsName": "Crypt King Tassadar",
-        "image": "/images/heroes/skins/frames/cryptKingTassadar_frame.jpg",
+        "image": "images/heroes/skins/frames/cryptKingTassadar_frame.jpg",
         "slug": "cryptKingTassadar",
         "source": "/videos/heroes/skins/tassadar_cryptKingTassadar",
-        "thumbnail": "/images/heroes/skins/thumbnails/tassadar_cryptKingTassadar.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tassadar_cryptKingTassadar.jpg"
       }
     ],
     "abilities": [
@@ -3958,8 +3958,8 @@ var heroes =
         "video": "",
         "slug": "plasmaShield",
         "analyticsName": "Plasma Shield",
-        "icon": "/images/heroes/skills/icons/tassadar_plasmaShield.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tassadar_plasmaShield.jpg"
+        "icon": "images/heroes/skills/icons/tassadar_plasmaShield.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tassadar_plasmaShield.jpg"
       },
       {
         "name": "Psionic Storm",
@@ -3967,8 +3967,8 @@ var heroes =
         "video": "",
         "slug": "psionicStorm",
         "analyticsName": "Psionic Storm",
-        "icon": "/images/heroes/skills/icons/tassadar_psionicStorm.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tassadar_psionicStorm.jpg"
+        "icon": "images/heroes/skills/icons/tassadar_psionicStorm.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tassadar_psionicStorm.jpg"
       },
       {
         "name": "Dimensional Shift",
@@ -3976,8 +3976,8 @@ var heroes =
         "video": "",
         "slug": "dimensionalShift",
         "analyticsName": "Dimensional Shift",
-        "icon": "/images/heroes/skills/icons/tassadar_dimensionalShift.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tassadar_dimensionalShift.jpg"
+        "icon": "images/heroes/skills/icons/tassadar_dimensionalShift.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tassadar_dimensionalShift.jpg"
       }
     ],
     "heroicAbilities": [
@@ -3987,8 +3987,8 @@ var heroes =
         "video": "",
         "slug": "archon",
         "analyticsName": "Archon",
-        "icon": "/images/heroes/skills/icons/tassadar_archon.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tassadar_archon.jpg"
+        "icon": "images/heroes/skills/icons/tassadar_archon.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tassadar_archon.jpg"
       },
       {
         "name": "Force Wall",
@@ -3996,14 +3996,14 @@ var heroes =
         "video": "",
         "slug": "forceWall",
         "analyticsName": "Force Wall",
-        "icon": "/images/heroes/skills/icons/tassadar_forceWall.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tassadar_forceWall.jpg"
+        "icon": "images/heroes/skills/icons/tassadar_forceWall.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tassadar_forceWall.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/tassadar.jpg"
+    "busts": "images/heroes/busts/tassadar.jpg"
   },
   {
     "name": "The Butcher",
@@ -4029,33 +4029,33 @@ var heroes =
     "trait": {
       "name": "Fresh Meat",
       "description": "Nearby enemies drop Fresh meat upon death (Heroes drop triple), which you can pick up to gain 1% bonus Attack Damage. Can hold up to 25 Meat. All meat is lost on dying.",
-      "icon": "/images/heroes/skills/icons/the-butcher_freshMeat.jpg",
+      "icon": "images/heroes/skills/icons/the-butcher_freshMeat.jpg",
       "slug": "freshMeat"
     },
     "skins": [
       {
         "name": "Flesh Carver",
         "analyticsName": "Flesh Carver",
-        "image": "/images/heroes/skins/frames/fleshCarver_frame.jpg",
+        "image": "images/heroes/skins/frames/fleshCarver_frame.jpg",
         "slug": "fleshCarver",
         "source": "/videos/heroes/skins/the-butcher_1",
-        "thumbnail": "/images/heroes/skins/the-butcher1_thumb.jpg"
+        "thumbnail": "images/heroes/skins/the-butcher1_thumb.jpg"
       },
       {
         "name": "Master Butcher",
         "analyticsName": "Master Butcher",
-        "image": "/images/heroes/skins/frames/masterButcher_frame.jpg",
+        "image": "images/heroes/skins/frames/masterButcher_frame.jpg",
         "slug": "masterButcher",
         "source": "/videos/heroes/skins/the-butcher_2",
-        "thumbnail": "/images/heroes/skins/the-butcher2_thumb.jpg"
+        "thumbnail": "images/heroes/skins/the-butcher2_thumb.jpg"
       },
       {
         "name": "Iron Butcher",
         "analyticsName": "Iron Butcher",
-        "image": "/images/heroes/skins/frames/ironButcher_frame.jpg",
+        "image": "images/heroes/skins/frames/ironButcher_frame.jpg",
         "slug": "ironButcher",
         "source": "/videos/heroes/skins/the-butcher_3",
-        "thumbnail": "/images/heroes/skins/the-butcher3_thumb.jpg"
+        "thumbnail": "images/heroes/skins/the-butcher3_thumb.jpg"
       }
     ],
     "abilities": [
@@ -4065,8 +4065,8 @@ var heroes =
         "video": "",
         "slug": "hamstring",
         "analyticsName": "Hamstring",
-        "icon": "/images/heroes/skills/icons/the-butcher_hamstring.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-butcher_hamstring.jpg"
+        "icon": "images/heroes/skills/icons/the-butcher_hamstring.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-butcher_hamstring.jpg"
       },
       {
         "name": "Butcher's Brand",
@@ -4074,8 +4074,8 @@ var heroes =
         "video": "",
         "slug": "tenderize",
         "analyticsName": "Tenderize",
-        "icon": "/images/heroes/skills/icons/the-butcher_tenderize.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-butcher_tenderize.jpg"
+        "icon": "images/heroes/skills/icons/the-butcher_tenderize.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-butcher_tenderize.jpg"
       },
       {
         "name": "Ruthless Onslaught",
@@ -4083,8 +4083,8 @@ var heroes =
         "video": "",
         "slug": "fullBoar",
         "analyticsName": "Full Boar",
-        "icon": "/images/heroes/skills/icons/the-butcher_fullBoar.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-butcher_fullBoar.jpg"
+        "icon": "images/heroes/skills/icons/the-butcher_fullBoar.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-butcher_fullBoar.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4094,8 +4094,8 @@ var heroes =
         "video": "",
         "slug": "furnaceBlast",
         "analyticsName": "Furnace Blast",
-        "icon": "/images/heroes/skills/icons/the-butcher_furnaceBlast.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-butcher_furnaceBlast.jpg"
+        "icon": "images/heroes/skills/icons/the-butcher_furnaceBlast.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-butcher_furnaceBlast.jpg"
       },
       {
         "name": "Lamb for the Slaughter",
@@ -4103,15 +4103,15 @@ var heroes =
         "video": "",
         "slug": "lambForTheSlaughter",
         "analyticsName": "Lamb for the Slaughter",
-        "icon": "/images/heroes/skills/icons/the-butcher_lambForTheSlaughter.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-butcher_lambForTheSlaughter.jpg"
+        "icon": "images/heroes/skills/icons/the-butcher_lambForTheSlaughter.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-butcher_lambForTheSlaughter.jpg"
       }
     ],
     "revealed": true,
     "video": "7nUspEUVYG0",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/the-butcher.jpg"
+    "busts": "images/heroes/busts/the-butcher.jpg"
   },
   {
     "name": "The Lost Vikings",
@@ -4137,33 +4137,33 @@ var heroes =
     "trait": {
       "name": "Fast Restart",
       "description": "You can't keep a Viking down for long. Olaf, Baelog, and Erik are gluttons for punishment, so anytime they fall in battle, they get back in the fight more quickly than other heroes.",
-      "icon": "/images/heroes/skills/icons/the-lost-vikings_fastRestart.jpg",
+      "icon": "images/heroes/skills/icons/the-lost-vikings_fastRestart.jpg",
       "slug": "fastRestart"
     },
     "skins": [
       {
         "name": "Triple Trouble",
         "analyticsName": "tripleTrouble",
-        "image": "/images/heroes/skins/frames/tripleTrouble_frame.jpg",
+        "image": "images/heroes/skins/frames/tripleTrouble_frame.jpg",
         "slug": "tripleTrouble",
         "source": "/videos/heroes/skins/the-lost-vikings_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/the-lost-vikings_tripleTrouble.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/the-lost-vikings_tripleTrouble.jpg"
       },
       {
         "name": "Master Lost Vikings",
         "analyticsName": "Master Lost Vikings",
-        "image": "/images/heroes/skins/frames/masterLostVikings_frame.jpg",
+        "image": "images/heroes/skins/frames/masterLostVikings_frame.jpg",
         "slug": "masterLostVikings",
         "source": "/videos/heroes/skins/the-lost-vikings_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/the-lost-vikings_masterLostVikings.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/the-lost-vikings_masterLostVikings.jpg"
       },
       {
         "name": "Pajama Party Lost Vikings",
         "analyticsName": "Pajama Party Lost Vikings",
-        "image": "/images/heroes/skins/frames/pajamaPartyLostVikings_frame.jpg",
+        "image": "images/heroes/skins/frames/pajamaPartyLostVikings_frame.jpg",
         "slug": "pajamaPartyLostVikings",
         "source": "/videos/heroes/skins/the-lost-vikings_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/the-lost-vikings_pajamaPartyLostVikings.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/the-lost-vikings_pajamaPartyLostVikings.jpg"
       }
     ],
     "abilities": [
@@ -4173,8 +4173,8 @@ var heroes =
         "video": "H7PhKK9ii1I",
         "slug": "spinToWin",
         "analyticsName": "Spin To Win",
-        "icon": "/images/heroes/skills/icons/the-lost-vikings_spinToWin.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-lost-vikings_spinToWin.jpg"
+        "icon": "images/heroes/skills/icons/the-lost-vikings_spinToWin.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-lost-vikings_spinToWin.jpg"
       },
       {
         "name": "Jump!",
@@ -4182,8 +4182,8 @@ var heroes =
         "video": "VsGiAq4R3zk",
         "slug": "jump",
         "analyticsName": "Jump",
-        "icon": "/images/heroes/skills/icons/the-lost-vikings_jump.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-lost-vikings_jump.jpg"
+        "icon": "images/heroes/skills/icons/the-lost-vikings_jump.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-lost-vikings_jump.jpg"
       },
       {
         "name": "Norse Force!",
@@ -4191,8 +4191,8 @@ var heroes =
         "video": "9CVyATrMtrY",
         "slug": "norseForce",
         "analyticsName": "Norse Force",
-        "icon": "/images/heroes/skills/icons/the-lost-vikings_norseForce.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-lost-vikings_norseForce.jpg"
+        "icon": "images/heroes/skills/icons/the-lost-vikings_norseForce.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-lost-vikings_norseForce.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4202,8 +4202,8 @@ var heroes =
         "video": "xGrXaSe08nU",
         "slug": "longboatRaid",
         "analyticsName": "Longboat Raid!",
-        "icon": "/images/heroes/skills/icons/the-lost-vikings_longboatRaid.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-lost-vikings_longboatRaid.jpg"
+        "icon": "images/heroes/skills/icons/the-lost-vikings_longboatRaid.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-lost-vikings_longboatRaid.jpg"
       },
       {
         "name": "Play Again!",
@@ -4211,15 +4211,15 @@ var heroes =
         "video": "WliKTHXJzFc",
         "slug": "playAgain",
         "analyticsName": "Play Again!",
-        "icon": "/images/heroes/skills/icons/the-lost-vikings_playAgain.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/the-lost-vikings_playAgain.jpg"
+        "icon": "images/heroes/skills/icons/the-lost-vikings_playAgain.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/the-lost-vikings_playAgain.jpg"
       }
     ],
     "revealed": true,
     "video": "HLUKSUNLENI",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/the-lost-vikings.jpg"
+    "busts": "images/heroes/busts/the-lost-vikings.jpg"
   },
   {
     "name": "Thrall",
@@ -4245,41 +4245,41 @@ var heroes =
     "trait": {
       "name": "Frostwolf Resilience",
       "description": "Dealing damage with Abilities grants 1 stack of Frostwolf Resilience. At 5 stacks, you are instantly healed for a large amount of Health.",
-      "icon": "/images/heroes/skills/icons/thrall_frostwolfResilience.jpg",
+      "icon": "images/heroes/skills/icons/thrall_frostwolfResilience.jpg",
       "slug": "frostwolfResilience"
     },
     "skins": [
       {
         "name": "Warchief of the Horde",
         "analyticsName": "Warchief of the Horde",
-        "image": "/images/heroes/skins/frames/warchiefOfTheHorde_frame.jpg",
+        "image": "images/heroes/skins/frames/warchiefOfTheHorde_frame.jpg",
         "slug": "warchiefOfTheHorde",
         "source": "/videos/heroes/skins/thrall_1",
-        "thumbnail": "/images/heroes/skins/thumbnails/thrall_warchiefOfTheHorde.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/thrall_warchiefOfTheHorde.jpg"
       },
       {
         "name": "Master Thrall",
         "analyticsName": "Master Thrall",
-        "image": "/images/heroes/skins/frames/masterThrall_frame.jpg",
+        "image": "images/heroes/skins/frames/masterThrall_frame.jpg",
         "slug": "masterThrall",
         "source": "/videos/heroes/skins/thrall_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/thrall_masterThrall.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/thrall_masterThrall.jpg"
       },
       {
         "name": "Hellhammer Thrall",
         "analyticsName": "Hellhammer Thrall",
-        "image": "/images/heroes/skins/frames/hellhammerThrall_frame.jpg",
+        "image": "images/heroes/skins/frames/hellhammerThrall_frame.jpg",
         "slug": "hellhammerThrall",
         "source": "/videos/heroes/skins/thrall_2",
-        "thumbnail": "/images/heroes/skins/thumbnails/thrall_hellhammerThrall.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/thrall_hellhammerThrall.jpg"
       },
       {
         "name": "Earthbreaker Thrall",
         "analyticsName": "Earthbreaker Thrall",
-        "image": "/images/heroes/skins/frames/earthbreakerThrall_frame.jpg",
+        "image": "images/heroes/skins/frames/earthbreakerThrall_frame.jpg",
         "slug": "earthbreakerThrall",
         "source": "/videos/heroes/skins/thrall_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/thrall_earthbreakerThrall.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/thrall_earthbreakerThrall.jpg"
       }
     ],
     "abilities": [
@@ -4289,8 +4289,8 @@ var heroes =
         "video": "cqbnp49Ampk",
         "slug": "chainLightning",
         "analyticsName": "Chain Lightning",
-        "icon": "/images/heroes/skills/icons/thrall_chainLightning.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/thrall_chainLightning.jpg"
+        "icon": "images/heroes/skills/icons/thrall_chainLightning.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/thrall_chainLightning.jpg"
       },
       {
         "name": "Feral Spirit",
@@ -4298,8 +4298,8 @@ var heroes =
         "video": "-T_8tnY-pUw",
         "slug": "feralSpirit",
         "analyticsName": "Feral Spirit",
-        "icon": "/images/heroes/skills/icons/thrall_feralSpirit.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/thrall_feralSpirit.jpg"
+        "icon": "images/heroes/skills/icons/thrall_feralSpirit.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/thrall_feralSpirit.jpg"
       },
       {
         "name": "Windfury",
@@ -4307,8 +4307,8 @@ var heroes =
         "video": "sTDwaRP-j6M",
         "slug": "windfury",
         "analyticsName": "Windfury",
-        "icon": "/images/heroes/skills/icons/thrall_windfury.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/thrall_windfury.jpg"
+        "icon": "images/heroes/skills/icons/thrall_windfury.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/thrall_windfury.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4318,8 +4318,8 @@ var heroes =
         "video": "GHLU7xHJhM8",
         "slug": "earthquake",
         "analyticsName": "Earthquake",
-        "icon": "/images/heroes/skills/icons/thrall_earthquake.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/thrall_earthquake.jpg"
+        "icon": "images/heroes/skills/icons/thrall_earthquake.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/thrall_earthquake.jpg"
       },
       {
         "name": "Sundering",
@@ -4327,15 +4327,15 @@ var heroes =
         "video": "zNa36HUte9c",
         "slug": "sundering",
         "analyticsName": "Sundering",
-        "icon": "/images/heroes/skills/icons/thrall_sundering.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/thrall_sundering.jpg"
+        "icon": "images/heroes/skills/icons/thrall_sundering.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/thrall_sundering.jpg"
       }
     ],
     "revealed": true,
     "video": "0H-thX7BUz8",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/thrall.jpg"
+    "busts": "images/heroes/busts/thrall.jpg"
   },
   {
     "name": "Tychus",
@@ -4361,41 +4361,41 @@ var heroes =
     "trait": {
       "name": "Minigun",
       "description": "Your Attack Speed increases the longer that you attack, becoming fully wound up after 4 Basic Attacks. Lasts 3 seconds.",
-      "icon": "/images/heroes/skills/icons/tychus_minigun.jpg",
+      "icon": "images/heroes/skills/icons/tychus_minigun.jpg",
       "slug": "minigun"
     },
     "skins": [
       {
         "name": "Notorious Outlaw",
         "analyticsName": "Notorious Outlaw",
-        "image": "/images/heroes/skins/frames/notoriousOutlaw_frame.jpg",
+        "image": "images/heroes/skins/frames/notoriousOutlaw_frame.jpg",
         "slug": "notoriousOutlaw",
         "source": "/videos/heroes/skins/Tychus1_U",
-        "thumbnail": "/images/heroes/skins/thumbnails/tychus_notoriousOutlaw.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tychus_notoriousOutlaw.jpg"
       },
       {
         "name": "Master Tychus",
         "analyticsName": "Master Tychus",
-        "image": "/images/heroes/skins/frames/masterTychus_frame.jpg",
+        "image": "images/heroes/skins/frames/masterTychus_frame.jpg",
         "slug": "masterTychus",
         "source": "/videos/heroes/skins/tychus_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/tychus_masterTychus.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tychus_masterTychus.jpg"
       },
       {
         "name": "Infested Tychus",
         "analyticsName": "Infested",
-        "image": "/images/heroes/skins/frames/infestedTychus_frame.jpg",
+        "image": "images/heroes/skins/frames/infestedTychus_frame.jpg",
         "slug": "infestedTychus",
         "source": "/videos/heroes/skins/Tychus2_U",
-        "thumbnail": "/images/heroes/skins/thumbnails/tychus_infestedTychus.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tychus_infestedTychus.jpg"
       },
       {
         "name": "Prisoner Tychus",
         "analyticsName": "Prisoner Tychus",
-        "image": "/images/heroes/skins/frames/prisonerTychus_frame.jpg",
+        "image": "images/heroes/skins/frames/prisonerTychus_frame.jpg",
         "slug": "prisonerTychus",
         "source": "/videos/heroes/skins/tychus_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/tychus_prisonerTychus.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tychus_prisonerTychus.jpg"
       }
     ],
     "abilities": [
@@ -4405,8 +4405,8 @@ var heroes =
         "video": "c06yIGprQGc",
         "slug": "overkill",
         "analyticsName": "Overkill",
-        "icon": "/images/heroes/skills/icons/tychus_overkill.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tychus_thumb-overkill.jpg"
+        "icon": "images/heroes/skills/icons/tychus_overkill.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tychus_thumb-overkill.jpg"
       },
       {
         "name": "Frag Grenade",
@@ -4414,8 +4414,8 @@ var heroes =
         "video": "b-D8YiGm81o",
         "slug": "fragGrenade",
         "analyticsName": "Frag Grenade",
-        "icon": "/images/heroes/skills/icons/tychus_fragGrenade.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tychus_thumb-fragGrenade.jpg"
+        "icon": "images/heroes/skills/icons/tychus_fragGrenade.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tychus_thumb-fragGrenade.jpg"
       },
       {
         "name": "Run and Gun",
@@ -4423,8 +4423,8 @@ var heroes =
         "video": "jBc2HhtXa9Q",
         "slug": "runAndGun",
         "analyticsName": "Run and Gun",
-        "icon": "/images/heroes/skills/icons/tychus_runAndGun.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tychus_thumb-runAndGun.jpg"
+        "icon": "images/heroes/skills/icons/tychus_runAndGun.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tychus_thumb-runAndGun.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4434,8 +4434,8 @@ var heroes =
         "video": "g4Um737fOXM",
         "slug": "drakkenLaserDrill",
         "analyticsName": "Drakken Laser Drill",
-        "icon": "/images/heroes/skills/icons/tychus_drakkenLaserDrill.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tychus_thumb-drakkenLaserDrill.jpg"
+        "icon": "images/heroes/skills/icons/tychus_drakkenLaserDrill.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tychus_thumb-drakkenLaserDrill.jpg"
       },
       {
         "name": "Commandeer Odin",
@@ -4443,15 +4443,15 @@ var heroes =
         "video": "Hi14du09_zA",
         "slug": "commandeerOdin",
         "analyticsName": "Commandeer Odin",
-        "icon": "/images/heroes/skills/icons/tychus_commandeerOdin.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tychus_thumb-commandeerOdin.jpg"
+        "icon": "images/heroes/skills/icons/tychus_commandeerOdin.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tychus_thumb-commandeerOdin.jpg"
       }
     ],
     "revealed": true,
     "video": "rizkD773Nag",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/tychus.jpg"
+    "busts": "images/heroes/busts/tychus.jpg"
   },
   {
     "name": "Tyrael",
@@ -4477,41 +4477,41 @@ var heroes =
     "trait": {
       "name": "Archangel's Wrath",
       "description": "When you die, become invulnerable and explode for massive damage after 3.5 seconds.",
-      "icon": "/images/heroes/skills/icons/tyrael_archangelsWrath.jpg",
+      "icon": "images/heroes/skills/icons/tyrael_archangelsWrath.jpg",
       "slug": "archangelsWrath"
     },
     "skins": [
       {
         "name": "Archangel of Justice",
         "analyticsName": "Archangel",
-        "image": "/images/heroes/skins/frames/archangelOfJustice_frame.jpg",
+        "image": "images/heroes/skins/frames/archangelOfJustice_frame.jpg",
         "slug": "archangelOfJustice",
         "source": "/videos/heroes/skins/Tyrael1_U",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrael_archangelOfJustice.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrael_archangelOfJustice.jpg"
       },
       {
         "name": "Master Tyrael",
         "analyticsName": "Master Tyrael",
-        "image": "/images/heroes/skins/frames/masterTyrael_frame.jpg",
+        "image": "images/heroes/skins/frames/masterTyrael_frame.jpg",
         "slug": "masterTyrael",
         "source": "/videos/heroes/skins/tyrael_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrael_masterTyrael.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrael_masterTyrael.jpg"
       },
       {
         "name": "Seraphim Tyrael",
         "analyticsName": "Seraphim",
-        "image": "/images/heroes/skins/frames/seraphimTyrael_frame.jpg",
+        "image": "images/heroes/skins/frames/seraphimTyrael_frame.jpg",
         "slug": "seraphimTyrael",
         "source": "/videos/heroes/skins/Tyrael2_U",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrael_seraphimTyrael.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrael_seraphimTyrael.jpg"
       },
       {
         "name": "Demonic Tyrael",
         "analyticsName": "Demonic",
-        "image": "/images/heroes/skins/frames/demonicTyrael_frame.jpg",
+        "image": "images/heroes/skins/frames/demonicTyrael_frame.jpg",
         "slug": "demonicTyrael",
         "source": "/videos/heroes/skins/Tyrael3_U",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrael_demonicTyrael.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrael_demonicTyrael.jpg"
       }
     ],
     "abilities": [
@@ -4521,8 +4521,8 @@ var heroes =
         "video": "lK0BrpJcXeE",
         "slug": "eldruinsMight",
         "analyticsName": "El'druin's Might",
-        "icon": "/images/heroes/skills/icons/tyrael_eldruinsMight.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrael_thumb-eldruinsMight.jpg"
+        "icon": "images/heroes/skills/icons/tyrael_eldruinsMight.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrael_thumb-eldruinsMight.jpg"
       },
       {
         "name": "Righteousness",
@@ -4530,8 +4530,8 @@ var heroes =
         "video": "Np4y71ubEAk",
         "slug": "righteousness",
         "analyticsName": "Righteousness",
-        "icon": "/images/heroes/skills/icons/tyrael_righteousness.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrael_thumb-righteousness.jpg"
+        "icon": "images/heroes/skills/icons/tyrael_righteousness.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrael_thumb-righteousness.jpg"
       },
       {
         "name": "Smite",
@@ -4539,8 +4539,8 @@ var heroes =
         "video": "",
         "slug": "smite",
         "analyticsName": "Smite",
-        "icon": "/images/heroes/skills/icons/tyrael_smite.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrael_thumb-handOfSacrifice.jpg"
+        "icon": "images/heroes/skills/icons/tyrael_smite.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrael_thumb-handOfSacrifice.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4550,8 +4550,8 @@ var heroes =
         "video": "cUEABxCWYd8",
         "slug": "judgment",
         "analyticsName": "Judgment",
-        "icon": "/images/heroes/skills/icons/tyrael_judgment.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrael_thumb-judgment.jpg"
+        "icon": "images/heroes/skills/icons/tyrael_judgment.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrael_thumb-judgment.jpg"
       },
       {
         "name": "Sanctification",
@@ -4559,15 +4559,15 @@ var heroes =
         "video": "Kv1Jej1oTG0",
         "slug": "sanctification",
         "analyticsName": "Sanctification",
-        "icon": "/images/heroes/skills/icons/tyrael_sanctification.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrael_thumb-sanctification.jpg"
+        "icon": "images/heroes/skills/icons/tyrael_sanctification.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrael_thumb-sanctification.jpg"
       }
     ],
     "revealed": true,
     "video": "a2u_D43oGb8",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/tyrael.jpg"
+    "busts": "images/heroes/busts/tyrael.jpg"
   },
   {
     "name": "Tyrande",
@@ -4593,41 +4593,41 @@ var heroes =
     "trait": {
       "name": "Hunter's Mark",
       "description": "Marks a target enemy, increasing all damage taken by 25% and revealing them for 4 seconds. Cannot be used on Structures.",
-      "icon": "/images/heroes/skills/icons/tyrande_huntersMark.jpg",
+      "icon": "images/heroes/skills/icons/tyrande_huntersMark.jpg",
       "slug": "huntersMark"
     },
     "skins": [
       {
         "name": "High Priestess of Elune",
         "analyticsName": "High Priestess of Elune",
-        "image": "/images/heroes/skins/frames/highPriestessOfElune_frame.jpg",
+        "image": "images/heroes/skins/frames/highPriestessOfElune_frame.jpg",
         "slug": "highPriestessOfElune",
         "source": "/videos/heroes/skins/tyrande_highPriestessOfElune",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrande_highPriestessOfElune.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrande_highPriestessOfElune.jpg"
       },
       {
         "name": "Master Tyrande",
         "analyticsName": "Master Tyrande",
-        "image": "/images/heroes/skins/frames/masterTyrande_frame.jpg",
+        "image": "images/heroes/skins/frames/masterTyrande_frame.jpg",
         "slug": "masterTyrande",
         "source": "/videos/heroes/skins/tyrande_masterTyrande",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrande_masterTyrande.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrande_masterTyrande.jpg"
       },
       {
         "name": "Warden Tyrande",
         "analyticsName": "Warden Tyrande",
-        "image": "/images/heroes/skins/frames/wardenTyrande_frame.jpg",
+        "image": "images/heroes/skins/frames/wardenTyrande_frame.jpg",
         "slug": "wardenTyrande",
         "source": "/videos/heroes/skins/tyrande_wardenTyrande",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrande_wardenTyrande.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrande_wardenTyrande.jpg"
       },
       {
         "name": "Blood Elf Tyrande",
         "analyticsName": "Blood Elf Tyrande",
-        "image": "/images/heroes/skins/frames/bloodElfTyrande_frame.jpg",
+        "image": "images/heroes/skins/frames/bloodElfTyrande_frame.jpg",
         "slug": "bloodElfTyrande",
         "source": "/videos/heroes/skins/tyrande_bloodElfTyrande",
-        "thumbnail": "/images/heroes/skins/thumbnails/tyrande_bloodElfTyrande.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/tyrande_bloodElfTyrande.jpg"
       }
     ],
     "abilities": [
@@ -4637,8 +4637,8 @@ var heroes =
         "video": "",
         "slug": "lightOfElune",
         "analyticsName": "Light of Elune",
-        "icon": "/images/heroes/skills/icons/tyrande_lightOfElune.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrande_lightOfElune.jpg"
+        "icon": "images/heroes/skills/icons/tyrande_lightOfElune.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrande_lightOfElune.jpg"
       },
       {
         "name": "Sentinel",
@@ -4646,8 +4646,8 @@ var heroes =
         "video": "",
         "slug": "sentinel",
         "analyticsName": "Sentinel",
-        "icon": "/images/heroes/skills/icons/tyrande_sentinel.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrande_sentinel.jpg"
+        "icon": "images/heroes/skills/icons/tyrande_sentinel.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrande_sentinel.jpg"
       },
       {
         "name": "Lunar Flare",
@@ -4655,8 +4655,8 @@ var heroes =
         "video": "",
         "slug": "lunarFlare",
         "analyticsName": "Lunar Flare",
-        "icon": "/images/heroes/skills/icons/tyrande_lunarFlare.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrande_lunarFlare.jpg"
+        "icon": "images/heroes/skills/icons/tyrande_lunarFlare.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrande_lunarFlare.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4666,8 +4666,8 @@ var heroes =
         "video": "",
         "slug": "starfall",
         "analyticsName": "Starfall",
-        "icon": "/images/heroes/skills/icons/tyrande_starfall.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrande_starfall.jpg"
+        "icon": "images/heroes/skills/icons/tyrande_starfall.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrande_starfall.jpg"
       },
       {
         "name": "Shadowstalk",
@@ -4675,14 +4675,14 @@ var heroes =
         "video": "",
         "slug": "shadowstalk",
         "analyticsName": "Shadowstalk",
-        "icon": "/images/heroes/skills/icons/tyrande_shadowstalk.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/tyrande_shadowstalk.jpg"
+        "icon": "images/heroes/skills/icons/tyrande_shadowstalk.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/tyrande_shadowstalk.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/tyrande.jpg"
+    "busts": "images/heroes/busts/tyrande.jpg"
   },
   {
     "name": "Uther",
@@ -4708,49 +4708,49 @@ var heroes =
     "trait": {
       "name": "Eternal Devotion",
       "description": "Upon dying, become an Invulnerable spirit for up to 10 seconds. Your Abilities and Basic Attacks do 50% healing and damage.",
-      "icon": "/images/heroes/skills/icons/uther_eternalDevotion.jpg",
+      "icon": "images/heroes/skills/icons/uther_eternalDevotion.jpg",
       "slug": "eternalDevotion"
     },
     "skins": [
       {
         "name": "The Lightbringer",
         "analyticsName": "The Lightbringer",
-        "image": "/images/heroes/skins/frames/theLightbringer_frame.jpg",
+        "image": "images/heroes/skins/frames/theLightbringer_frame.jpg",
         "slug": "theLightbringer",
         "source": "/videos/heroes/skins/uther_theLightbringer",
-        "thumbnail": "/images/heroes/skins/thumbnails/uther_theLightbringer.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/uther_theLightbringer.jpg"
       },
       {
         "name": "Master Uther",
         "analyticsName": "Master Uther",
-        "image": "/images/heroes/skins/frames/masterUther_frame.jpg",
+        "image": "images/heroes/skins/frames/masterUther_frame.jpg",
         "slug": "masterUther",
         "source": "/videos/heroes/skins/uther_masterUther",
-        "thumbnail": "/images/heroes/skins/thumbnails/uther_masterUther.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/uther_masterUther.jpg"
       },
       {
         "name": "Lumberjack Uther",
         "analyticsName": "Lumberjack Uther",
-        "image": "/images/heroes/skins/frames/lumberjackUther_frame.jpg",
+        "image": "images/heroes/skins/frames/lumberjackUther_frame.jpg",
         "slug": "lumberjackUther",
         "source": "/videos/heroes/skins/uther_lumberjackUther",
-        "thumbnail": "/images/heroes/skins/thumbnails/uther_lumberjackUther.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/uther_lumberjackUther.jpg"
       },
       {
         "name": "Medic Uther",
         "analyticsName": "Medic Uther",
-        "image": "/images/heroes/skins/frames/medicUther_frame.jpg",
+        "image": "images/heroes/skins/frames/medicUther_frame.jpg",
         "slug": "medicUther",
         "source": "/videos/heroes/skins/uther_medicUther",
-        "thumbnail": "/images/heroes/skins/thumbnails/uther_medicUther.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/uther_medicUther.jpg"
       },
       {
         "name": "Judgement Uther",
         "analyticsName": "Judgement Uther",
-        "image": "/images/heroes/skins/frames/judgementUther_frame.jpg",
+        "image": "images/heroes/skins/frames/judgementUther_frame.jpg",
         "slug": "judgementUther",
         "source": "/videos/heroes/skins/uther_judgementUther",
-        "thumbnail": "/images/heroes/skins/thumbnails/uther_judgementUther.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/uther_judgementUther.jpg"
       }
     ],
     "abilities": [
@@ -4760,8 +4760,8 @@ var heroes =
         "video": "",
         "slug": "holyLight",
         "analyticsName": "Holy Light",
-        "icon": "/images/heroes/skills/icons/uther_holyLight.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/uther_holyLight.jpg"
+        "icon": "images/heroes/skills/icons/uther_holyLight.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/uther_holyLight.jpg"
       },
       {
         "name": "Holy Radiance",
@@ -4769,8 +4769,8 @@ var heroes =
         "video": "",
         "slug": "holyRadiance",
         "analyticsName": "Holy Radiance",
-        "icon": "/images/heroes/skills/icons/uther_holyRadiance.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/uther_holyRadiance.jpg"
+        "icon": "images/heroes/skills/icons/uther_holyRadiance.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/uther_holyRadiance.jpg"
       },
       {
         "name": "Hammer of Justice",
@@ -4778,8 +4778,8 @@ var heroes =
         "video": "",
         "slug": "hammerOfJustice",
         "analyticsName": "Hammer of Justice",
-        "icon": "/images/heroes/skills/icons/uther_hammerOfJustice.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/uther_hammerOfJustice.jpg"
+        "icon": "images/heroes/skills/icons/uther_hammerOfJustice.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/uther_hammerOfJustice.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4789,8 +4789,8 @@ var heroes =
         "video": "",
         "slug": "divineShield",
         "analyticsName": "Divine Shield",
-        "icon": "/images/heroes/skills/icons/uther_divineShield.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/uther_divineShield.jpg"
+        "icon": "images/heroes/skills/icons/uther_divineShield.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/uther_divineShield.jpg"
       },
       {
         "name": "Divine Storm",
@@ -4798,14 +4798,14 @@ var heroes =
         "video": "",
         "slug": "divineStorm",
         "analyticsName": "Divine Storm",
-        "icon": "/images/heroes/skills/icons/uther_divineStorm.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/uther_divineStorm.jpg"
+        "icon": "images/heroes/skills/icons/uther_divineStorm.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/uther_divineStorm.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/uther.jpg"
+    "busts": "images/heroes/busts/uther.jpg"
   },
   {
     "name": "Valla",
@@ -4831,41 +4831,41 @@ var heroes =
     "trait": {
       "name": "Hatred",
       "description": "Basic Attacks grant a stack of Hatred, up to 10. Each Hatred stack increases Basic Attack damage by 2% and Movement Speed by 1%.",
-      "icon": "/images/heroes/skills/icons/valla_hatred.jpg",
+      "icon": "images/heroes/skills/icons/valla_hatred.jpg",
       "slug": "hatred"
     },
     "skins": [
       {
         "name": "Demon Hunter",
         "analyticsName": "Demon Hunter",
-        "image": "/images/heroes/skins/frames/demonHunter_frame.jpg",
+        "image": "images/heroes/skins/frames/demonHunter_frame.jpg",
         "slug": "demonHunter",
         "source": "/videos/heroes/skins/valla_demonHunter",
-        "thumbnail": "/images/heroes/skins/thumbnails/valla_demonHunter.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/valla_demonHunter.jpg"
       },
       {
         "name": "Master Valla",
         "analyticsName": "Master Valla",
-        "image": "/images/heroes/skins/frames/masterValla_frame.jpg",
+        "image": "images/heroes/skins/frames/masterValla_frame.jpg",
         "slug": "masterValla",
         "source": "/videos/heroes/skins/valla_masterValla",
-        "thumbnail": "/images/heroes/skins/thumbnails/valla_masterValla.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/valla_masterValla.jpg"
       },
       {
         "name": "Vampire Slayer Valla",
         "analyticsName": "Vampire Slayer Valla",
-        "image": "/images/heroes/skins/frames/vampireSlayerValla_frame.jpg",
+        "image": "images/heroes/skins/frames/vampireSlayerValla_frame.jpg",
         "slug": "vampireSlayerValla",
         "source": "/videos/heroes/skins/valla_vampireSlayerValla",
-        "thumbnail": "/images/heroes/skins/thumbnails/valla_vampireSlayerValla.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/valla_vampireSlayerValla.jpg"
       },
       {
         "name": "Angelic Valla",
         "analyticsName": "Angelic Valla",
-        "image": "/images/heroes/skins/frames/angelicValla_frame.jpg",
+        "image": "images/heroes/skins/frames/angelicValla_frame.jpg",
         "slug": "angelicValla",
         "source": "/videos/heroes/skins/valla_angelicValla",
-        "thumbnail": "/images/heroes/skins/thumbnails/valla_angelicValla.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/valla_angelicValla.jpg"
       }
     ],
     "abilities": [
@@ -4875,8 +4875,8 @@ var heroes =
         "video": "",
         "slug": "hungeringArrow",
         "analyticsName": "Hungering Arrow",
-        "icon": "/images/heroes/skills/icons/valla_hungeringArrow.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/valla_hungeringArrow.jpg"
+        "icon": "images/heroes/skills/icons/valla_hungeringArrow.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/valla_hungeringArrow.jpg"
       },
       {
         "name": "Multishot",
@@ -4884,8 +4884,8 @@ var heroes =
         "video": "",
         "slug": "multishot",
         "analyticsName": "Multishot",
-        "icon": "/images/heroes/skills/icons/valla_multishot.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/valla_multishot.jpg"
+        "icon": "images/heroes/skills/icons/valla_multishot.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/valla_multishot.jpg"
       },
       {
         "name": "Vault",
@@ -4893,8 +4893,8 @@ var heroes =
         "video": "",
         "slug": "vault",
         "analyticsName": "Vault",
-        "icon": "/images/heroes/skills/icons/valla_vault.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/valla_vault.jpg"
+        "icon": "images/heroes/skills/icons/valla_vault.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/valla_vault.jpg"
       }
     ],
     "heroicAbilities": [
@@ -4904,8 +4904,8 @@ var heroes =
         "video": "",
         "slug": "rainOfVengeance",
         "analyticsName": "Rain of Vengeance",
-        "icon": "/images/heroes/skills/icons/valla_rainOfVengeance.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/valla_rainOfVengeance.jpg"
+        "icon": "images/heroes/skills/icons/valla_rainOfVengeance.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/valla_rainOfVengeance.jpg"
       },
       {
         "name": "Strafe",
@@ -4913,14 +4913,14 @@ var heroes =
         "video": "",
         "slug": "strafe",
         "analyticsName": "Strafe",
-        "icon": "/images/heroes/skills/icons/valla_strafe.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/valla_strafe.jpg"
+        "icon": "images/heroes/skills/icons/valla_strafe.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/valla_strafe.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/valla.jpg"
+    "busts": "images/heroes/busts/valla.jpg"
   },
   {
     "name": "Zagara",
@@ -4946,41 +4946,41 @@ var heroes =
     "trait": {
       "name": "Creep Tumor",
       "description": "Lay a Creep Tumor that generates Creep. You and your summons move 20% faster on Creep and restore a small amount of Health each second. Tumors last 240 seconds.",
-      "icon": "/images/heroes/skills/icons/zagara_creepTumor.jpg",
+      "icon": "images/heroes/skills/icons/zagara_creepTumor.jpg",
       "slug": "creepTumor"
     },
     "skins": [
       {
         "name": "Broodmother of the Swarm",
         "analyticsName": "Broodmother",
-        "image": "/images/heroes/skins/frames/broodmotherOfTheSwarm_frame.jpg",
+        "image": "images/heroes/skins/frames/broodmotherOfTheSwarm_frame.jpg",
         "slug": "broodmotherOfTheSwarm",
         "source": "/videos/heroes/skins/Zagara1",
-        "thumbnail": "/images/heroes/skins/thumbnails/zagara_broodmotherOfTheSwarm.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zagara_broodmotherOfTheSwarm.jpg"
       },
       {
         "name": "Master Zagara",
         "analyticsName": "Master Zagara",
-        "image": "/images/heroes/skins/frames/masterZagara_frame.jpg",
+        "image": "images/heroes/skins/frames/masterZagara_frame.jpg",
         "slug": "masterZagara",
         "source": "/videos/heroes/skins/zagara_3",
-        "thumbnail": "/images/heroes/skins/thumbnails/zagara_masterZagara.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zagara_masterZagara.jpg"
       },
       {
         "name": "Insectoid Zagara",
         "analyticsName": "Insectoid",
-        "image": "/images/heroes/skins/frames/insectoidZagara_frame.jpg",
+        "image": "images/heroes/skins/frames/insectoidZagara_frame.jpg",
         "slug": "insectoidZagara",
         "source": "/videos/heroes/skins/Zagara2",
-        "thumbnail": "/images/heroes/skins/thumbnails/zagara_insectoidZagara.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zagara_insectoidZagara.jpg"
       },
       {
         "name": "Desert Queen Zagara",
         "analyticsName": "Desert Queen Zagara",
-        "image": "/images/heroes/skins/frames/desertQueenZagara_frame.jpg",
+        "image": "images/heroes/skins/frames/desertQueenZagara_frame.jpg",
         "slug": "desertQueenZagara",
         "source": "/videos/heroes/skins/zagara_4",
-        "thumbnail": "/images/heroes/skins/thumbnails/zagara_desertQueenZagara.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zagara_desertQueenZagara.jpg"
       }
     ],
     "abilities": [
@@ -4990,8 +4990,8 @@ var heroes =
         "video": "g-_6XW1xeHg",
         "slug": "banelingBarrage",
         "analyticsName": "Baneling Barrage",
-        "icon": "/images/heroes/skills/icons/zagara_banelingBarrage.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zagara_thumb-banelingBarrage.jpg"
+        "icon": "images/heroes/skills/icons/zagara_banelingBarrage.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zagara_thumb-banelingBarrage.jpg"
       },
       {
         "name": "Hunter Killer",
@@ -4999,8 +4999,8 @@ var heroes =
         "video": "hVU-q8QKvLo",
         "slug": "hunterKiller",
         "analyticsName": "Hunter Killer",
-        "icon": "/images/heroes/skills/icons/zagara_hunterKiller.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zagara_thumb-hunterKiller.jpg"
+        "icon": "images/heroes/skills/icons/zagara_hunterKiller.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zagara_thumb-hunterKiller.jpg"
       },
       {
         "name": "Infested Drop",
@@ -5008,8 +5008,8 @@ var heroes =
         "video": "iTv7rUGVkkQ",
         "slug": "infestedDrop",
         "analyticsName": "Infested Drop",
-        "icon": "/images/heroes/skills/icons/zagara_infestedDrop.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zagara_thumb-infestedDrop.jpg"
+        "icon": "images/heroes/skills/icons/zagara_infestedDrop.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zagara_thumb-infestedDrop.jpg"
       }
     ],
     "heroicAbilities": [
@@ -5019,8 +5019,8 @@ var heroes =
         "video": "1-jQFf-jHzc",
         "slug": "nydusNetwork",
         "analyticsName": "Nydus Network",
-        "icon": "/images/heroes/skills/icons/zagara_nydusNetwork.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zagara_thumb-nydusNetwork.jpg"
+        "icon": "images/heroes/skills/icons/zagara_nydusNetwork.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zagara_thumb-nydusNetwork.jpg"
       },
       {
         "name": "Devouring Maw",
@@ -5028,15 +5028,15 @@ var heroes =
         "video": "SHj6nVClykE",
         "slug": "devouringMaw",
         "analyticsName": "Devouring Maw",
-        "icon": "/images/heroes/skills/icons/zagara_devouringMaw.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zagara_thumb-devouringMaw.jpg"
+        "icon": "images/heroes/skills/icons/zagara_devouringMaw.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zagara_thumb-devouringMaw.jpg"
       }
     ],
     "revealed": true,
     "video": "CjDGWHMNA6A",
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/zagara.jpg"
+    "busts": "images/heroes/busts/zagara.jpg"
   },
   {
     "name": "Zeratul",
@@ -5062,49 +5062,49 @@ var heroes =
     "trait": {
       "name": "Permanent Cloak",
       "description": "Automatically cloak when out of combat for 3 seconds.   Taking damage, attacking, or channeling reveals you.",
-      "icon": "/images/heroes/skills/icons/zeratul_permanentCloak.jpg",
+      "icon": "images/heroes/skills/icons/zeratul_permanentCloak.jpg",
       "slug": "permanentCloak"
     },
     "skins": [
       {
         "name": "Dark Prelate",
         "analyticsName": "Dark Prelate",
-        "image": "/images/heroes/skins/frames/darkPrelate_frame.jpg",
+        "image": "images/heroes/skins/frames/darkPrelate_frame.jpg",
         "slug": "darkPrelate",
         "source": "/videos/heroes/skins/zeratul_darkPrelate",
-        "thumbnail": "/images/heroes/skins/thumbnails/zeratul_darkPrelate.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zeratul_darkPrelate.jpg"
       },
       {
         "name": "Master Zeratul",
         "analyticsName": "Master Zeratul",
-        "image": "/images/heroes/skins/frames/masterZeratul_frame.jpg",
+        "image": "images/heroes/skins/frames/masterZeratul_frame.jpg",
         "slug": "masterZeratul",
         "source": "/videos/heroes/skins/zeratul_masterZeratul",
-        "thumbnail": "/images/heroes/skins/thumbnails/zeratul_masterZeratul.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zeratul_masterZeratul.jpg"
       },
       {
         "name": "High Templar Zeratul",
         "analyticsName": "High Templar Zeratul",
-        "image": "/images/heroes/skins/frames/highTemplarZeratul_frame.jpg",
+        "image": "images/heroes/skins/frames/highTemplarZeratul_frame.jpg",
         "slug": "highTemplarZeratul",
         "source": "/videos/heroes/skins/zeratul_highTemplarZeratul",
-        "thumbnail": "/images/heroes/skins/thumbnails/zeratul_highTemplarZeratul.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zeratul_highTemplarZeratul.jpg"
       },
       {
         "name": "Ronin Zeratul",
         "analyticsName": "Ronin Zeratul",
-        "image": "/images/heroes/skins/frames/roninZeratul_frame.jpg",
+        "image": "images/heroes/skins/frames/roninZeratul_frame.jpg",
         "slug": "roninZeratul",
         "source": "/videos/heroes/skins/zeratul_roninZeratul",
-        "thumbnail": "/images/heroes/skins/thumbnails/zeratul_roninZeratul.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zeratul_roninZeratul.jpg"
       },
       {
         "name": "Zerg Hunter Zeratul",
         "analyticsName": "Zerg Hunter Zeratul",
-        "image": "/images/heroes/skins/frames/zergHunterZeratul_frame.jpg",
+        "image": "images/heroes/skins/frames/zergHunterZeratul_frame.jpg",
         "slug": "zergHunterZeratul",
         "source": "/videos/heroes/skins/zeratul_zergHunterZeratul",
-        "thumbnail": "/images/heroes/skins/thumbnails/zeratul_zergHunterZeratul.jpg"
+        "thumbnail": "images/heroes/skins/thumbnails/zeratul_zergHunterZeratul.jpg"
       }
     ],
     "abilities": [
@@ -5114,8 +5114,8 @@ var heroes =
         "video": "",
         "slug": "cleave",
         "analyticsName": "Cleave",
-        "icon": "/images/heroes/skills/icons/zeratul_cleave.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zeratul_cleave.jpg"
+        "icon": "images/heroes/skills/icons/zeratul_cleave.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zeratul_cleave.jpg"
       },
       {
         "name": "Singularity Spike",
@@ -5123,8 +5123,8 @@ var heroes =
         "video": "",
         "slug": "singularitySpike",
         "analyticsName": "Singularity Spike",
-        "icon": "/images/heroes/skills/icons/zeratul_singularitySpike.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zeratul_singularitySpike.jpg"
+        "icon": "images/heroes/skills/icons/zeratul_singularitySpike.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zeratul_singularitySpike.jpg"
       },
       {
         "name": "Blink",
@@ -5132,8 +5132,8 @@ var heroes =
         "video": "",
         "slug": "blink",
         "analyticsName": "Blink",
-        "icon": "/images/heroes/skills/icons/zeratul_blink.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zeratul_blink.jpg"
+        "icon": "images/heroes/skills/icons/zeratul_blink.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zeratul_blink.jpg"
       }
     ],
     "heroicAbilities": [
@@ -5143,8 +5143,8 @@ var heroes =
         "video": "",
         "slug": "voidPrison",
         "analyticsName": "Void Prison",
-        "icon": "/images/heroes/skills/icons/zeratul_voidPrison.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zeratul_voidPrison.jpg"
+        "icon": "images/heroes/skills/icons/zeratul_voidPrison.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zeratul_voidPrison.jpg"
       },
       {
         "name": "Shadow Assault",
@@ -5152,13 +5152,13 @@ var heroes =
         "video": "",
         "slug": "shadowAssault",
         "analyticsName": "Shadow Assault",
-        "icon": "/images/heroes/skills/icons/zeratul_shadowAssault.jpg",
-        "thumbnail": "/images/heroes/skills/thumbnails/zeratul_shadowAssault.jpg"
+        "icon": "images/heroes/skills/icons/zeratul_shadowAssault.jpg",
+        "thumbnail": "images/heroes/skills/thumbnails/zeratul_shadowAssault.jpg"
       }
     ],
     "revealed": true,
     "inFreeHeroRotation": false,
     "freeRotationMinLevel": 0,
-    "busts": "/images/heroes/busts/zeratul.jpg"
+    "busts": "images/heroes/busts/zeratul.jpg"
   }
 ];
