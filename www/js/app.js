@@ -31,62 +31,90 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   // Each state's controller can be found in controllers.js
   $stateProvider
 
-  // setup an abstract state for the tabs directive
-    .state('tab', {
-    url: '/tab',
+  .state('app', {
+    url: '/app',
     abstract: true,
-    templateUrl: 'templates/tabs.html'
+    templateUrl: 'templates/menu.html'
   })
 
-  // Each tab has its own nav history stack:
+  /*
+   * HEROES
+   */
 
-  .state('tab.dash', {
-    url: '/dash',
+  .state('app.heroes', {
+    url: '/heroes',
     views: {
-      'tab-dash': {
-        templateUrl: 'templates/tab-dash.html',
-        controller: 'DashCtrl'
+      'menuContent': {
+        templateUrl: 'templates/heroes/heroes.html',
+        controller: 'HeroesCtrl'
       }
     }
   })
-  .state('tab.chats', {
-    url: '/chats',
+  .state('app.heroes-detail', {
+    url: '/heroes/:heroSlug',
     views: {
-      'tab-chats': {
-        templateUrl: 'templates/tab-chats.html',
-        controller: 'ChatsCtrl'
+      'menuContent': {
+        templateUrl: 'templates/heroes/heroes-detail.html',
+        controller: 'HeroesDetailCtrl'
       }
     }
   })
-  .state('tab.chat-detail', {
-    url: '/chats/:chatId',
+
+  /*
+   * BATTLEGROUNDS
+   */
+
+  .state('app.battlegrounds', {
+    url: '/battlegrounds',
     views: {
-      'tab-chats': {
-        templateUrl: 'templates/chat-detail.html',
-        controller: 'ChatDetailCtrl'
+      'menuContent': {
+        templateUrl: 'templates/battlegrounds/battlegrounds.html'
+        //controller: 'HeroesDetailCtrl'
       }
     }
   })
-  .state('tab.account', {
-    url: '/account',
+
+  /*
+   * BATTLEGROUNDS
+   */
+
+  .state('app.news', {
+    url: '/news',
     views: {
-      'tab-account': {
-        templateUrl: 'templates/tab-account.html',
-        controller: 'AccountCtrl'
+      'menuContent': {
+        templateUrl: 'templates/news/news.html',
+        //controller: 'HeroesDetailCtrl'
       }
     }
   })
-  .state('tab.configuration', {
+
+  /*
+   * CONFIGURATION
+   */
+
+  .state('app.configuration', {
     url: '/configuration',
     views: {
-      'tab-configuration': {
-        templateUrl: 'templates/tab-configuration.html',
-        controller: 'ConfigurationCtrl'
+      'menuContent': {
+        templateUrl: 'templates/configuration/configuration.html',
+        //controller: 'HeroesDetailCtrl'
+      }
+    }
+  })
+  .state('app.configuration-developers', {
+    url: '/configuration/developers',
+    views: {
+      'menuContent': {
+        templateUrl: 'templates/configuration/configuration-developers.html',
+        //controller: 'HeroesDetailCtrl'
       }
     }
   });
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/dash');
+  $urlRouterProvider.otherwise('/app/heroes');
 
 });
+
+var controllers = angular.module('starter.controllers', []);
+var services = angular.module('starter.services', []);

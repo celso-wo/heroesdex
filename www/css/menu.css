@@ -1,0 +1,28 @@
+.menu {
+  background-color: #100527;
+}
+
+.menu .logo {
+  width: 100%;
+  padding: 0 50px;
+}
+
+.menu .item {
+  border-color: #100527;
+}
+
+.menu .item .item-content {
+  background-color: #100527;
+  font-family: 'Metronic';
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #FFF;
+  font-size: .8rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu-content .pane{
+  background-color: #0d0119;
+  color: #8eb1bc;
+}

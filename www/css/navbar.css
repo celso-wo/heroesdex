@@ -1,0 +1,22 @@
+.bar-heroesdex {
+  background-color: #0d0119;
+  color: #FFF;
+  font-family: 'Metronic';
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #FFF;
+  font-size: .8rem;
+  border-bottom: 1px solid #0d0119;
+}
+
+.tab-nav.tabs {
+  background-color: #0d0119;
+}
+
+span.tab-title {
+  font-family: 'Metronic';
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 10pt;
+  color: #FFF;
+}
