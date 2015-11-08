@@ -1,0 +1,13 @@
+<ion-view view-title="Heroes">
+  <ion-content>
+    <ion-list>
+      <ion-item class="item hero" ng-repeat="hero in heroes" href="#/app/heroes/{{hero.slug}}">
+        <img ng-src="{{hero.busts}}" class="busts {{hero.slug}}"/>
+        <div class="hero-container">
+          <h1>{{hero.name}}</h1>
+          <h2>{{hero.title}}</h2>
+        </div>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
