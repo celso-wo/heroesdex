@@ -23,38 +23,39 @@
 }
   .item.hero img {
     margin-top: -22px;
-    margin-left: -5%;
+    margin-left: -7%;
   }
 
   .item.hero .hero-container {
     position: absolute;
     top: 0;
     right: 0;
-    bottom: 0;
-    left: 0;
-    padding-left: 50%;
+    left: 27%;
+    height: 100px;
     padding-top: 10px;
-    background: linear-gradient(to right, rgba(255,0,0,0) 35%, RGBA(9, 1, 25, 1) 50%);
+    background: linear-gradient(to right, rgba(0,0,0,0) 0, RGBA(9, 1, 25, 1) 80px);
   }
     .item.hero .item-content {
       padding: 0;
     }
 
     .item.hero .hero-container h1 {
+      margin-left: 25%;
       font-family: 'Metronic';
       text-transform: uppercase;
       font-weight: 700;
       color: white;
-      font-size: 16pt;
+      font-size: 1.2em;
       text-shadow: rgb(0, 156, 255) 0px 0px 16px;
     }
 
     .item.hero .hero-container h2 {
+      margin-left: 25%;
       font-family: 'Metronic';
       text-transform: uppercase;
       font-weight: 400;
       color: #8eb1bc;
-      font-size: 8pt;
+      font-size: 0.7em;
     }
 
     .item.hero .busts.the-lost-vikings {

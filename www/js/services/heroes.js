@@ -3,7 +3,10 @@ services.factory('Heroes', function() {
     all: function() {
       return heroes;
     },
-    get: function(slug) {
+    get: function(index) {
+      return heroes[index];
+    },
+    getBySlug: function(slug) {
       var result = heroes.filter(function(hero) {
         if (hero.slug == slug) {
           return hero;

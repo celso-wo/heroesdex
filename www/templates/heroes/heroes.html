@@ -1,7 +1,9 @@
 <ion-view view-title="Heroes">
   <ion-content>
     <ion-list>
-      <ion-item class="item hero" ng-repeat="hero in heroes" href="#/app/heroes/{{hero.slug}}">
+      <ion-item class="item hero"
+                collection-repeat="hero in heroes track by $index"
+                href="#/app/heroes/{{$index}}">
         <img ng-src="{{hero.busts}}" class="busts {{hero.slug}}"/>
         <div class="hero-container">
           <h1>{{hero.name}}</h1>

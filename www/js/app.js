@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
+var app = angular.module('starter', ['ionic', 'templates', 'starter.controllers', 'starter.services'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -51,7 +51,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     }
   })
   .state('app.heroes-detail', {
-    url: '/heroes/:heroSlug',
+    url: '/heroes/:index',
     views: {
       'menuContent': {
         templateUrl: 'templates/heroes/heroes-detail.html',
@@ -115,6 +115,21 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   $urlRouterProvider.otherwise('/app/heroes');
 
 });
+
+app.config(function($compileProvider) {
+  $compileProvider.debugInfoEnabled(false);
+});
+
+app.config(function($animateProvider) {
+  $animateProvider.classNameFilter( /\banimated\b/);
+});
+
+app.config(function($ionicConfigProvider) {
+  $ionicConfigProvider.views.maxCache(5);
+  $ionicConfigProvider.scrolling.jsScrolling(false);
+});
+
+var controllers = angular.module('templates', []);
 
 var controllers = angular.module('starter.controllers', []);
 var services = angular.module('starter.services', []);

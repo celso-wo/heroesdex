@@ -1,13 +1,13 @@
 <ion-slide-box class="hero-slide-box">
   <ion-slide ng-repeat="skin in hero.skins">
     <div class="hero-slide">
-      <img ng-src="{{skin.image}}"></img>
+      <img ng-src="{{::skin.image}}"></img>
       <div class="hero-slide-content">
-        <h2>{{skin.name}}</h2>
+        <h2>{{::skin.name}}</h2>
       </div>
     </div>
   </ion-slide>
 </ion-slide-box>
 <div class="padding">
-  {{hero.description}}
+  {{::hero.description}}
 </div>

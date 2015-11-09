@@ -3,5 +3,11 @@ controllers.controller('HeroesCtrl', function($scope, Heroes) {
 });
 
 controllers.controller('HeroesDetailCtrl', function($scope, $stateParams, Heroes) {
-  $scope.hero = Heroes.get($stateParams.heroSlug);
+  $scope.$on('$ionicView.beforeEnter', function() {
+    $scope.hero = Heroes.get($stateParams.index);
+  });
+
+  $scope.$on('$ionicView.afterEnter', function() {
+    $scope.viewTitle = $scope.hero.name;
+  });
 });
