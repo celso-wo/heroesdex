@@ -1,5 +1,13 @@
 <ion-view view-title="Battlegrounds">
   <ion-content>
-    {{battlegrounds.name}}
+    <ion-list>
+    <ion-item class="item battleground"
+              collection-repeat="battleground in battlegrounds">
+            <div class="battleground-container">
+              <img ng-src="{{battleground.image}}" style="width: 100%;"/>
+              <h1>{{battleground.name}}</h1>
+            </div>
+    </ion-item>
+  </ion-list>
   </ion-content>
 </ion-view>

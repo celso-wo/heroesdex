@@ -68,8 +68,8 @@ var app = angular.module('starter', ['ionic', 'templates', 'starter.controllers'
     url: '/battlegrounds',
     views: {
       'menuContent': {
-        templateUrl: 'templates/battlegrounds/battlegrounds.html'
-        //controller: 'HeroesDetailCtrl'
+        templateUrl: 'templates/battlegrounds/battlegrounds.html',
+        controller: 'BattlegroundsCtrl'
       }
     }
   })
