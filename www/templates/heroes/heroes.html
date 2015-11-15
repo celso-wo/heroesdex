@@ -8,6 +8,10 @@
         <div class="hero-container">
           <h1>{{hero.name}}</h1>
           <h2>{{hero.title}}</h2>
+          <span class="heroes-icons">
+            <i class="heroes-icon-role-{{hero.role.slug}} checked"></i>
+            <i class="heroes-icon-universe-{{hero.franchise}} checked"></i>
+          </span>
         </div>
       </ion-item>
     </ion-list>

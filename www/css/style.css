@@ -15,6 +15,99 @@
     font-style: normal
 }
 
+@font-face {
+  font-family: heroes-icon;
+  src: url(../fonts/heroes.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+[class*=" heroes-icon-"],[class^=heroes-icon-] {
+  font-family: heroes-icon;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.heroes-icon-universe-warcraft:before {
+  content: "\e600";
+}
+
+.heroes-icon-universe-starcraft:before {
+  content: "\e601";
+}
+
+.heroes-icon-universe-diablo:before {
+  content: "\e602";
+}
+
+.heroes-icon-universe-retro:before {
+  content: "\e607";
+}
+
+.heroes-icon-role-warrior:before {
+  content: "\e603";
+}
+
+.heroes-icon-role-support:before {
+  content: "\e604";
+}
+
+.heroes-icon-role-specialist:before {
+  content: "\e605";
+}
+
+.heroes-icon-role-assassin:before {
+  content: "\e606";
+}
+
+.heroes-icon-role-warrior.checked,.heroes-icon-universe-starcraft.checked {
+  opacity: 1;
+  color: #4ca0ff;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
+.heroes-icon-role-assassin.checked,.heroes-icon-universe-diablo.checked {
+  opacity: 1;
+  color: #ff8da3;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
+.heroes-icon-role-support.checked {
+  opacity: 1;
+  color: #02e9d9;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
+.heroes-icon-role-specialist.checked {
+  opacity: 1;
+  color: #c571ff;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
+.heroes-icon-universe-warcraft.checked {
+  opacity: 1;
+  color: #ffe0a4;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
+.heroes-icon-universe-retro.checked {
+  opacity: 1;
+  color: #06acf9;
+  font-smoothing: antialiased;
+  font-size: 30px;
+}
+
 .item.hero {
   padding: 0;
   border-color: #090119;
@@ -56,6 +149,10 @@
       font-weight: 400;
       color: #8eb1bc;
       font-size: 0.7em;
+    }
+
+    .item.hero .hero-container .heroes-icons {
+      margin-left: 25%;
     }
 
     .item.hero .busts.the-lost-vikings {
