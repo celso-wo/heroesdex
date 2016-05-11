@@ -1,1 +1,10 @@
-abilities
+<div ng-repeat="ability in hero.abilities">
+  <p>{{ability.name}}</p>
+  <p>{{ability.description}}</p>
+  <img src="{{ability.icon}}"/>
+</div>
+<div ng-repeat="heroicAbility in hero.heroicAbilities">
+  <p>{{heroicAbility.name}}</p>
+  <p>{{heroicAbility.description}}</p>
+  <img src="{{heroicAbility.icon}}"/>
+</div>
